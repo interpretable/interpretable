@@ -8,7 +8,7 @@ COPY package.json .
 COPY yarn.lock .
 RUN yarn install
 # Copy app files
-COPY .. .
+COPY . .
 
 # Expose port
 EXPOSE 3000

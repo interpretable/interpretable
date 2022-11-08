@@ -104,7 +104,13 @@ export class AnalyticsContainer extends Component {
           (accumulator, currentValue) => accumulator.concat(currentValue),
           []
         );
-      const sources = ['arasaac', 'mulberry', 'cboard', 'globalsymbols'];
+      const sources = [
+        'arasaac',
+        'mulberry',
+        'cboard',
+        'globalsymbols',
+        'interpretable'
+      ];
       const summary = images.reduce(function(all, image) {
         sources.forEach(source => {
           try {

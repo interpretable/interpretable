@@ -1,0 +1,49 @@
+apiVersion: v1
+kind: Config
+clusters:
+  - name: "prod-erasme-scw"
+    cluster:
+      server: "https://rancher.erasme.org/k8s/clusters/c-m-ls255pvz"
+      certificate-authority-data: "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUM3akNDQ\
+      WRhZ0F3SUJBZ0lCQURBTkJna3Foa2lHOXcwQkFRc0ZBREFvTVJJd0VBWURWUVFLRXdsMGFHVXQKY\
+      21GdVkyZ3hFakFRQmdOVkJBTVRDV05oZEhSc1pTMWpZVEFlRncweE9UQTJNVGd3TnpVM01USmFGd\
+      zB5T1RBMgpNVFV3TnpVM01USmFNQ2d4RWpBUUJnTlZCQW9UQ1hSb1pTMXlZVzVqYURFU01CQUdBM\
+      VVFQXhNSlkyRjBkR3hsCkxXTmhNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ\
+      0tDQVFFQXlRb1MwRU1xbGlXeGllMVkKbUpWYXN2aGpQYm5qQzFiVVUrc2lIMXhFR1plMmZlVFE4a\
+      VY0c2VjVmZmWGhSZzAxeEtXSkU3d1d6RklNMjkyTAphaXZYMWlUQlJ3TUhtRzJCeWk3a2RpeU94d\
+      k5ObEtRUTNzeG1SLytmejJkUjhQUDlFYnA3M3VFYkh3WDQ1a2ZPCmF4cm9GQlNqOFRPdWtVeFdGc\
+      1JqNDZDRUVWUmc4UnBXdzUxaUNta3psTXJzRkR4Uzh3M2RnTnpsSnlXZEdpd3EKRjNYTXJ1Wk0vL\
+      zRWaHFHUjdZdDF4cXdXeFJabUFEWkc4c3dGcmFtSjgxb0JDQ0xqaUJhVE40cjBGaU5ieWgwcwowR\
+      jdQcTBibllNOCtqZVVwTkFGbGNyaHlvQzl1elJkUFpmSEpNMlAyV1p2eG0zNXdYdDFSdE52Mjd3M\
+      jBTNGRZClkybmczd0lEQVFBQm95TXdJVEFPQmdOVkhROEJBZjhFQkFNQ0FxUXdEd1lEVlIwVEFRS\
+      C9CQVV3QXdFQi96QU4KQmdrcWhraUc5dzBCQVFzRkFBT0NBUUVBaW1idlZrMUtSdGtmL04xQUdFc\
+      TZCa29pOG80N29VaE5uZ2NPc1ZmSwo5THMzVW4yT3QvNnZqTlM1aXJtS1c0bm5tZnd0cmR0REZGb\
+      Vg3OUplWWxoSFZxSXBOYmFkdlRIcTdDeTdGcFppCmxNUnd0TitGbFZ6NlZhWHVNajI5U2QwR1JkY\
+      mdKVjM1dTA3dmg0OTUvVXFjNE9USzFvWXNGQmNhMEFOUWJhWjIKSkRMSEhEMTcwYlZIWm92WUlMe\
+      EpYazZkMHorbjA3eDA5a2xVUE5yajU2UGtYb3kzSjRQcXRlbVhKSU50YmVtdwpqSFR5c3BVMS9WU\
+      Hk2b2VNd3duTkxpUjFGY3FlSFpoRDRXZEVuSi9IK2gvR0ROSlUrTEZiNFc0b2h5cjVWVTRkCnUvU\
+      nhnZEVndnJQUmFWSS84aytsMzEyVUwxNDA3Ti96TEhIdWVnVFp1ZVVUVmc9PQotLS0tLUVORCBDR\
+      VJUSUZJQ0FURS0tLS0t"
+
+users:
+  - name: "prod-erasme-scw"
+
+contexts:
+  - name: "prod-erasme-scw"
+    context:
+      user: "prod-erasme-scw"
+      cluster: "prod-erasme-scw"
+
+  - name: "interpretable-staging"
+    context:
+      user: "prod-erasme-scw"
+      cluster: "prod-erasme-scw"
+      namespace: "staging"
+
+  - name: "interpretable-production"
+    context:
+      user: "prod-erasme-scw"
+      cluster: "prod-erasme-scw"
+      namespace: "production"
+
+current-context: "interpretable-staging"

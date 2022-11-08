@@ -60,6 +60,15 @@ module.exports = {
           name: 'symbols-cboard'
         }
       }
+    },
+    {
+      urlPattern: /\/symbols\/interpretable/,
+      handler: 'cacheFirst',
+      options: {
+        cache: {
+          name: 'symbols-interpretable'
+        }
+      }
     }
   ],
   dontCacheBustUrlsMatching: /\.\w{8}\./,
