@@ -2,7 +2,7 @@
   "beginner": [],
   "advanced": [
     {
-      "id": "Racine",
+      "id": "racine",
       "name": "Racine",
       "nameKey": "Racine",
       "author": "Interpretable",
@@ -11,110 +11,269 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Racine",
-          "loadBoard": "Accueil",
+          "board": "racine",
+          "loadBoard": "accueil",
           "row": "1",
           "column": "1",
-          "id": "Attendre son tour",
+          "id": "racine_attendre-son-tour",
           "label": "Attendre son tour",
-          "image": "/symbols/interpretable/attendre_son_tour.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#9ee281"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Attendre son tour à l_accueil.svg"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Corps",
+          "board": "racine",
+          "loadBoard": "administratif",
+          "row": "1",
+          "column": "2",
+          "id": "racine_carte-d-identite",
+          "label": "Carte d'identité",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "autonomie",
+          "row": "1",
+          "column": "3",
+          "id": "racine_deambulateur",
+          "label": "Déambulateur",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Déambulateur.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "autre",
+          "row": "3",
+          "column": "4",
+          "id": "racine_point-d-interrogation",
+          "label": "Point d'interrogation",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "besoin",
           "row": null,
           "column": null,
-          "id": "Corps femme de face",
+          "id": "racine_besoins-de-necessite",
+          "label": "Besoins de nécessité",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "cadre-et-habitude-de-vie",
+          "row": null,
+          "column": null,
+          "id": "racine_type-d-habitat",
+          "label": "Type d'habitat",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "corps",
+          "row": null,
+          "column": null,
+          "id": "racine_corps-femme-de-face",
           "label": "Corps femme de face",
-          "image": "/symbols/interpretable/corps_femme_de_face.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Emotions",
+          "board": "racine",
+          "loadBoard": "droit-et-aide",
           "row": null,
           "column": null,
-          "id": "Bonheur",
+          "id": "racine_maison-de-la-metropole",
+          "label": "Maison de la Métropole",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Maison de la métropole.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "emotions",
+          "row": null,
+          "column": null,
+          "id": "racine_bonheur",
           "label": "Bonheur",
-          "image": "/symbols/interpretable/bonheur.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bonheur.svg"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Finances",
+          "board": "racine",
+          "loadBoard": "famille",
           "row": null,
           "column": null,
-          "id": "Euros",
+          "id": "racine_famille-elargie",
+          "label": "Famille élargie",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille élargie.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "finances",
+          "row": null,
+          "column": null,
+          "id": "racine_euros",
           "label": "Euros",
-          "image": "/symbols/interpretable/euros.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Euros.svg"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Hygiène",
+          "board": "racine",
+          "loadBoard": "general",
           "row": null,
           "column": null,
-          "id": "Salle de bains",
+          "id": "racine_jours-francais",
+          "label": "Jours français",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Jours de la semaine Français.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "hygiene",
+          "row": null,
+          "column": null,
+          "id": "racine_salle-de-bains",
           "label": "Salle de bains",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Solitude.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Salle de bain.svg"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Loisirs",
+          "board": "racine",
+          "loadBoard": "individu",
           "row": null,
           "column": null,
-          "id": "Piscine municipale",
+          "id": "racine_famille-nucleaire",
+          "label": "Famille nucléaire",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "loisirs",
+          "row": null,
+          "column": null,
+          "id": "racine_piscine-municipale",
           "label": "Piscine municipale",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.svg"
         },
         {
-          "board": "Racine",
-          "loadBoard": "Acteurs",
+          "board": "racine",
+          "loadBoard": "metropole-de-lyon",
           "row": null,
           "column": null,
-          "id": "Restaurants du coeur",
+          "id": "racine_metropole-de-lyon",
+          "label": "Métropole de Lyon",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "migrant",
+          "row": null,
+          "column": null,
+          "id": "racine_planisphere-drapeaux",
+          "label": "Planisphère drapeaux",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Planisphère drapeaux.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "rendez-vous",
+          "row": null,
+          "column": null,
+          "id": "racine_rendez-vous",
+          "label": "Rendez-vous",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "sante",
+          "row": null,
+          "column": null,
+          "id": "racine_infirmiere",
+          "label": "Infirmière",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "acteurs",
+          "row": null,
+          "column": null,
+          "id": "racine_restaurants-du-coeur",
           "label": "Restaurants du coeur",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Les restaurants du coeur.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Les restaurants du coeur.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "besoin",
+          "row": null,
+          "column": null,
+          "id": "racine_besoin",
+          "label": "Besoin",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Besoins premières nécessités.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "handicap",
+          "row": null,
+          "column": null,
+          "id": "racine_handicap",
+          "label": "Handicap",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Handicap Physique - Aveugle.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "habillage",
+          "row": null,
+          "column": null,
+          "id": "racine_habillage",
+          "label": "Habillage",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "enfant-bebe",
+          "row": null,
+          "column": null,
+          "id": "racine_enfant-bebe",
+          "label": "Enfant / bébé",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "alimentation",
+          "row": null,
+          "column": null,
+          "id": "racine_alimentation",
+          "label": "Alimentation",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "violence",
+          "row": null,
+          "column": null,
+          "id": "racine_violence",
+          "label": "Violence",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Violences physiques.svg"
+        },
+        {
+          "board": "racine",
+          "loadBoard": "precarite",
+          "row": null,
+          "column": null,
+          "id": "racine_precarite",
+          "label": "Précarité",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Personne en situation de grande précarité.svg"
         }
       ]
     },
     {
-      "id": "Accueil",
+      "id": "accueil",
       "name": "Accueil",
       "nameKey": "Accueil",
-      "author": "Interpretable",
-      "email": "interpretable@erasme.io",
-      "isPublic": true,
-      "hidden": false,
-      "tiles": [
-        {
-          "board": "Accueil",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Rendez-vous",
-          "label": "Rendez-vous",
-          "image": "/symbols/interpretable/j_ai_rendez_vous.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        }
-      ]
-    },
-    {
-      "id": "Administratif",
-      "name": "Administratif",
-      "nameKey": "Administratif",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
@@ -122,7 +281,211 @@
       "tiles": []
     },
     {
-      "id": "Autonomie",
+      "id": "administratif",
+      "name": "Administratif",
+      "nameKey": "Administratif",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carnet-de-sante",
+          "label": "Carnet de santé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carnet de santé.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-assurance-maladie",
+          "label": "Carte assurance maladie",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte assurance maladie.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-d-identite",
+          "label": "Carte d'identité",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-de-mutuelle",
+          "label": "Carte de mutuelle",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_stationnement-handicape",
+          "label": "Stationnement handicapé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte de stationnement handicapé.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-tecely",
+          "label": "Carte Técély",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte técély.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-oura",
+          "label": "Carte Oura",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte Oura.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_carte-sncf",
+          "label": "Carte SNCF",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte SNCF.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_fiche-de-paie",
+          "label": "Fiche de paie",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fiche de paie.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_avis-d-imposition",
+          "label": "Avis d'imposition",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_justificatif-de-logement",
+          "label": "Justificatif de logement",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Justificatif de logement.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_livret-de-famille",
+          "label": "Livret de famille",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Livret de famille.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_pass-sanitaire",
+          "label": "Pass sanitaire",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Personne en situation de grande précarité.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_passeport",
+          "label": "Passeport",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Passeport.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_recepisse-demande-d-asile",
+          "label": "Récépissé demande d'asile",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_taxe-fonciere",
+          "label": "Taxe foncière",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Taxe foncière.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_titre-de-sejour",
+          "label": "Titre de séjour",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Titre de séjour.svg"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_facture-eau",
+          "label": "Facture Eau",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_facture-telephone",
+          "label": "Facture Téléphone",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "administratif",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "administratif_factue-assurance",
+          "label": "Factue assurance",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    {
+      "id": "autonomie",
       "name": "Autonomie",
       "nameKey": "Autonomie",
       "author": "Interpretable",
@@ -131,31 +494,199 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Autonomie",
+          "board": "autonomie",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Appeler",
+          "id": "autonomie_appeler",
           "label": "Appeler",
-          "image": "/symbols/interpretable/appeler.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#9ee281"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Appeler-Composer un numéro.svg"
         },
         {
-          "board": "Autonomie",
+          "board": "autonomie",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Raccrocher",
+          "id": "autonomie_decrocher",
+          "label": "Décrocher",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Décrocher le téléphone.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_raccrocher",
           "label": "Raccrocher",
-          "image": "/symbols/interpretable/raccrocher.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#9ee281"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Raccrocher le téléphone.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_charger-le-telephone",
+          "label": "Charger le téléphone",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_bracelet-de-teleassistance",
+          "label": "Bracelet de téléassistance",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_se-mettre-au-lit",
+          "label": "Se mettre au lit",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Se mettre au lit.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_se-lever-du-lit",
+          "label": "Se lever du lit",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Se lever du lit.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_faire-le-menage",
+          "label": "Faire le ménage",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_faire-ses-courses",
+          "label": "Faire ses courses",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Faire ses courses.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_laver-son-linge",
+          "label": "Laver son linge",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Laver son linge.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_couper-nourriture",
+          "label": "Couper nourriture",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_ouvrir-un-contenant",
+          "label": "Ouvrir un contenant",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Ouvrir un contenant.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_portage-de-repas",
+          "label": "Portage de repas",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_porter-a-la-bouche",
+          "label": "Porter à la bouche",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Porter la fourchette à la bouche.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_rechauffer-le-repas",
+          "label": "Réchauffer le repas",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_perimetre-de-marche",
+          "label": "Périmètre de marche",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_besoin-d-aide-pour-se-deplacer",
+          "label": "Besoin d'aide pour se déplacer",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_soutien-de-l-entourage",
+          "label": "Soutien de l'entourage",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_aide-menagere",
+          "label": "Aide ménagère",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Aide ménagère.svg"
+        },
+        {
+          "board": "autonomie",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "autonomie_auxiliaire-de-vie",
+          "label": "Auxiliaire de vie",
+          "backgroundColor": "rgb(255, 255, 255)"
         }
       ]
     },
     {
-      "id": "Autre",
+      "id": "autre",
       "name": "Autre",
       "nameKey": "Autre",
       "author": "Interpretable",
@@ -165,7 +696,7 @@
       "tiles": []
     },
     {
-      "id": "Besoin",
+      "id": "besoin",
       "name": "Besoin",
       "nameKey": "Besoin",
       "author": "Interpretable",
@@ -175,7 +706,7 @@
       "tiles": []
     },
     {
-      "id": "Cadre et habitude de vie",
+      "id": "cadre-et-habitude-de-vie",
       "name": "Cadre et habitude de vie",
       "nameKey": "Cadre et habitude de vie",
       "author": "Interpretable",
@@ -185,9 +716,38 @@
       "tiles": []
     },
     {
-      "id": "Corps",
+      "id": "corps",
       "name": "Corps",
       "nameKey": "Corps",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "corps",
+          "loadBoard": "parties-du-corps",
+          "row": null,
+          "column": null,
+          "id": "corps_partie-du-corps",
+          "label": "Partie du corps",
+          "backgroundColor": "rgb(187, 222, 251)"
+        },
+        {
+          "board": "corps",
+          "loadBoard": "5-sens",
+          "row": null,
+          "column": null,
+          "id": "corps_5-sens",
+          "label": "5 sens",
+          "backgroundColor": "rgb(187, 222, 251)"
+        }
+      ]
+    },
+    {
+      "id": "droit-et-aide",
+      "name": "Droit et aide",
+      "nameKey": "Droit et aide",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
@@ -195,29 +755,7 @@
       "tiles": []
     },
     {
-      "id": "Droit et aide",
-      "name": "Droit et aide",
-      "nameKey": "Droit et aide",
-      "author": "Interpretable",
-      "email": "interpretable@erasme.io",
-      "isPublic": true,
-      "hidden": false,
-      "tiles": [
-        {
-          "board": "Droit et aide",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Psychologue",
-          "label": "Psychologue",
-          "image": "/symbols/interpretable/psychologue.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        }
-      ]
-    },
-    {
-      "id": "Expression",
+      "id": "expression",
       "name": "Expression",
       "nameKey": "Expression",
       "author": "Interpretable",
@@ -227,333 +765,383 @@
       "tiles": []
     },
     {
-      "id": "Famille",
+      "id": "famille",
       "name": "Famille",
       "nameKey": "Famille",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": []
+      "tiles": [
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_famille-elargie",
+          "label": "Famille élargie",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille élargie.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_couple",
+          "label": "Couple",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Couple.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_famille-recomposee",
+          "label": "Famille recomposée",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille recomposée.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_famille-adoptive",
+          "label": "Famille adoptive",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille adoptive.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_mariage",
+          "label": "Mariage",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Mariage.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_famille-nucleaire",
+          "label": "Famille nucléaire",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_famille-monoparentale",
+          "label": "Famille monoparentale",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille monoparentale.svg"
+        },
+        {
+          "board": "famille",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "famille_nombre-d-enfants",
+          "label": "Nombre d'enfants",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
     },
     {
-      "id": "Finances",
+      "id": "finances",
       "name": "Finances",
       "nameKey": "Finances",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": []
+      "tiles": [
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_ressources-financieres",
+          "label": "Ressources financières",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Ressources financières.svg"
+        },
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_carte-bleue",
+          "label": "Carte bleue",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte bleue.svg"
+        },
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_euros",
+          "label": "Euros",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Euros.svg"
+        },
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_dollars",
+          "label": "Dollars",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Dollars.svg"
+        },
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_mandat-sepa",
+          "label": "Mandat SEPA",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Mandat SEPA.svg"
+        },
+        {
+          "board": "finances",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "finances_cheque",
+          "label": "Chèque",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Chèque.svg"
+        }
+      ]
     },
     {
-      "id": "Général",
+      "id": "general",
       "name": "Général",
       "nameKey": "Général",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": [
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Soleil",
-          "label": "Soleil",
-          "image": "/symbols/interpretable/soleil.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Pluie",
-          "label": "Pluie",
-          "image": "/symbols/interpretable/pluie.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Nuage",
-          "label": "Nuage",
-          "image": "/symbols/interpretable/nuage.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Nuage et soleil",
-          "label": "Nuage et soleil",
-          "image": "/symbols/interpretable/nuage_et_soleil.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Orage",
-          "label": "Orage",
-          "image": "/symbols/interpretable/orage.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Neige",
-          "label": "Neige",
-          "image": "/symbols/interpretable/neige.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Printemps",
-          "label": "Printemps",
-          "image": "/symbols/interpretable/printemps.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Eté",
-          "label": "Eté",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Enfant témoin de violence.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Automne",
-          "label": "Automne",
-          "image": "/symbols/interpretable/automne.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Hiver",
-          "label": "Hiver",
-          "image": "/symbols/interpretable/hiver.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Saisons",
-          "label": "Saisons",
-          "image": "/symbols/interpretable/saisons.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Aveugle",
-          "label": "Aveugle",
-          "image": "/symbols/interpretable/aveugle.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Handicap Manque un membre",
-          "label": "Handicap Manque un membre",
-          "image": "/symbols/interpretable/handicap_manque_un_membre.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Température eau bébé",
-          "label": "Température eau bébé",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Température sommeil bébé.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Général",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Température air",
-          "label": "Température air",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Température.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        }
-      ]
+      "tiles": []
     },
     {
-      "id": "Hygiène",
+      "id": "hygiene",
       "name": "Hygiène",
       "nameKey": "Hygiène",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": [
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Baignoire",
-          "label": "Baignoire",
-          "image": "/symbols/interpretable/baignoire.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Douche",
-          "label": "Douche",
-          "image": "/symbols/interpretable/douche.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Moustique",
-          "label": "Moustique",
-          "image": "/symbols/interpretable/moustique.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Poux",
-          "label": "Poux",
-          "image": "/symbols/interpretable/poux.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Rasage",
-          "label": "Rasage",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Rasage.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dentition bonne",
-          "label": "Dentition bonne",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dentition bonne.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dents sales",
-          "label": "Dents sales",
-          "image": "/symbols/interpretable/dents_sales.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dent cassée",
-          "label": "Dent cassée",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dent cassée.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Hygiène",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dentier",
-          "label": "Dentier",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dentier.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        }
-      ]
+      "tiles": []
     },
     {
-      "id": "Individu",
+      "id": "individu",
       "name": "Individu",
       "nameKey": "Individu",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": []
+      "tiles": [
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_sans-papier-sans-papier-2",
+          "label": "Sans papier\nSans papier 2",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Sans papier - 2.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_demandeur-d-asile",
+          "label": "Demandeur d'asile",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_personnes-agees",
+          "label": "Personnes âgées",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_individu",
+          "label": "Individu",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_INDIVIDU.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_homme-adulte",
+          "label": "Homme adulte",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Homme adulte.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_femme-adulte",
+          "label": "Femme adulte",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Femme adulte.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_enfant",
+          "label": "Enfant",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Enfant.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_bebe",
+          "label": "Bébé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bébé.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_bebe",
+          "label": "Bébé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bébé.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_adolescent",
+          "label": "Adolescent",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Adolescent.svg"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_personne-agee-femme",
+          "label": "Personne âgée Femme",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_personne-agee-homme",
+          "label": "Personne âgée Homme",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "individu",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "individu_personne-precaire",
+          "label": "Personne précaire",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
     },
     {
-      "id": "Loisirs",
+      "id": "loisirs",
       "name": "Loisirs",
       "nameKey": "Loisirs",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": []
+      "tiles": [
+        {
+          "board": "loisirs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "loisirs_mediatheque",
+          "label": "Médiathèque",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Médiathèque.svg"
+        },
+        {
+          "board": "loisirs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "loisirs_ludotheque",
+          "label": "Ludothèque",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Ludothèque.svg"
+        },
+        {
+          "board": "loisirs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "loisirs_centre-de-loisirs",
+          "label": "Centre de loisirs",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Centre de loisirs.svg"
+        },
+        {
+          "board": "loisirs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "loisirs_piscine-municipale",
+          "label": "Piscine municipale",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.svg"
+        },
+        {
+          "board": "loisirs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "loisirs_ecouter-de-la-musique",
+          "label": "Écouter de la musique",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
     },
     {
-      "id": "Métropole de Lyon",
+      "id": "metropole-de-lyon",
       "name": "Métropole de Lyon",
       "nameKey": "Métropole de Lyon",
       "author": "Interpretable",
@@ -563,9 +1151,50 @@
       "tiles": []
     },
     {
-      "id": "Migrant",
+      "id": "migrant",
       "name": "Migrant",
       "nameKey": "Migrant",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "migrant",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "migrant_famille-au-pays",
+          "label": "Famille au pays",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Famille restée au pays.svg"
+        },
+        {
+          "board": "migrant",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "migrant_contacts-au-pays",
+          "label": "Contacts au pays",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Contacts avec la famille restée au pays.svg"
+        },
+        {
+          "board": "migrant",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "migrant_enfants-au-pays",
+          "label": "Enfants au pays",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Enfants restés au pays.svg"
+        }
+      ]
+    },
+    {
+      "id": "sante",
+      "name": "Santé",
+      "nameKey": "Santé",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
@@ -573,139 +1202,7 @@
       "tiles": []
     },
     {
-      "id": "Santé",
-      "name": "Santé",
-      "nameKey": "Santé",
-      "author": "Interpretable",
-      "email": "interpretable@erasme.io",
-      "isPublic": true,
-      "hidden": false,
-      "tiles": [
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Carte assurance maladie",
-          "label": "Carte assurance maladie",
-          "image": "/symbols/interpretable/carte_assurance_maladie.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Carte de mutuelle",
-          "label": "Carte de mutuelle",
-          "image": "/symbols/interpretable/carte_de_mutuelle.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "CIDAG",
-          "label": "CIDAG",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Cuillères dosages médicament.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "CDHS",
-          "label": "CDHS",
-          "image": "/symbols/interpretable/Base_interpretable_V17_CDHS.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Hôpital",
-          "label": "Hôpital",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Hôpital.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Pompier",
-          "label": "Pompier",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pompier.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "SAMU",
-          "label": "SAMU",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Ambulance",
-          "label": "Ambulance",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Transport en ambulance.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Orthophoniste",
-          "label": "Orthophoniste",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Orthophoniste.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Médecin",
-          "label": "Médecin",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Médecins du monde.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        },
-        {
-          "board": "Santé",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Pédiatre",
-          "label": "Pédiatre",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pédiatre.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
-        }
-      ]
-    },
-    {
-      "id": "Acteurs",
+      "id": "acteurs",
       "name": "Acteurs",
       "nameKey": "Acteurs",
       "author": "Interpretable",
@@ -714,339 +1211,290 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Acteurs",
+          "board": "acteurs",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Médecins du monde",
-          "label": "Médecins du monde",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Médecins du monde.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "id": "acteurs_conseiller-conjugual",
+          "label": "Conseiller conjugual",
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
-          "board": "Acteurs",
+          "board": "acteurs",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Police",
+          "id": "acteurs_psychologue",
+          "label": "Psychologue",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Psychologue.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_dentiste",
+          "label": "Dentiste",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Dentiste.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_kinesitherapeute",
+          "label": "Kinésithérapeute",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Kinésithérapeuthe.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_dermatologue",
+          "label": "Dermatologue",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_infirmiere",
+          "label": "Infirmière",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_bus-info-sante",
+          "label": "Bus info santé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Justificatif de logement téléphone.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_caisse-allocation-familiale",
+          "label": "Caisse allocation familiale",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_ccas",
+          "label": "CCAS",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Accouchement voie basse.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_centre-social",
+          "label": "Centre social",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_cattp",
+          "label": "CATTP",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte mutuelle santé complémentaire.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_cidag",
+          "label": "CIDAG",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Cuillères dosages médicament.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_centre-medico-psychiatrique",
+          "label": "Centre médico-psychiatrique",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_cdhs",
+          "label": "CDHS",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_CDHS.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_securite-sociale",
+          "label": "Sécurité sociale",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_hopital",
+          "label": "Hôpital",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Hôpital.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_laboratoire-d-analyse",
+          "label": "Laboratoire d'analyse",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_mairie",
+          "label": "Mairie",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Mairie.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_police",
           "label": "Police",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Police.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Police.svg"
         },
         {
-          "board": "Acteurs",
+          "board": "acteurs",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "TCL",
+          "id": "acteurs_pompier",
+          "label": "Pompier",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pompier.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_prefecture",
+          "label": "Préfecture",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Préfecture.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_samu",
+          "label": "SAMU",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carte mutuelle santé complémentaire.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_tcl",
           "label": "TCL",
-          "image": "/symbols/interpretable/Base_interpretable_V17_TCL.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_TCL.svg"
         },
         {
-          "board": "Acteurs",
+          "board": "acteurs",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Tribunal",
+          "id": "acteurs_tribunal",
           "label": "Tribunal",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Tribunal.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Tribunal.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_orthophoniste",
+          "label": "Orthophoniste",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Orthophoniste.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_medecin",
+          "label": "Médecin",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Médecin.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_pediatre",
+          "label": "Pédiatre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pédiatre.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "acteurs_assistante-sociale",
+          "label": "Assistante sociale",
+          "backgroundColor": "rgb(255, 255, 255)"
         }
       ]
     },
     {
-      "id": "Parties du corps",
+      "id": "parties-du-corps",
       "name": "Parties du corps",
       "nameKey": "Parties du corps",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": [
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Corps homme de face",
-          "label": "Corps homme de face",
-          "image": "/symbols/interpretable/corps_homme_de_face.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Corps homme de dos",
-          "label": "Corps homme de dos",
-          "image": "/symbols/interpretable/corps_homme_de_dos.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Corps femme de face",
-          "label": "Corps femme de face",
-          "image": "/symbols/interpretable/corps_femme_de_face.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Corps femme de dos",
-          "label": "Corps femme de dos",
-          "image": "/symbols/interpretable/corps_femme_de_dos.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Buste femme",
-          "label": "Buste femme",
-          "image": "/symbols/interpretable/buste_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dos femme",
-          "label": "Dos femme",
-          "image": "/symbols/interpretable/dos_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Pieds femme",
-          "label": "Pieds femme",
-          "image": "/symbols/interpretable/pieds_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Jambes femme",
-          "label": "Jambes femme",
-          "image": "/symbols/interpretable/jambes_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Haut du corps femme",
-          "label": "Haut du corps femme",
-          "image": "/symbols/interpretable/haut_du_corps_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Bas du corps femme",
-          "label": "Bas du corps femme",
-          "image": "/symbols/interpretable/bas_du_corps_femme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Buste homme",
-          "label": "Buste homme",
-          "image": "/symbols/interpretable/buste_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dos homme",
-          "label": "Dos homme",
-          "image": "/symbols/interpretable/dos_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Pieds homme",
-          "label": "Pieds homme",
-          "image": "/symbols/interpretable/pieds_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Jambes homme",
-          "label": "Jambes homme",
-          "image": "/symbols/interpretable/jambes_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Haut du corps homme",
-          "label": "Haut du corps homme",
-          "image": "/symbols/interpretable/haut_du_corps_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Bas du corps homme",
-          "label": "Bas du corps homme",
-          "image": "/symbols/interpretable/bas_du_corps_homme.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Cheveux",
-          "label": "Cheveux",
-          "image": "/symbols/interpretable/cheveux.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Visage",
-          "label": "Visage",
-          "image": "/symbols/interpretable/visage.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Oreilles",
-          "label": "Oreilles",
-          "image": "/symbols/interpretable/oreilles.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Mains",
-          "label": "Mains",
-          "image": "/symbols/interpretable/mains.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Doigts",
-          "label": "Doigts",
-          "image": "/symbols/interpretable/doigts.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Ongles",
-          "label": "Ongles",
-          "image": "/symbols/interpretable/ongles.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Bouche",
-          "label": "Bouche",
-          "image": "/symbols/interpretable/bouche.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Dents",
-          "label": "Dents",
-          "image": "/symbols/interpretable/dents.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        },
-        {
-          "board": "Parties du corps",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "Nez",
-          "label": "Nez",
-          "image": "/symbols/interpretable/nez.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
-        }
-      ]
+      "tiles": []
     },
     {
-      "id": "Habillement",
+      "id": "habillement",
       "name": "Habillement",
       "nameKey": "Habillement",
       "author": "Interpretable",
@@ -1055,20 +1503,48 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Habillement",
+          "board": "habillement",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Boutons de vêtement",
+          "id": "habillement_chaussettes",
+          "label": "Chaussettes",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Chaussettes.svg"
+        },
+        {
+          "board": "habillement",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillement_chaussure-a-lacets",
+          "label": "Chaussure à lacets",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Chaussures à lacets.svg"
+        },
+        {
+          "board": "habillement",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillement_boutons-de-vetement",
           "label": "Boutons de vêtement",
-          "image": "/symbols/interpretable/boutons_de_vêtement.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habillement",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillement_fermeture-eclair",
+          "label": "Fermeture éclair",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fermeture éclair.svg"
         }
       ]
     },
     {
-      "id": "Rendez-vous",
+      "id": "rendez-vous",
       "name": "Rendez-vous",
       "nameKey": "Rendez-vous",
       "author": "Interpretable",
@@ -1077,31 +1553,46 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Rendez-vous",
+          "board": "rendez-vous",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Planning familial",
+          "id": "rendez-vous_planning-familial",
           "label": "Planning familial",
-          "image": "/symbols/interpretable/planning_familial.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#ffb33f"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Planning familial.svg"
         },
         {
-          "board": "Rendez-vous",
+          "board": "rendez-vous",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Je veux un rdv",
+          "id": "rendez-vous_j-ai-rendez-vous",
+          "label": "J'ai rendez-vous",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "rendez-vous",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "rendez-vous_j-ai-deja-reu-rdv",
+          "label": "J'ai déjà reu rdv",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "rendez-vous",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "rendez-vous_je-veux-un-rdv",
           "label": "Je veux un rdv",
-          "image": "/symbols/interpretable/je_veux_un_rdv.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#9ee281"
+          "backgroundColor": "rgb(255, 255, 255)"
         }
       ]
     },
     {
-      "id": "Emotions",
+      "id": "emotions",
       "name": "Emotions",
       "nameKey": "Emotions",
       "author": "Interpretable",
@@ -1110,72 +1601,1646 @@
       "hidden": false,
       "tiles": [
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Fatigue",
+          "id": "emotions_deprime",
+          "label": "Déprime",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_fatigue",
           "label": "Fatigue",
-          "image": "/symbols/interpretable/fatigue.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fatigue.svg"
         },
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Tristesse",
+          "id": "emotions_fatigue",
+          "label": "Fatigue",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fatigue.svg"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_tristesse",
           "label": "Tristesse",
-          "image": "/symbols/interpretable/tristesse.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Tristesse.svg"
         },
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Peur",
+          "id": "emotions_colere",
+          "label": "Colère",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Colère.svg"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_peur",
           "label": "Peur",
-          "image": "/symbols/interpretable/peur.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Peur Anxieté v2.svg"
         },
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Content",
+          "id": "emotions_content",
           "label": "Content",
-          "image": "/symbols/interpretable/content.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_bulle content.svg"
         },
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Pas content",
+          "id": "emotions_pas-content",
           "label": "Pas content",
-          "image": "/symbols/interpretable/pas_content.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_bulle pas content.svg"
         },
         {
-          "board": "Emotions",
+          "board": "emotions",
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "Bonheur",
+          "id": "emotions_bonheur",
           "label": "Bonheur",
-          "image": "/symbols/interpretable/bonheur.png",
-          "fontColor": "#000000",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bonheur.svg"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_angoisse",
+          "label": "Angoisse",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_delire-et-hallucination",
+          "label": "Délire et hallucination",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Délire hallucination.svg"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_depression",
+          "label": "Dépression",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Dépression.svg"
+        },
+        {
+          "board": "emotions",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emotions_solitude",
+          "label": "Solitude",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Solitude.svg"
         }
       ]
+    },
+    {
+      "id": "habitat",
+      "name": "Habitat",
+      "nameKey": "Habitat",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "habitat",
+          "loadBoard": "insalubrite",
+          "row": null,
+          "column": null,
+          "id": "habitat_insalubrite",
+          "label": "Insalubrité",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Insalubrité éléctrique.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": "equipement-du-logement",
+          "row": null,
+          "column": null,
+          "id": "habitat_logement-range",
+          "label": "Logement rangé",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Logement rangé.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_chez-un-ami-famille",
+          "label": "Chez un ami/famille",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_dans-la-rue",
+          "label": "Dans la rue",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Dormir dans la rue.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_dans-un-squat",
+          "label": "Dans un squat",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_voisins",
+          "label": "Voisins",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Voisins.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_combien-d-habitants",
+          "label": "Combien d'habitants",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_hebergement-precaire-temporaire",
+          "label": "Hébergement précaire/temporaire",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_locataire",
+          "label": "Locataire",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Locataire.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_proprietaire",
+          "label": "Propriétaire",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Propriétaire.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_type-d-habitat",
+          "label": "Type d'habitat",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_tente",
+          "label": "Tente",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Tente.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_logement-sale",
+          "label": "Logement sale",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Logement rangé.svg"
+        },
+        {
+          "board": "habitat",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habitat_logement-propre",
+          "label": "Logement propre",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    {
+      "id": "besoin",
+      "name": "Besoin",
+      "nameKey": "Besoin",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "equipement-du-logement",
+      "name": "Equipement du logement",
+      "nameKey": "Equipement du logement",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "emploi",
+      "name": "Emploi",
+      "nameKey": "Emploi",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "emploi",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emploi_metier-intellectuel",
+          "label": "Métier intellectuel",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Métier intellectuel.svg"
+        },
+        {
+          "board": "emploi",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emploi_metier-manuel",
+          "label": "Métier manuel",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Métier manuel.svg"
+        },
+        {
+          "board": "emploi",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emploi_ne-travaille-pas",
+          "label": "Ne travaille pas",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Ne travaille pas.svg"
+        },
+        {
+          "board": "emploi",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "emploi_retraite",
+          "label": "Retraité",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Retraité.svg"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "nameKey": "Transport",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_avion",
+          "label": "Avion",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Avion.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_bateau",
+          "label": "Bâteau",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bâteau.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_bus",
+          "label": "Bus",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bus.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_metro",
+          "label": "Métro",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Métro.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_moto",
+          "label": "Moto",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Moto.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_train",
+          "label": "Train",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Train.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_trottinette",
+          "label": "Trottinette",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Trottinette.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_velo",
+          "label": "Vélo",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Vélo.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_voiture",
+          "label": "Voiture",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Voiture.svg"
+        },
+        {
+          "board": "transport",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "transport_ambulance",
+          "label": "Ambulance",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Transport en ambulance.svg"
+        }
+      ]
+    },
+    {
+      "id": "insalubrite",
+      "name": "Insalubrité",
+      "nameKey": "Insalubrité",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "mode-de-garde",
+      "name": "Mode de garde",
+      "nameKey": "Mode de garde",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "5-sens",
+      "name": "5 sens",
+      "nameKey": "5 sens",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "objets-du-quotidien",
+      "name": "Objets du quotidien",
+      "nameKey": "Objets du quotidien",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "handicap",
+      "name": "Handicap",
+      "nameKey": "Handicap",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_aveugle",
+          "label": "Aveugle",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Handicap Physique - Aveugle.svg"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_handicap-manque-un-membre",
+          "label": "Handicap Manque un membre",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_handicap-psychique-fauteuil",
+          "label": "Handicap psychique Fauteuil",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_canne",
+          "label": "Canne",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Canne.svg"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_deambulateur",
+          "label": "Déambulateur",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Déambulateur.svg"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_fauteuil-roulant-electrique",
+          "label": "Fauteuil roulant éléctrique",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fauteuil roulant éléctrique.svg"
+        },
+        {
+          "board": "handicap",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "handicap_fauteuil-roulant-manuel",
+          "label": "Fauteuil roulant manuel",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fauteuil roulant manuel.svg"
+        }
+      ]
+    },
+    {
+      "id": "enfant-bebe",
+      "name": "Enfant / bébé",
+      "nameKey": "Enfant / bébé",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "geographie",
+      "name": "Géographie",
+      "nameKey": "Géographie",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "habillage",
+      "name": "Habillage",
+      "nameKey": "Habillage",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "habillage",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillage_vetements-hiver",
+          "label": "Vêtements hiver",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habillage",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillage_vetements-ete",
+          "label": "Vêtements été",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "habillage",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "habillage_vetements-mi-saison",
+          "label": "Vêtements mi-saison",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    {
+      "id": "alimentation",
+      "name": "Alimentation",
+      "nameKey": "Alimentation",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_assiette-avec-repas",
+          "label": "Assiette avec repas",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Assiette avec repas.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_boite-a-repas",
+          "label": "Boîte à repas",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Boîte repas à emporter.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_boire",
+          "label": "Boire",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Boire.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_manger-mal",
+          "label": "Manger mal",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Manger salement - Manger proprement.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_eau-bouteille",
+          "label": "Eau bouteille",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Eau en bouteille.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_viande",
+          "label": "Viande",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Viande.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_poisson",
+          "label": "Poisson",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Poisson.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_crevette",
+          "label": "Crevette",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Crevette - fruits de mer.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_oeuf",
+          "label": "Œuf",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Œuf.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_pates",
+          "label": "Pâtes",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pâtes.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_riz",
+          "label": "Riz",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Riz.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_mais",
+          "label": "Maïs",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Maïs.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_pomme-de-terre",
+          "label": "Pomme de terre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pomme de terre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_patate-douce",
+          "label": "Patate douce",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Patate douce ---.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_biscuit",
+          "label": "Biscuit",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Biscuit.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_yaourt",
+          "label": "Yaourt",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_lait",
+          "label": "Lait",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Lait.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_fromage",
+          "label": "Fromage",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_bonbons",
+          "label": "Bonbons",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Bonbon - sucette.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_soda",
+          "label": "Soda",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Soda.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_confiture",
+          "label": "Confiture",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Confiture.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_viennoiserie",
+          "label": "Viennoiserie",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Viennoiserie.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_frites",
+          "label": "Frites",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Frites.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_chips",
+          "label": "Chips",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Chips.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_raisin",
+          "label": "Raisin",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Raisin.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_banane",
+          "label": "Banane",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Banane.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_fraise",
+          "label": "Fraise",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fraise.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_clementine",
+          "label": "Clémentine",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Clémentine.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_cerise",
+          "label": "Cerise",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Cerise.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_orange",
+          "label": "Orange",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Orange.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_compote",
+          "label": "Compote",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Compote.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_pomme",
+          "label": "Pomme",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pomme.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_noix-de-coco",
+          "label": "Noix de coco",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Noix de coco.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_abricot",
+          "label": "Abricot",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Abricot.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_citron",
+          "label": "Citron",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Citron.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_poire",
+          "label": "Poire",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Poire.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_melon",
+          "label": "Melon",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Melon.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_pasteque",
+          "label": "Pastèque",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pastèque.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_poivron",
+          "label": "Poivron",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Poivrons rouge vert jaune.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_brocolis",
+          "label": "Brocolis",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Brocolis.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_carotte",
+          "label": "Carotte",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Carotte.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_petits-pois",
+          "label": "Petits pois",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Petits pois.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_tomate",
+          "label": "Tomate",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Tomate.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_aubergine",
+          "label": "Aubergine",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Aubergine.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_champignon",
+          "label": "Champignon",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Champignon.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_concombre",
+          "label": "Concombre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Concombre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_courgette",
+          "label": "Courgette",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Courgette.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_poireau",
+          "label": "Poireau",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Poireau.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_soupe",
+          "label": "Soupe",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Soupe.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_petit-pot-bebe",
+          "label": "Petit pot bébé",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Voiture bébé.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_vache",
+          "label": "Vache",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Vache.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_lait-de-vache",
+          "label": "Lait de vache",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Lait de vache.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_yaourt-vache-chevre",
+          "label": "Yaourt vache chèvre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt de vache et de chèvre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_yaourt-vache-chevre",
+          "label": "Yaourt vache chèvre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt de vache et de chèvre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_fromage-de-vache",
+          "label": "Fromage de vache",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage de vache.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_mouton",
+          "label": "Mouton",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Mouton.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_chevre",
+          "label": "Chèvre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Chèvre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_fruits-a-coque",
+          "label": "Fruits à coque",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fruits à coque.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_lait-d-amande",
+          "label": "Lait d'amande",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_fromage-de-chevre",
+          "label": "Fromage de chèvre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage de chèvre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_lait-en-poudre",
+          "label": "Lait en poudre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V18_lait_poudre.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_chauffe-lait",
+          "label": "Chauffe-lait",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V18_chauffe_lait.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_tester-temperature-lait",
+          "label": "Tester température lait",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_quantite-de-lait",
+          "label": "Quantité de lait",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_enfant-mange-seul",
+          "label": "Enfant mange seul",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_horaire-des-repas",
+          "label": "Horaire des repas",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Horaires de repas.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_habitudes-alimentaires",
+          "label": "Habitudes alimentaires",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_aimer-manger",
+          "label": "Aimer manger",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Manger salement - Manger proprement.svg"
+        },
+        {
+          "board": "alimentation",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "alimentation_manger-suffisament",
+          "label": "Manger suffisament",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    {
+      "id": "sante-femme",
+      "name": "Santé femme",
+      "nameKey": "Santé femme",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "addiction",
+      "name": "Addiction",
+      "nameKey": "Addiction",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_alcool",
+          "label": "Alcool",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Alcool.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_cannabis",
+          "label": "Cannabis",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_cigarette",
+          "label": "Cigarette",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Cigarette.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_drogue-dure",
+          "label": "Drogue dure",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Drogue dure.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_pas-de-tabac",
+          "label": "Pas de tabac",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Pas de cigarette.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_ordinateur",
+          "label": "Ordinateur",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Ordinateur.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_porno",
+          "label": "Porno",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Porno.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_reseaux-sociaux",
+          "label": "Réseaux sociaux",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Réseaux sociaux.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_smartphone",
+          "label": "Smartphone",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Smartphone.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_vapoteur",
+          "label": "Vapoteur",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Vapoteur.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_consommation-tabac",
+          "label": "Consommation tabac",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Consommation tabac.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_consommation-alcool",
+          "label": "Consommation alcool",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Consommation d_alcool.svg"
+        },
+        {
+          "board": "addiction",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "addiction_frequence-d-utilisation-tv",
+          "label": "Fréquence d'utilisation TV",
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    {
+      "id": "sexualite",
+      "name": "Sexualité",
+      "nameKey": "Sexualité",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
+    },
+    {
+      "id": "violence",
+      "name": "Violence",
+      "nameKey": "Violence",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": [
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_guerre",
+          "label": "Guerre",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Guerre.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_sequestration",
+          "label": "Séquestration",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Séquestration.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-sexuelle",
+          "label": "Violence sexuelle",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-entre-enfants",
+          "label": "Violence entre enfants",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-entre-parents",
+          "label": "Violence entre parents",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-parent-enfant",
+          "label": "Violence parent enfant",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-enfant-parent",
+          "label": "Violence enfant parent",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_enfant-temoin-de-violence",
+          "label": "Enfant témoin de violence",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Enfant témoin de violence.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_reprendre-le-picto-ventre-tete-bas-et-le-picto-ventre-tete-haut-colorer-le-bebe-du-ventre-tete-haut-en-gris-mettre-picto-tete-en-bas-a-gauche-et-coller-sur-la-droite-picto-tete-en-haut-les-deux-pictos-separes-par-un-trait-vertical",
+          "label": "Reprendre le picto \"ventre tête bas\" et le picto \"ventre tête haut\". Colorer le bébé du ventre tête haut en gris. Mettre picto \"tête en bas à gauche\", et coller sur la droite \"picto tête en haut\", les deux pictos séparés par un trait vertical",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-physique",
+          "label": "Violence physique",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Violences physiques.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-psychologique",
+          "label": "Violence psychologique",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Violences psychologiques.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_violence-psychologique-2",
+          "label": "Violence psychologique 2",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Violences psychologiques 2.svg"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_dispute",
+          "label": "Dispute",
+          "backgroundColor": "rgb(255, 255, 255)"
+        },
+        {
+          "board": "violence",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "violence_vol",
+          "label": "Vol",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/Base_interpretable_V17_Vol d_objet.svg"
+        }
+      ]
+    },
+    {
+      "id": "precarite",
+      "name": "Précarité",
+      "nameKey": "Précarité",
+      "author": "Interpretable",
+      "email": "interpretable@erasme.io",
+      "isPublic": true,
+      "hidden": false,
+      "tiles": []
     }
   ]
 }
