@@ -18,16 +18,17 @@
           "id": "racine_attendre-son-tour",
           "label": "Attendre son tour",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Attendre son tour à l_accueil.svg"
+          "image": "/symbols/interpretable/attendre_son_tour.svg"
         },
         {
           "board": "racine",
           "loadBoard": "administratif",
           "row": "1",
           "column": "2",
-          "id": "racine_carte-d-identite",
-          "label": "Carte d'identité",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "id": "racine_administratif",
+          "label": "Administratif",
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/administratif.svg"
         },
         {
           "board": "racine",
@@ -37,7 +38,7 @@
           "id": "racine_deambulateur",
           "label": "Déambulateur",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Déambulateur.svg"
+          "image": "/symbols/interpretable/deambulateur.svg"
         },
         {
           "board": "racine",
@@ -46,7 +47,8 @@
           "column": "4",
           "id": "racine_point-d-interrogation",
           "label": "Point d'interrogation",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/point_d_interrogation.svg"
         },
         {
           "board": "racine",
@@ -55,7 +57,8 @@
           "column": null,
           "id": "racine_besoins-de-necessite",
           "label": "Besoins de nécessité",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/besoins_de_necessite.svg"
         },
         {
           "board": "racine",
@@ -64,7 +67,8 @@
           "column": null,
           "id": "racine_type-d-habitat",
           "label": "Type d'habitat",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/type_d_habitat.svg"
         },
         {
           "board": "racine",
@@ -73,7 +77,8 @@
           "column": null,
           "id": "racine_corps-femme-de-face",
           "label": "Corps femme de face",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/corps_femme_de_face.svg"
         },
         {
           "board": "racine",
@@ -83,7 +88,7 @@
           "id": "racine_maison-de-la-metropole",
           "label": "Maison de la Métropole",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Maison de la métropole.svg"
+          "image": "/symbols/interpretable/maison_de_la_metropole.svg"
         },
         {
           "board": "racine",
@@ -93,7 +98,7 @@
           "id": "racine_bonheur",
           "label": "Bonheur",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bonheur.svg"
+          "image": "/symbols/interpretable/bonheur.svg"
         },
         {
           "board": "racine",
@@ -103,7 +108,7 @@
           "id": "racine_famille-elargie",
           "label": "Famille élargie",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille élargie.svg"
+          "image": "/symbols/interpretable/famille_elargie.svg"
         },
         {
           "board": "racine",
@@ -113,7 +118,7 @@
           "id": "racine_euros",
           "label": "Euros",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Euros.svg"
+          "image": "/symbols/interpretable/euros.svg"
         },
         {
           "board": "racine",
@@ -123,7 +128,7 @@
           "id": "racine_jours-francais",
           "label": "Jours français",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Jours de la semaine Français.svg"
+          "image": "/symbols/interpretable/jours_francais.svg"
         },
         {
           "board": "racine",
@@ -133,7 +138,7 @@
           "id": "racine_salle-de-bains",
           "label": "Salle de bains",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Salle de bain.svg"
+          "image": "/symbols/interpretable/salle_de_bains.svg"
         },
         {
           "board": "racine",
@@ -142,7 +147,8 @@
           "column": null,
           "id": "racine_famille-nucleaire",
           "label": "Famille nucléaire",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/famille_nucleaire.svg"
         },
         {
           "board": "racine",
@@ -152,7 +158,7 @@
           "id": "racine_piscine-municipale",
           "label": "Piscine municipale",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.svg"
+          "image": "/symbols/interpretable/piscine_municipale.svg"
         },
         {
           "board": "racine",
@@ -171,7 +177,7 @@
           "id": "racine_planisphere-drapeaux",
           "label": "Planisphère drapeaux",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Planisphère drapeaux.svg"
+          "image": "/symbols/interpretable/planisphere_drapeaux.svg"
         },
         {
           "board": "racine",
@@ -189,7 +195,8 @@
           "column": null,
           "id": "racine_infirmiere",
           "label": "Infirmière",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/infirmiere.svg"
         },
         {
           "board": "racine",
@@ -199,7 +206,7 @@
           "id": "racine_restaurants-du-coeur",
           "label": "Restaurants du coeur",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Les restaurants du coeur.svg"
+          "image": "/symbols/interpretable/restaurants_du_coeur.svg"
         },
         {
           "board": "racine",
@@ -209,7 +216,7 @@
           "id": "racine_besoin",
           "label": "Besoin",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Besoins premières nécessités.svg"
+          "image": "/symbols/interpretable/besoin.svg"
         },
         {
           "board": "racine",
@@ -219,7 +226,7 @@
           "id": "racine_handicap",
           "label": "Handicap",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Handicap Physique - Aveugle.svg"
+          "image": "/symbols/interpretable/handicap.svg"
         },
         {
           "board": "racine",
@@ -228,7 +235,8 @@
           "column": null,
           "id": "racine_habillage",
           "label": "Habillage",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/habillage.svg"
         },
         {
           "board": "racine",
@@ -237,7 +245,8 @@
           "column": null,
           "id": "racine_enfant-bebe",
           "label": "Enfant / bébé",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/enfant_bebe.svg"
         },
         {
           "board": "racine",
@@ -246,7 +255,8 @@
           "column": null,
           "id": "racine_alimentation",
           "label": "Alimentation",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/alimentation.svg"
         },
         {
           "board": "racine",
@@ -256,7 +266,7 @@
           "id": "racine_violence",
           "label": "Violence",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Violences physiques.svg"
+          "image": "/symbols/interpretable/violence.svg"
         },
         {
           "board": "racine",
@@ -266,7 +276,7 @@
           "id": "racine_precarite",
           "label": "Précarité",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Personne en situation de grande précarité.svg"
+          "image": "/symbols/interpretable/precarite.svg"
         }
       ]
     },
@@ -297,7 +307,7 @@
           "id": "administratif_carnet-de-sante",
           "label": "Carnet de santé",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carnet de santé.svg"
+          "image": "/symbols/interpretable/carnet_de_sante.svg"
         },
         {
           "board": "administratif",
@@ -307,7 +317,7 @@
           "id": "administratif_carte-assurance-maladie",
           "label": "Carte assurance maladie",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte assurance maladie.svg"
+          "image": "/symbols/interpretable/carte_assurance_maladie.svg"
         },
         {
           "board": "administratif",
@@ -316,7 +326,8 @@
           "column": null,
           "id": "administratif_carte-d-identite",
           "label": "Carte d'identité",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/carte_d_identite.svg"
         },
         {
           "board": "administratif",
@@ -325,7 +336,8 @@
           "column": null,
           "id": "administratif_carte-de-mutuelle",
           "label": "Carte de mutuelle",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/carte_de_mutuelle.svg"
         },
         {
           "board": "administratif",
@@ -335,7 +347,7 @@
           "id": "administratif_stationnement-handicape",
           "label": "Stationnement handicapé",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte de stationnement handicapé.svg"
+          "image": "/symbols/interpretable/stationnement_handicape.svg"
         },
         {
           "board": "administratif",
@@ -345,7 +357,7 @@
           "id": "administratif_carte-tecely",
           "label": "Carte Técély",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte técély.svg"
+          "image": "/symbols/interpretable/carte_tecely.svg"
         },
         {
           "board": "administratif",
@@ -355,7 +367,7 @@
           "id": "administratif_carte-oura",
           "label": "Carte Oura",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte Oura.svg"
+          "image": "/symbols/interpretable/carte_oura.svg"
         },
         {
           "board": "administratif",
@@ -365,7 +377,7 @@
           "id": "administratif_carte-sncf",
           "label": "Carte SNCF",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte SNCF.svg"
+          "image": "/symbols/interpretable/carte_sncf.svg"
         },
         {
           "board": "administratif",
@@ -375,7 +387,7 @@
           "id": "administratif_fiche-de-paie",
           "label": "Fiche de paie",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fiche de paie.svg"
+          "image": "/symbols/interpretable/fiche_de_paie.svg"
         },
         {
           "board": "administratif",
@@ -384,7 +396,8 @@
           "column": null,
           "id": "administratif_avis-d-imposition",
           "label": "Avis d'imposition",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/avis_d_imposition.svg"
         },
         {
           "board": "administratif",
@@ -394,7 +407,7 @@
           "id": "administratif_justificatif-de-logement",
           "label": "Justificatif de logement",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Justificatif de logement.svg"
+          "image": "/symbols/interpretable/justificatif_de_logement.svg"
         },
         {
           "board": "administratif",
@@ -404,7 +417,7 @@
           "id": "administratif_livret-de-famille",
           "label": "Livret de famille",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Livret de famille.svg"
+          "image": "/symbols/interpretable/livret_de_famille.svg"
         },
         {
           "board": "administratif",
@@ -413,8 +426,7 @@
           "column": null,
           "id": "administratif_pass-sanitaire",
           "label": "Pass sanitaire",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Personne en situation de grande précarité.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "administratif",
@@ -424,7 +436,7 @@
           "id": "administratif_passeport",
           "label": "Passeport",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Passeport.svg"
+          "image": "/symbols/interpretable/passeport.svg"
         },
         {
           "board": "administratif",
@@ -433,7 +445,8 @@
           "column": null,
           "id": "administratif_recepisse-demande-d-asile",
           "label": "Récépissé demande d'asile",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/recepisse_demande_d_asile.svg"
         },
         {
           "board": "administratif",
@@ -443,7 +456,7 @@
           "id": "administratif_taxe-fonciere",
           "label": "Taxe foncière",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Taxe foncière.svg"
+          "image": "/symbols/interpretable/taxe_fonciere.svg"
         },
         {
           "board": "administratif",
@@ -453,7 +466,7 @@
           "id": "administratif_titre-de-sejour",
           "label": "Titre de séjour",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Titre de séjour.svg"
+          "image": "/symbols/interpretable/titre_de_sejour.svg"
         },
         {
           "board": "administratif",
@@ -462,7 +475,8 @@
           "column": null,
           "id": "administratif_facture-eau",
           "label": "Facture Eau",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/facture_eau.svg"
         },
         {
           "board": "administratif",
@@ -471,7 +485,8 @@
           "column": null,
           "id": "administratif_facture-telephone",
           "label": "Facture Téléphone",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/facture_telephone.svg"
         },
         {
           "board": "administratif",
@@ -501,7 +516,7 @@
           "id": "autonomie_appeler",
           "label": "Appeler",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Appeler-Composer un numéro.svg"
+          "image": "/symbols/interpretable/appeler.svg"
         },
         {
           "board": "autonomie",
@@ -511,7 +526,7 @@
           "id": "autonomie_decrocher",
           "label": "Décrocher",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Décrocher le téléphone.svg"
+          "image": "/symbols/interpretable/decrocher.svg"
         },
         {
           "board": "autonomie",
@@ -521,7 +536,7 @@
           "id": "autonomie_raccrocher",
           "label": "Raccrocher",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Raccrocher le téléphone.svg"
+          "image": "/symbols/interpretable/raccrocher.svg"
         },
         {
           "board": "autonomie",
@@ -549,7 +564,7 @@
           "id": "autonomie_se-mettre-au-lit",
           "label": "Se mettre au lit",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Se mettre au lit.svg"
+          "image": "/symbols/interpretable/se_mettre_au_lit.svg"
         },
         {
           "board": "autonomie",
@@ -559,7 +574,7 @@
           "id": "autonomie_se-lever-du-lit",
           "label": "Se lever du lit",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Se lever du lit.svg"
+          "image": "/symbols/interpretable/se_lever_du_lit.svg"
         },
         {
           "board": "autonomie",
@@ -578,7 +593,7 @@
           "id": "autonomie_faire-ses-courses",
           "label": "Faire ses courses",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Faire ses courses.svg"
+          "image": "/symbols/interpretable/faire_ses_courses.svg"
         },
         {
           "board": "autonomie",
@@ -588,7 +603,7 @@
           "id": "autonomie_laver-son-linge",
           "label": "Laver son linge",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Laver son linge.svg"
+          "image": "/symbols/interpretable/laver_son_linge.svg"
         },
         {
           "board": "autonomie",
@@ -607,7 +622,7 @@
           "id": "autonomie_ouvrir-un-contenant",
           "label": "Ouvrir un contenant",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Ouvrir un contenant.svg"
+          "image": "/symbols/interpretable/ouvrir_un_contenant.svg"
         },
         {
           "board": "autonomie",
@@ -626,7 +641,7 @@
           "id": "autonomie_porter-a-la-bouche",
           "label": "Porter à la bouche",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Porter la fourchette à la bouche.svg"
+          "image": "/symbols/interpretable/porter_a_la_bouche.svg"
         },
         {
           "board": "autonomie",
@@ -672,7 +687,7 @@
           "id": "autonomie_aide-menagere",
           "label": "Aide ménagère",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Aide ménagère.svg"
+          "image": "/symbols/interpretable/aide_menagere.svg"
         },
         {
           "board": "autonomie",
@@ -731,7 +746,8 @@
           "column": null,
           "id": "corps_partie-du-corps",
           "label": "Partie du corps",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/partie_du_corps.svg"
         },
         {
           "board": "corps",
@@ -740,7 +756,8 @@
           "column": null,
           "id": "corps_5-sens",
           "label": "5 sens",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/5_sens.svg"
         }
       ]
     },
@@ -781,7 +798,7 @@
           "id": "famille_famille-elargie",
           "label": "Famille élargie",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille élargie.svg"
+          "image": "/symbols/interpretable/famille_elargie.svg"
         },
         {
           "board": "famille",
@@ -791,7 +808,7 @@
           "id": "famille_couple",
           "label": "Couple",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Couple.svg"
+          "image": "/symbols/interpretable/couple.svg"
         },
         {
           "board": "famille",
@@ -801,7 +818,7 @@
           "id": "famille_famille-recomposee",
           "label": "Famille recomposée",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille recomposée.svg"
+          "image": "/symbols/interpretable/famille_recomposee.svg"
         },
         {
           "board": "famille",
@@ -811,7 +828,7 @@
           "id": "famille_famille-adoptive",
           "label": "Famille adoptive",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille adoptive.svg"
+          "image": "/symbols/interpretable/famille_adoptive.svg"
         },
         {
           "board": "famille",
@@ -821,7 +838,7 @@
           "id": "famille_mariage",
           "label": "Mariage",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Mariage.svg"
+          "image": "/symbols/interpretable/mariage.svg"
         },
         {
           "board": "famille",
@@ -830,7 +847,8 @@
           "column": null,
           "id": "famille_famille-nucleaire",
           "label": "Famille nucléaire",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/famille_nucleaire.svg"
         },
         {
           "board": "famille",
@@ -840,7 +858,7 @@
           "id": "famille_famille-monoparentale",
           "label": "Famille monoparentale",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille monoparentale.svg"
+          "image": "/symbols/interpretable/famille_monoparentale.svg"
         },
         {
           "board": "famille",
@@ -849,7 +867,8 @@
           "column": null,
           "id": "famille_nombre-d-enfants",
           "label": "Nombre d'enfants",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/nombre_d_enfants.svg"
         }
       ]
     },
@@ -870,7 +889,7 @@
           "id": "finances_ressources-financieres",
           "label": "Ressources financières",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Ressources financières.svg"
+          "image": "/symbols/interpretable/ressources_financieres.svg"
         },
         {
           "board": "finances",
@@ -880,7 +899,7 @@
           "id": "finances_carte-bleue",
           "label": "Carte bleue",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte bleue.svg"
+          "image": "/symbols/interpretable/carte_bleue.svg"
         },
         {
           "board": "finances",
@@ -890,7 +909,7 @@
           "id": "finances_euros",
           "label": "Euros",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Euros.svg"
+          "image": "/symbols/interpretable/euros.svg"
         },
         {
           "board": "finances",
@@ -900,7 +919,7 @@
           "id": "finances_dollars",
           "label": "Dollars",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dollars.svg"
+          "image": "/symbols/interpretable/dollars.svg"
         },
         {
           "board": "finances",
@@ -910,7 +929,7 @@
           "id": "finances_mandat-sepa",
           "label": "Mandat SEPA",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Mandat SEPA.svg"
+          "image": "/symbols/interpretable/mandat_sepa.svg"
         },
         {
           "board": "finances",
@@ -920,7 +939,7 @@
           "id": "finances_cheque",
           "label": "Chèque",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Chèque.svg"
+          "image": "/symbols/interpretable/cheque.svg"
         }
       ]
     },
@@ -960,8 +979,7 @@
           "column": null,
           "id": "individu_sans-papier-sans-papier-2",
           "label": "Sans papier\nSans papier 2",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Sans papier - 2.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "individu",
@@ -989,7 +1007,7 @@
           "id": "individu_individu",
           "label": "Individu",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_INDIVIDU.svg"
+          "image": "/symbols/interpretable/individu.svg"
         },
         {
           "board": "individu",
@@ -999,7 +1017,7 @@
           "id": "individu_homme-adulte",
           "label": "Homme adulte",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Homme adulte.svg"
+          "image": "/symbols/interpretable/homme_adulte.svg"
         },
         {
           "board": "individu",
@@ -1009,7 +1027,7 @@
           "id": "individu_femme-adulte",
           "label": "Femme adulte",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Femme adulte.svg"
+          "image": "/symbols/interpretable/femme_adulte.svg"
         },
         {
           "board": "individu",
@@ -1019,7 +1037,7 @@
           "id": "individu_enfant",
           "label": "Enfant",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Enfant.svg"
+          "image": "/symbols/interpretable/enfant.svg"
         },
         {
           "board": "individu",
@@ -1029,17 +1047,7 @@
           "id": "individu_bebe",
           "label": "Bébé",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bébé.svg"
-        },
-        {
-          "board": "individu",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "individu_bebe",
-          "label": "Bébé",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bébé.svg"
+          "image": "/symbols/interpretable/bebe.svg"
         },
         {
           "board": "individu",
@@ -1049,7 +1057,7 @@
           "id": "individu_adolescent",
           "label": "Adolescent",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Adolescent.svg"
+          "image": "/symbols/interpretable/adolescent.svg"
         },
         {
           "board": "individu",
@@ -1058,7 +1066,8 @@
           "column": null,
           "id": "individu_personne-agee-femme",
           "label": "Personne âgée Femme",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/personne_agee_femme.svg"
         },
         {
           "board": "individu",
@@ -1067,7 +1076,8 @@
           "column": null,
           "id": "individu_personne-agee-homme",
           "label": "Personne âgée Homme",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/personne_agee_homme.svg"
         },
         {
           "board": "individu",
@@ -1076,7 +1086,8 @@
           "column": null,
           "id": "individu_personne-precaire",
           "label": "Personne précaire",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/personne_precaire.svg"
         }
       ]
     },
@@ -1097,7 +1108,7 @@
           "id": "loisirs_mediatheque",
           "label": "Médiathèque",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Médiathèque.svg"
+          "image": "/symbols/interpretable/mediatheque.svg"
         },
         {
           "board": "loisirs",
@@ -1107,7 +1118,7 @@
           "id": "loisirs_ludotheque",
           "label": "Ludothèque",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Ludothèque.svg"
+          "image": "/symbols/interpretable/ludotheque.svg"
         },
         {
           "board": "loisirs",
@@ -1117,7 +1128,7 @@
           "id": "loisirs_centre-de-loisirs",
           "label": "Centre de loisirs",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Centre de loisirs.svg"
+          "image": "/symbols/interpretable/centre_de_loisirs.svg"
         },
         {
           "board": "loisirs",
@@ -1127,7 +1138,7 @@
           "id": "loisirs_piscine-municipale",
           "label": "Piscine municipale",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Piscine municipale.svg"
+          "image": "/symbols/interpretable/piscine_municipale.svg"
         },
         {
           "board": "loisirs",
@@ -1136,7 +1147,8 @@
           "column": null,
           "id": "loisirs_ecouter-de-la-musique",
           "label": "Écouter de la musique",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/ecouter_de_la_musique.svg"
         }
       ]
     },
@@ -1167,7 +1179,7 @@
           "id": "migrant_famille-au-pays",
           "label": "Famille au pays",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Famille restée au pays.svg"
+          "image": "/symbols/interpretable/famille_au_pays.svg"
         },
         {
           "board": "migrant",
@@ -1177,7 +1189,7 @@
           "id": "migrant_contacts-au-pays",
           "label": "Contacts au pays",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Contacts avec la famille restée au pays.svg"
+          "image": "/symbols/interpretable/contacts_au_pays.svg"
         },
         {
           "board": "migrant",
@@ -1187,7 +1199,7 @@
           "id": "migrant_enfants-au-pays",
           "label": "Enfants au pays",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Enfants restés au pays.svg"
+          "image": "/symbols/interpretable/enfants_au_pays.svg"
         }
       ]
     },
@@ -1227,7 +1239,7 @@
           "id": "acteurs_psychologue",
           "label": "Psychologue",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Psychologue.svg"
+          "image": "/symbols/interpretable/psychologue.svg"
         },
         {
           "board": "acteurs",
@@ -1237,7 +1249,7 @@
           "id": "acteurs_dentiste",
           "label": "Dentiste",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dentiste.svg"
+          "image": "/symbols/interpretable/dentiste.svg"
         },
         {
           "board": "acteurs",
@@ -1247,7 +1259,7 @@
           "id": "acteurs_kinesitherapeute",
           "label": "Kinésithérapeute",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Kinésithérapeuthe.svg"
+          "image": "/symbols/interpretable/kinesitherapeute.svg"
         },
         {
           "board": "acteurs",
@@ -1265,7 +1277,8 @@
           "column": null,
           "id": "acteurs_infirmiere",
           "label": "Infirmière",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/infirmiere.svg"
         },
         {
           "board": "acteurs",
@@ -1274,8 +1287,7 @@
           "column": null,
           "id": "acteurs_bus-info-sante",
           "label": "Bus info santé",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Justificatif de logement téléphone.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "acteurs",
@@ -1294,7 +1306,7 @@
           "id": "acteurs_ccas",
           "label": "CCAS",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Accouchement voie basse.svg"
+          "image": "/symbols/interpretable/ccas.svg"
         },
         {
           "board": "acteurs",
@@ -1313,7 +1325,7 @@
           "id": "acteurs_cattp",
           "label": "CATTP",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte mutuelle santé complémentaire.svg"
+          "image": "/symbols/interpretable/cattp.svg"
         },
         {
           "board": "acteurs",
@@ -1323,7 +1335,7 @@
           "id": "acteurs_cidag",
           "label": "CIDAG",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Cuillères dosages médicament.svg"
+          "image": "/symbols/interpretable/cidag.svg"
         },
         {
           "board": "acteurs",
@@ -1342,7 +1354,7 @@
           "id": "acteurs_cdhs",
           "label": "CDHS",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_CDHS.svg"
+          "image": "/symbols/interpretable/cdhs.svg"
         },
         {
           "board": "acteurs",
@@ -1361,7 +1373,7 @@
           "id": "acteurs_hopital",
           "label": "Hôpital",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Hôpital.svg"
+          "image": "/symbols/interpretable/hopital.svg"
         },
         {
           "board": "acteurs",
@@ -1380,7 +1392,7 @@
           "id": "acteurs_mairie",
           "label": "Mairie",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Mairie.svg"
+          "image": "/symbols/interpretable/mairie.svg"
         },
         {
           "board": "acteurs",
@@ -1390,7 +1402,7 @@
           "id": "acteurs_police",
           "label": "Police",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Police.svg"
+          "image": "/symbols/interpretable/police.svg"
         },
         {
           "board": "acteurs",
@@ -1400,7 +1412,7 @@
           "id": "acteurs_pompier",
           "label": "Pompier",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pompier.svg"
+          "image": "/symbols/interpretable/pompier.svg"
         },
         {
           "board": "acteurs",
@@ -1410,7 +1422,7 @@
           "id": "acteurs_prefecture",
           "label": "Préfecture",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Préfecture.svg"
+          "image": "/symbols/interpretable/prefecture.svg"
         },
         {
           "board": "acteurs",
@@ -1420,7 +1432,7 @@
           "id": "acteurs_samu",
           "label": "SAMU",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carte mutuelle santé complémentaire.svg"
+          "image": "/symbols/interpretable/samu.svg"
         },
         {
           "board": "acteurs",
@@ -1430,7 +1442,7 @@
           "id": "acteurs_tcl",
           "label": "TCL",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_TCL.svg"
+          "image": "/symbols/interpretable/tcl.svg"
         },
         {
           "board": "acteurs",
@@ -1440,7 +1452,7 @@
           "id": "acteurs_tribunal",
           "label": "Tribunal",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Tribunal.svg"
+          "image": "/symbols/interpretable/tribunal.svg"
         },
         {
           "board": "acteurs",
@@ -1450,7 +1462,7 @@
           "id": "acteurs_orthophoniste",
           "label": "Orthophoniste",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Orthophoniste.svg"
+          "image": "/symbols/interpretable/orthophoniste.svg"
         },
         {
           "board": "acteurs",
@@ -1460,7 +1472,7 @@
           "id": "acteurs_medecin",
           "label": "Médecin",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Médecin.svg"
+          "image": "/symbols/interpretable/medecin.svg"
         },
         {
           "board": "acteurs",
@@ -1470,7 +1482,7 @@
           "id": "acteurs_pediatre",
           "label": "Pédiatre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pédiatre.svg"
+          "image": "/symbols/interpretable/pediatre.svg"
         },
         {
           "board": "acteurs",
@@ -1510,7 +1522,7 @@
           "id": "habillement_chaussettes",
           "label": "Chaussettes",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Chaussettes.svg"
+          "image": "/symbols/interpretable/chaussettes.svg"
         },
         {
           "board": "habillement",
@@ -1520,7 +1532,7 @@
           "id": "habillement_chaussure-a-lacets",
           "label": "Chaussure à lacets",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Chaussures à lacets.svg"
+          "image": "/symbols/interpretable/chaussure_a_lacets.svg"
         },
         {
           "board": "habillement",
@@ -1539,7 +1551,7 @@
           "id": "habillement_fermeture-eclair",
           "label": "Fermeture éclair",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fermeture éclair.svg"
+          "image": "/symbols/interpretable/fermeture_eclair.svg"
         }
       ]
     },
@@ -1560,7 +1572,7 @@
           "id": "rendez-vous_planning-familial",
           "label": "Planning familial",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Planning familial.svg"
+          "image": "/symbols/interpretable/planning_familial.svg"
         },
         {
           "board": "rendez-vous",
@@ -1578,7 +1590,8 @@
           "column": null,
           "id": "rendez-vous_j-ai-deja-reu-rdv",
           "label": "J'ai déjà reu rdv",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/j_ai_deja_reu_rdv.svg"
         },
         {
           "board": "rendez-vous",
@@ -1587,7 +1600,8 @@
           "column": null,
           "id": "rendez-vous_je-veux-un-rdv",
           "label": "Je veux un rdv",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/je_veux_un_rdv.svg"
         }
       ]
     },
@@ -1617,17 +1631,7 @@
           "id": "emotions_fatigue",
           "label": "Fatigue",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fatigue.svg"
-        },
-        {
-          "board": "emotions",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "emotions_fatigue",
-          "label": "Fatigue",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fatigue.svg"
+          "image": "/symbols/interpretable/fatigue.svg"
         },
         {
           "board": "emotions",
@@ -1637,7 +1641,7 @@
           "id": "emotions_tristesse",
           "label": "Tristesse",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Tristesse.svg"
+          "image": "/symbols/interpretable/tristesse.svg"
         },
         {
           "board": "emotions",
@@ -1647,7 +1651,7 @@
           "id": "emotions_colere",
           "label": "Colère",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Colère.svg"
+          "image": "/symbols/interpretable/colere.svg"
         },
         {
           "board": "emotions",
@@ -1657,7 +1661,7 @@
           "id": "emotions_peur",
           "label": "Peur",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Peur Anxieté v2.svg"
+          "image": "/symbols/interpretable/peur.svg"
         },
         {
           "board": "emotions",
@@ -1667,7 +1671,7 @@
           "id": "emotions_content",
           "label": "Content",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_bulle content.svg"
+          "image": "/symbols/interpretable/content.svg"
         },
         {
           "board": "emotions",
@@ -1677,7 +1681,7 @@
           "id": "emotions_pas-content",
           "label": "Pas content",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_bulle pas content.svg"
+          "image": "/symbols/interpretable/pas_content.svg"
         },
         {
           "board": "emotions",
@@ -1687,7 +1691,7 @@
           "id": "emotions_bonheur",
           "label": "Bonheur",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bonheur.svg"
+          "image": "/symbols/interpretable/bonheur.svg"
         },
         {
           "board": "emotions",
@@ -1706,7 +1710,7 @@
           "id": "emotions_delire-et-hallucination",
           "label": "Délire et hallucination",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Délire hallucination.svg"
+          "image": "/symbols/interpretable/delire_et_hallucination.svg"
         },
         {
           "board": "emotions",
@@ -1716,7 +1720,7 @@
           "id": "emotions_depression",
           "label": "Dépression",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dépression.svg"
+          "image": "/symbols/interpretable/depression.svg"
         },
         {
           "board": "emotions",
@@ -1726,7 +1730,7 @@
           "id": "emotions_solitude",
           "label": "Solitude",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Solitude.svg"
+          "image": "/symbols/interpretable/solitude.svg"
         }
       ]
     },
@@ -1747,7 +1751,7 @@
           "id": "habitat_insalubrite",
           "label": "Insalubrité",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Insalubrité éléctrique.svg"
+          "image": "/symbols/interpretable/insalubrite.svg"
         },
         {
           "board": "habitat",
@@ -1757,7 +1761,7 @@
           "id": "habitat_logement-range",
           "label": "Logement rangé",
           "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Logement rangé.svg"
+          "image": "/symbols/interpretable/logement_range.svg"
         },
         {
           "board": "habitat",
@@ -1776,7 +1780,7 @@
           "id": "habitat_dans-la-rue",
           "label": "Dans la rue",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Dormir dans la rue.svg"
+          "image": "/symbols/interpretable/dans_la_rue.svg"
         },
         {
           "board": "habitat",
@@ -1795,7 +1799,7 @@
           "id": "habitat_voisins",
           "label": "Voisins",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Voisins.svg"
+          "image": "/symbols/interpretable/voisins.svg"
         },
         {
           "board": "habitat",
@@ -1804,7 +1808,8 @@
           "column": null,
           "id": "habitat_combien-d-habitants",
           "label": "Combien d'habitants",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/combien_d_habitants.svg"
         },
         {
           "board": "habitat",
@@ -1823,7 +1828,7 @@
           "id": "habitat_locataire",
           "label": "Locataire",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Locataire.svg"
+          "image": "/symbols/interpretable/locataire.svg"
         },
         {
           "board": "habitat",
@@ -1833,7 +1838,7 @@
           "id": "habitat_proprietaire",
           "label": "Propriétaire",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Propriétaire.svg"
+          "image": "/symbols/interpretable/proprietaire.svg"
         },
         {
           "board": "habitat",
@@ -1852,7 +1857,7 @@
           "id": "habitat_tente",
           "label": "Tente",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Tente.svg"
+          "image": "/symbols/interpretable/tente.svg"
         },
         {
           "board": "habitat",
@@ -1862,7 +1867,7 @@
           "id": "habitat_logement-sale",
           "label": "Logement sale",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Logement rangé.svg"
+          "image": "/symbols/interpretable/logement_sale.svg"
         },
         {
           "board": "habitat",
@@ -1912,7 +1917,7 @@
           "id": "emploi_metier-intellectuel",
           "label": "Métier intellectuel",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Métier intellectuel.svg"
+          "image": "/symbols/interpretable/metier_intellectuel.svg"
         },
         {
           "board": "emploi",
@@ -1922,7 +1927,7 @@
           "id": "emploi_metier-manuel",
           "label": "Métier manuel",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Métier manuel.svg"
+          "image": "/symbols/interpretable/metier_manuel.svg"
         },
         {
           "board": "emploi",
@@ -1932,7 +1937,7 @@
           "id": "emploi_ne-travaille-pas",
           "label": "Ne travaille pas",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Ne travaille pas.svg"
+          "image": "/symbols/interpretable/ne_travaille_pas.svg"
         },
         {
           "board": "emploi",
@@ -1942,7 +1947,7 @@
           "id": "emploi_retraite",
           "label": "Retraité",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Retraité.svg"
+          "image": "/symbols/interpretable/retraite.svg"
         }
       ]
     },
@@ -1963,7 +1968,7 @@
           "id": "transport_avion",
           "label": "Avion",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Avion.svg"
+          "image": "/symbols/interpretable/avion.svg"
         },
         {
           "board": "transport",
@@ -1973,7 +1978,7 @@
           "id": "transport_bateau",
           "label": "Bâteau",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bâteau.svg"
+          "image": "/symbols/interpretable/bateau.svg"
         },
         {
           "board": "transport",
@@ -1983,7 +1988,7 @@
           "id": "transport_bus",
           "label": "Bus",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bus.svg"
+          "image": "/symbols/interpretable/bus.svg"
         },
         {
           "board": "transport",
@@ -1993,7 +1998,7 @@
           "id": "transport_metro",
           "label": "Métro",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Métro.svg"
+          "image": "/symbols/interpretable/metro.svg"
         },
         {
           "board": "transport",
@@ -2003,7 +2008,7 @@
           "id": "transport_moto",
           "label": "Moto",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Moto.svg"
+          "image": "/symbols/interpretable/moto.svg"
         },
         {
           "board": "transport",
@@ -2013,7 +2018,7 @@
           "id": "transport_train",
           "label": "Train",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Train.svg"
+          "image": "/symbols/interpretable/train.svg"
         },
         {
           "board": "transport",
@@ -2023,7 +2028,7 @@
           "id": "transport_trottinette",
           "label": "Trottinette",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Trottinette.svg"
+          "image": "/symbols/interpretable/trottinette.svg"
         },
         {
           "board": "transport",
@@ -2033,7 +2038,7 @@
           "id": "transport_velo",
           "label": "Vélo",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Vélo.svg"
+          "image": "/symbols/interpretable/velo.svg"
         },
         {
           "board": "transport",
@@ -2043,7 +2048,7 @@
           "id": "transport_voiture",
           "label": "Voiture",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Voiture.svg"
+          "image": "/symbols/interpretable/voiture.svg"
         },
         {
           "board": "transport",
@@ -2053,7 +2058,7 @@
           "id": "transport_ambulance",
           "label": "Ambulance",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Transport en ambulance.svg"
+          "image": "/symbols/interpretable/ambulance.svg"
         }
       ]
     },
@@ -2114,7 +2119,7 @@
           "id": "handicap_aveugle",
           "label": "Aveugle",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Handicap Physique - Aveugle.svg"
+          "image": "/symbols/interpretable/aveugle.svg"
         },
         {
           "board": "handicap",
@@ -2142,7 +2147,7 @@
           "id": "handicap_canne",
           "label": "Canne",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Canne.svg"
+          "image": "/symbols/interpretable/canne.svg"
         },
         {
           "board": "handicap",
@@ -2152,7 +2157,7 @@
           "id": "handicap_deambulateur",
           "label": "Déambulateur",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Déambulateur.svg"
+          "image": "/symbols/interpretable/deambulateur.svg"
         },
         {
           "board": "handicap",
@@ -2162,7 +2167,7 @@
           "id": "handicap_fauteuil-roulant-electrique",
           "label": "Fauteuil roulant éléctrique",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fauteuil roulant éléctrique.svg"
+          "image": "/symbols/interpretable/fauteuil_roulant_electrique.svg"
         },
         {
           "board": "handicap",
@@ -2172,7 +2177,7 @@
           "id": "handicap_fauteuil-roulant-manuel",
           "label": "Fauteuil roulant manuel",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fauteuil roulant manuel.svg"
+          "image": "/symbols/interpretable/fauteuil_roulant_manuel.svg"
         }
       ]
     },
@@ -2212,7 +2217,8 @@
           "column": null,
           "id": "habillage_vetements-hiver",
           "label": "Vêtements hiver",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/vetements_hiver.svg"
         },
         {
           "board": "habillage",
@@ -2221,7 +2227,8 @@
           "column": null,
           "id": "habillage_vetements-ete",
           "label": "Vêtements été",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/vetements_ete.svg"
         },
         {
           "board": "habillage",
@@ -2230,7 +2237,8 @@
           "column": null,
           "id": "habillage_vetements-mi-saison",
           "label": "Vêtements mi-saison",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/vetements_misaison.svg"
         }
       ]
     },
@@ -2251,7 +2259,7 @@
           "id": "alimentation_assiette-avec-repas",
           "label": "Assiette avec repas",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Assiette avec repas.svg"
+          "image": "/symbols/interpretable/assiette_avec_repas.svg"
         },
         {
           "board": "alimentation",
@@ -2261,7 +2269,7 @@
           "id": "alimentation_boite-a-repas",
           "label": "Boîte à repas",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Boîte repas à emporter.svg"
+          "image": "/symbols/interpretable/boite_a_repas.svg"
         },
         {
           "board": "alimentation",
@@ -2271,7 +2279,7 @@
           "id": "alimentation_boire",
           "label": "Boire",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Boire.svg"
+          "image": "/symbols/interpretable/boire.svg"
         },
         {
           "board": "alimentation",
@@ -2281,7 +2289,7 @@
           "id": "alimentation_manger-mal",
           "label": "Manger mal",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Manger salement - Manger proprement.svg"
+          "image": "/symbols/interpretable/manger_mal.svg"
         },
         {
           "board": "alimentation",
@@ -2291,7 +2299,7 @@
           "id": "alimentation_eau-bouteille",
           "label": "Eau bouteille",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Eau en bouteille.svg"
+          "image": "/symbols/interpretable/eau_bouteille.svg"
         },
         {
           "board": "alimentation",
@@ -2301,7 +2309,7 @@
           "id": "alimentation_viande",
           "label": "Viande",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Viande.svg"
+          "image": "/symbols/interpretable/viande.svg"
         },
         {
           "board": "alimentation",
@@ -2311,7 +2319,7 @@
           "id": "alimentation_poisson",
           "label": "Poisson",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Poisson.svg"
+          "image": "/symbols/interpretable/poisson.svg"
         },
         {
           "board": "alimentation",
@@ -2321,7 +2329,7 @@
           "id": "alimentation_crevette",
           "label": "Crevette",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Crevette - fruits de mer.svg"
+          "image": "/symbols/interpretable/crevette.svg"
         },
         {
           "board": "alimentation",
@@ -2331,7 +2339,7 @@
           "id": "alimentation_oeuf",
           "label": "Œuf",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Œuf.svg"
+          "image": "/symbols/interpretable/oeuf.svg"
         },
         {
           "board": "alimentation",
@@ -2341,7 +2349,7 @@
           "id": "alimentation_pates",
           "label": "Pâtes",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pâtes.svg"
+          "image": "/symbols/interpretable/pates.svg"
         },
         {
           "board": "alimentation",
@@ -2351,7 +2359,7 @@
           "id": "alimentation_riz",
           "label": "Riz",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Riz.svg"
+          "image": "/symbols/interpretable/riz.svg"
         },
         {
           "board": "alimentation",
@@ -2361,7 +2369,7 @@
           "id": "alimentation_mais",
           "label": "Maïs",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Maïs.svg"
+          "image": "/symbols/interpretable/mais.svg"
         },
         {
           "board": "alimentation",
@@ -2371,7 +2379,7 @@
           "id": "alimentation_pomme-de-terre",
           "label": "Pomme de terre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pomme de terre.svg"
+          "image": "/symbols/interpretable/pomme_de_terre.svg"
         },
         {
           "board": "alimentation",
@@ -2381,7 +2389,7 @@
           "id": "alimentation_patate-douce",
           "label": "Patate douce",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Patate douce ---.svg"
+          "image": "/symbols/interpretable/patate_douce.svg"
         },
         {
           "board": "alimentation",
@@ -2391,7 +2399,7 @@
           "id": "alimentation_biscuit",
           "label": "Biscuit",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Biscuit.svg"
+          "image": "/symbols/interpretable/biscuit.svg"
         },
         {
           "board": "alimentation",
@@ -2401,7 +2409,7 @@
           "id": "alimentation_yaourt",
           "label": "Yaourt",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt.svg"
+          "image": "/symbols/interpretable/yaourt.svg"
         },
         {
           "board": "alimentation",
@@ -2411,7 +2419,7 @@
           "id": "alimentation_lait",
           "label": "Lait",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Lait.svg"
+          "image": "/symbols/interpretable/lait.svg"
         },
         {
           "board": "alimentation",
@@ -2421,7 +2429,7 @@
           "id": "alimentation_fromage",
           "label": "Fromage",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage.svg"
+          "image": "/symbols/interpretable/fromage.svg"
         },
         {
           "board": "alimentation",
@@ -2431,7 +2439,7 @@
           "id": "alimentation_bonbons",
           "label": "Bonbons",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Bonbon - sucette.svg"
+          "image": "/symbols/interpretable/bonbons.svg"
         },
         {
           "board": "alimentation",
@@ -2441,7 +2449,7 @@
           "id": "alimentation_soda",
           "label": "Soda",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Soda.svg"
+          "image": "/symbols/interpretable/soda.svg"
         },
         {
           "board": "alimentation",
@@ -2451,7 +2459,7 @@
           "id": "alimentation_confiture",
           "label": "Confiture",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Confiture.svg"
+          "image": "/symbols/interpretable/confiture.svg"
         },
         {
           "board": "alimentation",
@@ -2461,7 +2469,7 @@
           "id": "alimentation_viennoiserie",
           "label": "Viennoiserie",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Viennoiserie.svg"
+          "image": "/symbols/interpretable/viennoiserie.svg"
         },
         {
           "board": "alimentation",
@@ -2471,7 +2479,7 @@
           "id": "alimentation_frites",
           "label": "Frites",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Frites.svg"
+          "image": "/symbols/interpretable/frites.svg"
         },
         {
           "board": "alimentation",
@@ -2481,7 +2489,7 @@
           "id": "alimentation_chips",
           "label": "Chips",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Chips.svg"
+          "image": "/symbols/interpretable/chips.svg"
         },
         {
           "board": "alimentation",
@@ -2491,7 +2499,7 @@
           "id": "alimentation_raisin",
           "label": "Raisin",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Raisin.svg"
+          "image": "/symbols/interpretable/raisin.svg"
         },
         {
           "board": "alimentation",
@@ -2501,7 +2509,7 @@
           "id": "alimentation_banane",
           "label": "Banane",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Banane.svg"
+          "image": "/symbols/interpretable/banane.svg"
         },
         {
           "board": "alimentation",
@@ -2511,7 +2519,7 @@
           "id": "alimentation_fraise",
           "label": "Fraise",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fraise.svg"
+          "image": "/symbols/interpretable/fraise.svg"
         },
         {
           "board": "alimentation",
@@ -2521,7 +2529,7 @@
           "id": "alimentation_clementine",
           "label": "Clémentine",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Clémentine.svg"
+          "image": "/symbols/interpretable/clementine.svg"
         },
         {
           "board": "alimentation",
@@ -2531,7 +2539,7 @@
           "id": "alimentation_cerise",
           "label": "Cerise",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Cerise.svg"
+          "image": "/symbols/interpretable/cerise.svg"
         },
         {
           "board": "alimentation",
@@ -2541,7 +2549,7 @@
           "id": "alimentation_orange",
           "label": "Orange",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Orange.svg"
+          "image": "/symbols/interpretable/orange.svg"
         },
         {
           "board": "alimentation",
@@ -2551,7 +2559,7 @@
           "id": "alimentation_compote",
           "label": "Compote",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Compote.svg"
+          "image": "/symbols/interpretable/compote.svg"
         },
         {
           "board": "alimentation",
@@ -2561,7 +2569,7 @@
           "id": "alimentation_pomme",
           "label": "Pomme",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pomme.svg"
+          "image": "/symbols/interpretable/pomme.svg"
         },
         {
           "board": "alimentation",
@@ -2571,7 +2579,7 @@
           "id": "alimentation_noix-de-coco",
           "label": "Noix de coco",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Noix de coco.svg"
+          "image": "/symbols/interpretable/noix_de_coco.svg"
         },
         {
           "board": "alimentation",
@@ -2581,7 +2589,7 @@
           "id": "alimentation_abricot",
           "label": "Abricot",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Abricot.svg"
+          "image": "/symbols/interpretable/abricot.svg"
         },
         {
           "board": "alimentation",
@@ -2591,7 +2599,7 @@
           "id": "alimentation_citron",
           "label": "Citron",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Citron.svg"
+          "image": "/symbols/interpretable/citron.svg"
         },
         {
           "board": "alimentation",
@@ -2601,7 +2609,7 @@
           "id": "alimentation_poire",
           "label": "Poire",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Poire.svg"
+          "image": "/symbols/interpretable/poire.svg"
         },
         {
           "board": "alimentation",
@@ -2611,7 +2619,7 @@
           "id": "alimentation_melon",
           "label": "Melon",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Melon.svg"
+          "image": "/symbols/interpretable/melon.svg"
         },
         {
           "board": "alimentation",
@@ -2621,7 +2629,7 @@
           "id": "alimentation_pasteque",
           "label": "Pastèque",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pastèque.svg"
+          "image": "/symbols/interpretable/pasteque.svg"
         },
         {
           "board": "alimentation",
@@ -2631,7 +2639,7 @@
           "id": "alimentation_poivron",
           "label": "Poivron",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Poivrons rouge vert jaune.svg"
+          "image": "/symbols/interpretable/poivron.svg"
         },
         {
           "board": "alimentation",
@@ -2641,7 +2649,7 @@
           "id": "alimentation_brocolis",
           "label": "Brocolis",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Brocolis.svg"
+          "image": "/symbols/interpretable/brocolis.svg"
         },
         {
           "board": "alimentation",
@@ -2651,7 +2659,7 @@
           "id": "alimentation_carotte",
           "label": "Carotte",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Carotte.svg"
+          "image": "/symbols/interpretable/carotte.svg"
         },
         {
           "board": "alimentation",
@@ -2661,7 +2669,7 @@
           "id": "alimentation_petits-pois",
           "label": "Petits pois",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Petits pois.svg"
+          "image": "/symbols/interpretable/petits_pois.svg"
         },
         {
           "board": "alimentation",
@@ -2671,7 +2679,7 @@
           "id": "alimentation_tomate",
           "label": "Tomate",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Tomate.svg"
+          "image": "/symbols/interpretable/tomate.svg"
         },
         {
           "board": "alimentation",
@@ -2681,7 +2689,7 @@
           "id": "alimentation_aubergine",
           "label": "Aubergine",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Aubergine.svg"
+          "image": "/symbols/interpretable/aubergine.svg"
         },
         {
           "board": "alimentation",
@@ -2691,7 +2699,7 @@
           "id": "alimentation_champignon",
           "label": "Champignon",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Champignon.svg"
+          "image": "/symbols/interpretable/champignon.svg"
         },
         {
           "board": "alimentation",
@@ -2701,7 +2709,7 @@
           "id": "alimentation_concombre",
           "label": "Concombre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Concombre.svg"
+          "image": "/symbols/interpretable/concombre.svg"
         },
         {
           "board": "alimentation",
@@ -2711,7 +2719,7 @@
           "id": "alimentation_courgette",
           "label": "Courgette",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Courgette.svg"
+          "image": "/symbols/interpretable/courgette.svg"
         },
         {
           "board": "alimentation",
@@ -2721,7 +2729,7 @@
           "id": "alimentation_poireau",
           "label": "Poireau",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Poireau.svg"
+          "image": "/symbols/interpretable/poireau.svg"
         },
         {
           "board": "alimentation",
@@ -2731,7 +2739,7 @@
           "id": "alimentation_soupe",
           "label": "Soupe",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Soupe.svg"
+          "image": "/symbols/interpretable/soupe.svg"
         },
         {
           "board": "alimentation",
@@ -2740,8 +2748,7 @@
           "column": null,
           "id": "alimentation_petit-pot-bebe",
           "label": "Petit pot bébé",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Voiture bébé.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "alimentation",
@@ -2751,7 +2758,7 @@
           "id": "alimentation_vache",
           "label": "Vache",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Vache.svg"
+          "image": "/symbols/interpretable/vache.svg"
         },
         {
           "board": "alimentation",
@@ -2761,7 +2768,7 @@
           "id": "alimentation_lait-de-vache",
           "label": "Lait de vache",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Lait de vache.svg"
+          "image": "/symbols/interpretable/lait_de_vache.svg"
         },
         {
           "board": "alimentation",
@@ -2771,17 +2778,7 @@
           "id": "alimentation_yaourt-vache-chevre",
           "label": "Yaourt vache chèvre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt de vache et de chèvre.svg"
-        },
-        {
-          "board": "alimentation",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "alimentation_yaourt-vache-chevre",
-          "label": "Yaourt vache chèvre",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Yaourt de vache et de chèvre.svg"
+          "image": "/symbols/interpretable/yaourt_vache_chevre.svg"
         },
         {
           "board": "alimentation",
@@ -2791,7 +2788,7 @@
           "id": "alimentation_fromage-de-vache",
           "label": "Fromage de vache",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage de vache.svg"
+          "image": "/symbols/interpretable/fromage_de_vache.svg"
         },
         {
           "board": "alimentation",
@@ -2801,7 +2798,7 @@
           "id": "alimentation_mouton",
           "label": "Mouton",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Mouton.svg"
+          "image": "/symbols/interpretable/mouton.svg"
         },
         {
           "board": "alimentation",
@@ -2811,7 +2808,7 @@
           "id": "alimentation_chevre",
           "label": "Chèvre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Chèvre.svg"
+          "image": "/symbols/interpretable/chevre.svg"
         },
         {
           "board": "alimentation",
@@ -2821,7 +2818,7 @@
           "id": "alimentation_fruits-a-coque",
           "label": "Fruits à coque",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fruits à coque.svg"
+          "image": "/symbols/interpretable/fruits_a_coque.svg"
         },
         {
           "board": "alimentation",
@@ -2830,7 +2827,8 @@
           "column": null,
           "id": "alimentation_lait-d-amande",
           "label": "Lait d'amande",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/lait_d_amande.svg"
         },
         {
           "board": "alimentation",
@@ -2840,7 +2838,7 @@
           "id": "alimentation_fromage-de-chevre",
           "label": "Fromage de chèvre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Fromage de chèvre.svg"
+          "image": "/symbols/interpretable/fromage_de_chevre.svg"
         },
         {
           "board": "alimentation",
@@ -2850,7 +2848,7 @@
           "id": "alimentation_lait-en-poudre",
           "label": "Lait en poudre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V18_lait_poudre.svg"
+          "image": "/symbols/interpretable/lait_en_poudre.svg"
         },
         {
           "board": "alimentation",
@@ -2860,7 +2858,7 @@
           "id": "alimentation_chauffe-lait",
           "label": "Chauffe-lait",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V18_chauffe_lait.svg"
+          "image": "/symbols/interpretable/chauffelait.svg"
         },
         {
           "board": "alimentation",
@@ -2897,7 +2895,7 @@
           "id": "alimentation_horaire-des-repas",
           "label": "Horaire des repas",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Horaires de repas.svg"
+          "image": "/symbols/interpretable/horaire_des_repas.svg"
         },
         {
           "board": "alimentation",
@@ -2916,7 +2914,7 @@
           "id": "alimentation_aimer-manger",
           "label": "Aimer manger",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Manger salement - Manger proprement.svg"
+          "image": "/symbols/interpretable/aimer_manger.svg"
         },
         {
           "board": "alimentation",
@@ -2956,7 +2954,7 @@
           "id": "addiction_alcool",
           "label": "Alcool",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Alcool.svg"
+          "image": "/symbols/interpretable/alcool.svg"
         },
         {
           "board": "addiction",
@@ -2975,7 +2973,7 @@
           "id": "addiction_cigarette",
           "label": "Cigarette",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Cigarette.svg"
+          "image": "/symbols/interpretable/cigarette.svg"
         },
         {
           "board": "addiction",
@@ -2985,7 +2983,7 @@
           "id": "addiction_drogue-dure",
           "label": "Drogue dure",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Drogue dure.svg"
+          "image": "/symbols/interpretable/drogue_dure.svg"
         },
         {
           "board": "addiction",
@@ -2994,8 +2992,7 @@
           "column": null,
           "id": "addiction_pas-de-tabac",
           "label": "Pas de tabac",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Pas de cigarette.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "addiction",
@@ -3005,7 +3002,7 @@
           "id": "addiction_ordinateur",
           "label": "Ordinateur",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Ordinateur.svg"
+          "image": "/symbols/interpretable/ordinateur.svg"
         },
         {
           "board": "addiction",
@@ -3015,7 +3012,7 @@
           "id": "addiction_porno",
           "label": "Porno",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Porno.svg"
+          "image": "/symbols/interpretable/porno.svg"
         },
         {
           "board": "addiction",
@@ -3025,7 +3022,7 @@
           "id": "addiction_reseaux-sociaux",
           "label": "Réseaux sociaux",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Réseaux sociaux.svg"
+          "image": "/symbols/interpretable/reseaux_sociaux.svg"
         },
         {
           "board": "addiction",
@@ -3035,7 +3032,7 @@
           "id": "addiction_smartphone",
           "label": "Smartphone",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Smartphone.svg"
+          "image": "/symbols/interpretable/smartphone.svg"
         },
         {
           "board": "addiction",
@@ -3045,7 +3042,7 @@
           "id": "addiction_vapoteur",
           "label": "Vapoteur",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Vapoteur.svg"
+          "image": "/symbols/interpretable/vapoteur.svg"
         },
         {
           "board": "addiction",
@@ -3055,7 +3052,7 @@
           "id": "addiction_consommation-tabac",
           "label": "Consommation tabac",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Consommation tabac.svg"
+          "image": "/symbols/interpretable/consommation_tabac.svg"
         },
         {
           "board": "addiction",
@@ -3065,7 +3062,7 @@
           "id": "addiction_consommation-alcool",
           "label": "Consommation alcool",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Consommation d_alcool.svg"
+          "image": "/symbols/interpretable/consommation_alcool.svg"
         },
         {
           "board": "addiction",
@@ -3105,7 +3102,7 @@
           "id": "violence_guerre",
           "label": "Guerre",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Guerre.svg"
+          "image": "/symbols/interpretable/guerre.svg"
         },
         {
           "board": "violence",
@@ -3115,7 +3112,7 @@
           "id": "violence_sequestration",
           "label": "Séquestration",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Séquestration.svg"
+          "image": "/symbols/interpretable/sequestration.svg"
         },
         {
           "board": "violence",
@@ -3170,7 +3167,7 @@
           "id": "violence_enfant-temoin-de-violence",
           "label": "Enfant témoin de violence",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Enfant témoin de violence.svg"
+          "image": "/symbols/interpretable/enfant_temoin_de_violence.svg"
         },
         {
           "board": "violence",
@@ -3189,7 +3186,7 @@
           "id": "violence_violence-physique",
           "label": "Violence physique",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Violences physiques.svg"
+          "image": "/symbols/interpretable/violence_physique.svg"
         },
         {
           "board": "violence",
@@ -3199,7 +3196,7 @@
           "id": "violence_violence-psychologique",
           "label": "Violence psychologique",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Violences psychologiques.svg"
+          "image": "/symbols/interpretable/violence_psychologique.svg"
         },
         {
           "board": "violence",
@@ -3209,7 +3206,7 @@
           "id": "violence_violence-psychologique-2",
           "label": "Violence psychologique 2",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Violences psychologiques 2.svg"
+          "image": "/symbols/interpretable/violence_psychologique_2.svg"
         },
         {
           "board": "violence",
@@ -3218,7 +3215,8 @@
           "column": null,
           "id": "violence_dispute",
           "label": "Dispute",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/dispute.svg"
         },
         {
           "board": "violence",
@@ -3228,7 +3226,7 @@
           "id": "violence_vol",
           "label": "Vol",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/Base_interpretable_V17_Vol d_objet.svg"
+          "image": "/symbols/interpretable/vol.svg"
         }
       ]
     },

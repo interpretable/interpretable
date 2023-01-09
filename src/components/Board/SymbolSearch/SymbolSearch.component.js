@@ -21,7 +21,8 @@ import BackspaceIcon from '@material-ui/icons/Backspace';
 const SymbolSets = {
   mulberry: '0',
   global: '1',
-  arasaac: '2'
+  arasaac: '2',
+  interpretable: '3'
 };
 
 const symbolSetsOptions = [
@@ -38,6 +39,11 @@ const symbolSetsOptions = [
   {
     id: SymbolSets.arasaac,
     text: 'ARASAAC',
+    enabled: true
+  },
+  {
+    id: SymbolSets.interpretable,
+    text: 'Interpretable',
     enabled: true
   }
 ];
@@ -69,12 +75,25 @@ export class SymbolSearch extends PureComponent {
     };
 
     this.symbols = [];
+    this.interpretableSymbols = [];
   }
 
   async componentDidMount() {
     import('../../../api/mulberry-symbols.json').then(
       ({ default: mulberrySymbols }) => {
-        this.symbols = this.translateSymbols(mulberrySymbols);
+        this.symbols = this.translateSymbols(mulberrySymbols).map(symbol => ({
+          ...symbol,
+          symbolSet: SymbolSets.mulberry
+        }));
+      }
+    );
+
+    import('../../../api/interpretable-symbols.json').then(
+      ({ default: interpretableSymbols }) => {
+        this.interpretableSymbols = interpretableSymbols.map(symbol => ({
+          ...symbol,
+          symbolSet: SymbolSets.interpretable
+        }));
       }
     );
   }
@@ -136,6 +155,38 @@ export class SymbolSearch extends PureComponent {
     });
   }
 
+  getInterpretableSuggestions(value) {
+    const { maxSuggestions } = this.props;
+    const inputValue = value.trim().toLowerCase();
+    const inputLength = inputValue.length;
+    let count = 0;
+
+    return this.interpretableSymbols.filter(symbol => {
+      if (count >= maxSuggestions) {
+        return false;
+      }
+      const translatedId = symbol.translatedId.toLowerCase();
+      let keep = translatedId.slice(0, inputLength) === inputValue;
+
+      if (!keep) {
+        const words = translatedId.split(' ');
+
+        for (let i = 1; i < words.length; i += 1) {
+          keep = words[i].slice(0, inputLength) === inputValue;
+
+          if (keep) {
+            break;
+          }
+        }
+      }
+
+      if (keep) {
+        count += 1;
+      }
+      return keep;
+    });
+  }
+
   fetchArasaacSuggestions = async searchText => {
     const {
       intl: { locale }
@@ -149,7 +200,7 @@ export class SymbolSearch extends PureComponent {
       if (data.length) {
         const suggestions = [
           ...this.state.suggestions.filter(
-            suggestion => !suggestion.fromArasaac
+            suggestion => suggestion.symbolSet !== SymbolSets.arasaac
           )
         ];
         const arasaacSuggestions = data.map(
@@ -160,7 +211,7 @@ export class SymbolSearch extends PureComponent {
                 { skin, hair }
               )}`,
               translatedId: keyword.keyword,
-              fromArasaac: true
+              symbolSet: SymbolSets.arasaac
             };
           }
         );
@@ -185,7 +236,7 @@ export class SymbolSearch extends PureComponent {
       if (data.length) {
         const suggestions = [
           ...this.state.suggestions.filter(
-            suggestion => !suggestion.fromGlobalsymbols
+            suggestion => suggestion.symbolSet !== SymbolSets.global
           )
         ];
         let globalsymbolsSuggestions = [];
@@ -194,7 +245,7 @@ export class SymbolSearch extends PureComponent {
             id: element.text,
             src: element.picto.image_url,
             translatedId: element.text,
-            fromGlobalsymbols: true
+            symbolSet: SymbolSets.global
           });
         });
         this.setState({
@@ -219,7 +270,22 @@ export class SymbolSearch extends PureComponent {
     }
     if (this.state.symbolSets[SymbolSets.mulberry].enabled) {
       this.setState({
-        suggestions: this.getMulberrySuggestions(value)
+        suggestions: [
+          ...this.state.suggestions.filter(
+            suggestion => suggestion.symbolSet !== SymbolSets.mulberry
+          ),
+          ...this.getMulberrySuggestions(value)
+        ]
+      });
+    }
+    if (this.state.symbolSets[SymbolSets.interpretable].enabled) {
+      this.setState({
+        suggestions: [
+          ...this.state.suggestions.filter(
+            suggestion => suggestion.symbolSet !== SymbolSets.interpretable
+          ),
+          ...this.getInterpretableSuggestions(value)
+        ]
       });
     }
   }
@@ -241,9 +307,10 @@ export class SymbolSearch extends PureComponent {
       const suggestionImageReq = `${suggestion.src}&url=true`;
       return await API.arasaacPictogramsGetImageUrl(suggestionImageReq);
     };
-    const symbolImage = suggestion.fromArasaac
-      ? await fetchArasaacImageUrl()
-      : suggestion.src;
+    const symbolImage =
+      suggestion.symbolSet === SymbolSets.arasaac
+        ? await fetchArasaacImageUrl()
+        : suggestion.src;
 
     onChange({
       image: symbolImage,
