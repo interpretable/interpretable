@@ -87,8 +87,7 @@
           "column": null,
           "id": "racine_maison-de-la-metropole",
           "label": "Maison de la Métropole",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/maison_de_la_metropole.svg"
+          "backgroundColor": "rgb(187, 222, 251)"
         },
         {
           "board": "racine",
@@ -167,7 +166,8 @@
           "column": null,
           "id": "racine_metropole-de-lyon",
           "label": "Métropole de Lyon",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/metropole_de_lyon.svg"
         },
         {
           "board": "racine",
@@ -195,8 +195,7 @@
           "column": null,
           "id": "racine_infirmiere",
           "label": "Infirmière",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/infirmiere.svg"
+          "backgroundColor": "rgb(187, 222, 251)"
         },
         {
           "board": "racine",
@@ -545,7 +544,8 @@
           "column": null,
           "id": "autonomie_charger-le-telephone",
           "label": "Charger le téléphone",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/charger_le_telephone.svg"
         },
         {
           "board": "autonomie",
@@ -554,7 +554,8 @@
           "column": null,
           "id": "autonomie_bracelet-de-teleassistance",
           "label": "Bracelet de téléassistance",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/bracelet_de_teleassistance.svg"
         },
         {
           "board": "autonomie",
@@ -583,7 +584,8 @@
           "column": null,
           "id": "autonomie_faire-le-menage",
           "label": "Faire le ménage",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/faire_le_menage.svg"
         },
         {
           "board": "autonomie",
@@ -631,7 +633,8 @@
           "column": null,
           "id": "autonomie_portage-de-repas",
           "label": "Portage de repas",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/portage_de_repas.svg"
         },
         {
           "board": "autonomie",
@@ -640,8 +643,7 @@
           "column": null,
           "id": "autonomie_porter-a-la-bouche",
           "label": "Porter à la bouche",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/porter_a_la_bouche.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "autonomie",
@@ -668,7 +670,8 @@
           "column": null,
           "id": "autonomie_besoin-d-aide-pour-se-deplacer",
           "label": "Besoin d'aide pour se déplacer",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/besoin_d_aide_pour_se_deplacer.svg"
         },
         {
           "board": "autonomie",
@@ -677,7 +680,8 @@
           "column": null,
           "id": "autonomie_soutien-de-l-entourage",
           "label": "Soutien de l'entourage",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/soutien_de_l_entourage.svg"
         },
         {
           "board": "autonomie",
@@ -696,7 +700,8 @@
           "column": null,
           "id": "autonomie_auxiliaire-de-vie",
           "label": "Auxiliaire de vie",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/auxiliaire_de_vie.svg"
         }
       ]
     },
@@ -979,7 +984,8 @@
           "column": null,
           "id": "individu_sans-papier-sans-papier-2",
           "label": "Sans papier\nSans papier 2",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/sans_papier_sans_papier_2.svg"
         },
         {
           "board": "individu",
@@ -1046,8 +1052,7 @@
           "column": null,
           "id": "individu_bebe",
           "label": "Bébé",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/bebe.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "individu",
@@ -1229,7 +1234,8 @@
           "column": null,
           "id": "acteurs_conseiller-conjugual",
           "label": "Conseiller conjugual",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/conseiller_conjugual.svg"
         },
         {
           "board": "acteurs",
@@ -1268,7 +1274,8 @@
           "column": null,
           "id": "acteurs_dermatologue",
           "label": "Dermatologue",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/dermatologue.svg"
         },
         {
           "board": "acteurs",
@@ -1277,8 +1284,7 @@
           "column": null,
           "id": "acteurs_infirmiere",
           "label": "Infirmière",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/infirmiere.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "acteurs",
@@ -1296,7 +1302,8 @@
           "column": null,
           "id": "acteurs_caisse-allocation-familiale",
           "label": "Caisse allocation familiale",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/caisse_allocation_familiale.svg"
         },
         {
           "board": "acteurs",
@@ -1344,7 +1351,8 @@
           "column": null,
           "id": "acteurs_centre-medico-psychiatrique",
           "label": "Centre médico-psychiatrique",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/centre_medicopsychiatrique.svg"
         },
         {
           "board": "acteurs",
@@ -1382,7 +1390,8 @@
           "column": null,
           "id": "acteurs_laboratoire-d-analyse",
           "label": "Laboratoire d'analyse",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/laboratoire_d_analyse.svg"
         },
         {
           "board": "acteurs",
@@ -1491,7 +1500,8 @@
           "column": null,
           "id": "acteurs_assistante-sociale",
           "label": "Assistante sociale",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/assistante_sociale.svg"
         }
       ]
     },
@@ -1541,7 +1551,8 @@
           "column": null,
           "id": "habillement_boutons-de-vetement",
           "label": "Boutons de vêtement",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/boutons_de_vetement.svg"
         },
         {
           "board": "habillement",
@@ -1621,7 +1632,8 @@
           "column": null,
           "id": "emotions_deprime",
           "label": "Déprime",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/deprime.svg"
         },
         {
           "board": "emotions",
@@ -1760,8 +1772,7 @@
           "column": null,
           "id": "habitat_logement-range",
           "label": "Logement rangé",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/logement_range.svg"
+          "backgroundColor": "rgb(187, 222, 251)"
         },
         {
           "board": "habitat",
@@ -1770,7 +1781,8 @@
           "column": null,
           "id": "habitat_chez-un-ami-famille",
           "label": "Chez un ami/famille",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/chez_un_ami_famille.svg"
         },
         {
           "board": "habitat",
@@ -1789,7 +1801,8 @@
           "column": null,
           "id": "habitat_dans-un-squat",
           "label": "Dans un squat",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/dans_un_squat.svg"
         },
         {
           "board": "habitat",
@@ -1837,8 +1850,7 @@
           "column": null,
           "id": "habitat_proprietaire",
           "label": "Propriétaire",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/proprietaire.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "habitat",
@@ -1876,7 +1888,8 @@
           "column": null,
           "id": "habitat_logement-propre",
           "label": "Logement propre",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/logement_propre.svg"
         }
       ]
     },
@@ -1916,8 +1929,7 @@
           "column": null,
           "id": "emploi_metier-intellectuel",
           "label": "Métier intellectuel",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/metier_intellectuel.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "emploi",
@@ -1926,8 +1938,7 @@
           "column": null,
           "id": "emploi_metier-manuel",
           "label": "Métier manuel",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/metier_manuel.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "emploi",
@@ -1977,8 +1988,7 @@
           "column": null,
           "id": "transport_bateau",
           "label": "Bâteau",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/bateau.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "transport",
@@ -1997,8 +2007,7 @@
           "column": null,
           "id": "transport_metro",
           "label": "Métro",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/metro.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "transport",
@@ -2027,8 +2036,7 @@
           "column": null,
           "id": "transport_trottinette",
           "label": "Trottinette",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/trottinette.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "transport",
@@ -2037,8 +2045,7 @@
           "column": null,
           "id": "transport_velo",
           "label": "Vélo",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/velo.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "transport",
@@ -2128,7 +2135,8 @@
           "column": null,
           "id": "handicap_handicap-manque-un-membre",
           "label": "Handicap Manque un membre",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/handicap_manque_un_membre.svg"
         },
         {
           "board": "handicap",
@@ -2156,8 +2164,7 @@
           "column": null,
           "id": "handicap_deambulateur",
           "label": "Déambulateur",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/deambulateur.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "handicap",
@@ -2166,8 +2173,7 @@
           "column": null,
           "id": "handicap_fauteuil-roulant-electrique",
           "label": "Fauteuil roulant éléctrique",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/fauteuil_roulant_electrique.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "handicap",
@@ -2748,7 +2754,8 @@
           "column": null,
           "id": "alimentation_petit-pot-bebe",
           "label": "Petit pot bébé",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/petit_pot_bebe.svg"
         },
         {
           "board": "alimentation",
@@ -2876,7 +2883,8 @@
           "column": null,
           "id": "alimentation_quantite-de-lait",
           "label": "Quantité de lait",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/quantite_de_lait.svg"
         },
         {
           "board": "alimentation",
@@ -2885,7 +2893,8 @@
           "column": null,
           "id": "alimentation_enfant-mange-seul",
           "label": "Enfant mange seul",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/enfant_mange_seul.svg"
         },
         {
           "board": "alimentation",
@@ -2963,7 +2972,8 @@
           "column": null,
           "id": "addiction_cannabis",
           "label": "Cannabis",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/cannabis.svg"
         },
         {
           "board": "addiction",
@@ -3021,8 +3031,7 @@
           "column": null,
           "id": "addiction_reseaux-sociaux",
           "label": "Réseaux sociaux",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/reseaux_sociaux.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "addiction",
@@ -3148,7 +3157,8 @@
           "column": null,
           "id": "violence_violence-parent-enfant",
           "label": "Violence parent enfant",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/violence_parent_enfant.svg"
         },
         {
           "board": "violence",
