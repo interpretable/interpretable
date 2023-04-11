@@ -1,188 +1,13 @@
 [
   {
-    "id": "symbol.intepretable.attendre-son-tour",
-    "translatedId": "Attendre son tour",
-    "src": "/symbols/interpretable/attendre_son_tour.svg"
-  },
-  {
-    "id": "symbol.intepretable.administratif",
-    "translatedId": "Administratif",
-    "src": "/symbols/interpretable/administratif.svg"
-  },
-  {
-    "id": "symbol.intepretable.deambulateur",
-    "translatedId": "Déambulateur",
-    "src": "/symbols/interpretable/deambulateur.svg"
-  },
-  {
-    "id": "symbol.intepretable.point-d-interrogation",
-    "translatedId": "Point d'interrogation",
-    "src": "/symbols/interpretable/point_d_interrogation.svg"
-  },
-  {
-    "id": "symbol.intepretable.besoins-de-necessite",
-    "translatedId": "Besoins de nécessité",
-    "src": "/symbols/interpretable/besoins_de_necessite.svg"
-  },
-  {
-    "id": "symbol.intepretable.type-d-habitat",
-    "translatedId": "Type d'habitat",
-    "src": "/symbols/interpretable/type_d_habitat.svg"
-  },
-  {
-    "id": "symbol.intepretable.corps-femme-de-face",
-    "translatedId": "Corps femme de face",
-    "src": "/symbols/interpretable/corps_femme_de_face.svg"
-  },
-  {
-    "id": "symbol.intepretable.bonheur",
-    "translatedId": "Bonheur",
-    "src": "/symbols/interpretable/bonheur.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-elargie",
-    "translatedId": "Famille élargie",
-    "src": "/symbols/interpretable/famille_elargie.svg"
-  },
-  {
-    "id": "symbol.intepretable.euros",
-    "translatedId": "Euros",
-    "src": "/symbols/interpretable/euros.svg"
-  },
-  {
-    "id": "symbol.intepretable.jours-francais",
-    "translatedId": "Jours français",
-    "src": "/symbols/interpretable/jours_francais.svg"
-  },
-  {
-    "id": "symbol.intepretable.salle-de-bains",
-    "translatedId": "Salle de bains",
-    "src": "/symbols/interpretable/salle_de_bains.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-nucleaire",
-    "translatedId": "Famille nucléaire",
-    "src": "/symbols/interpretable/famille_nucleaire.svg"
-  },
-  {
-    "id": "symbol.intepretable.piscine-municipale",
-    "translatedId": "Piscine municipale",
-    "src": "/symbols/interpretable/piscine_municipale.svg"
-  },
-  {
-    "id": "symbol.intepretable.metropole-de-lyon",
-    "translatedId": "Métropole de Lyon",
-    "src": "/symbols/interpretable/metropole_de_lyon.svg"
-  },
-  {
-    "id": "symbol.intepretable.planisphere-drapeaux",
-    "translatedId": "Planisphère drapeaux",
-    "src": "/symbols/interpretable/planisphere_drapeaux.svg"
-  },
-  {
-    "id": "symbol.intepretable.restaurants-du-coeur",
-    "translatedId": "Restaurants du coeur",
-    "src": "/symbols/interpretable/restaurants_du_coeur.svg"
-  },
-  {
-    "id": "symbol.intepretable.besoin",
-    "translatedId": "Besoin",
-    "src": "/symbols/interpretable/besoin.svg"
-  },
-  {
-    "id": "symbol.intepretable.handicap",
-    "translatedId": "Handicap",
-    "src": "/symbols/interpretable/handicap.svg"
-  },
-  {
-    "id": "symbol.intepretable.habillage",
-    "translatedId": "Habillage",
-    "src": "/symbols/interpretable/habillage.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfant-bebe",
-    "translatedId": "Enfant / bébé",
-    "src": "/symbols/interpretable/enfant_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.alimentation",
-    "translatedId": "Alimentation",
-    "src": "/symbols/interpretable/alimentation.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence",
-    "translatedId": "Violence",
-    "src": "/symbols/interpretable/violence.svg"
-  },
-  {
-    "id": "symbol.intepretable.precarite",
-    "translatedId": "Précarité",
-    "src": "/symbols/interpretable/precarite.svg"
-  },
-  {
-    "id": "symbol.intepretable.emploi",
-    "translatedId": "Emploi",
-    "src": "/symbols/interpretable/emploi.svg"
-  },
-  {
-    "id": "symbol.intepretable.transport",
-    "translatedId": "Transport",
-    "src": "/symbols/interpretable/transport.svg"
-  },
-  {
-    "id": "symbol.intepretable.mode-de-garde",
-    "translatedId": "Mode de garde",
-    "src": "/symbols/interpretable/mode_de_garde.svg"
-  },
-  {
-    "id": "symbol.intepretable.insalubrite",
-    "translatedId": "Insalubrité",
-    "src": "/symbols/interpretable/insalubrite.svg"
-  },
-  {
-    "id": "symbol.intepretable.partie-du-corps",
-    "translatedId": "Partie du corps",
-    "src": "/symbols/interpretable/partie_du_corps.svg"
-  },
-  {
-    "id": "symbol.intepretable.5-sens",
-    "translatedId": "5 sens",
-    "src": "/symbols/interpretable/5_sens.svg"
-  },
-  {
-    "id": "symbol.intepretable.objets",
-    "translatedId": "Objets",
-    "src": "/symbols/interpretable/objets.svg"
-  },
-  {
-    "id": "symbol.intepretable.pays-region",
-    "translatedId": "Pays / région",
-    "src": "/symbols/interpretable/pays_region.svg"
-  },
-  {
-    "id": "symbol.intepretable.sante-de-la-femme",
-    "translatedId": "Santé de la femme",
-    "src": "/symbols/interpretable/sante_de_la_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.sexualite",
-    "translatedId": "Sexualité",
-    "src": "/symbols/interpretable/sexualite.svg"
-  },
-  {
-    "id": "symbol.intepretable.addiction",
-    "translatedId": "Addiction",
-    "src": "/symbols/interpretable/addiction.svg"
-  },
-  {
     "id": "symbol.intepretable.agent-metropolitain",
     "translatedId": "Agent métropolitain",
     "src": "/symbols/interpretable/agent_metropolitain.svg"
   },
   {
-    "id": "symbol.intepretable.planning-familial",
-    "translatedId": "Planning familial",
-    "src": "/symbols/interpretable/planning_familial.svg"
+    "id": "symbol.intepretable.j-ai-rendez-vous",
+    "translatedId": "J'ai rendez-vous",
+    "src": "/symbols/interpretable/j_ai_rendezvous.svg"
   },
   {
     "id": "symbol.intepretable.j-ai-deja-reu-rdv",
@@ -195,2189 +20,14 @@
     "src": "/symbols/interpretable/je_veux_un_rdv.svg"
   },
   {
-    "id": "symbol.intepretable.carnet-de-sante",
-    "translatedId": "Carnet de santé",
-    "src": "/symbols/interpretable/carnet_de_sante.svg"
+    "id": "symbol.intepretable.planning-familial",
+    "translatedId": "Planning familial",
+    "src": "/symbols/interpretable/planning_familial.svg"
   },
   {
-    "id": "symbol.intepretable.carte-assurance-maladie",
-    "translatedId": "Carte assurance maladie",
-    "src": "/symbols/interpretable/carte_assurance_maladie.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-d-identite",
-    "translatedId": "Carte d'identité",
-    "src": "/symbols/interpretable/carte_d_identite.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-de-mutuelle",
-    "translatedId": "Carte de mutuelle",
-    "src": "/symbols/interpretable/carte_de_mutuelle.svg"
-  },
-  {
-    "id": "symbol.intepretable.stationnement-handicape",
-    "translatedId": "Stationnement handicapé",
-    "src": "/symbols/interpretable/stationnement_handicape.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-tecely",
-    "translatedId": "Carte Técély",
-    "src": "/symbols/interpretable/carte_tecely.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-oura",
-    "translatedId": "Carte Oura",
-    "src": "/symbols/interpretable/carte_oura.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-sncf",
-    "translatedId": "Carte SNCF",
-    "src": "/symbols/interpretable/carte_sncf.svg"
-  },
-  {
-    "id": "symbol.intepretable.conseiller-conjugual",
-    "translatedId": "Conseiller conjugual",
-    "src": "/symbols/interpretable/conseiller_conjugual.svg"
-  },
-  {
-    "id": "symbol.intepretable.demarche-dematerialisee",
-    "translatedId": "Démarche dématérialisée",
-    "src": "/symbols/interpretable/demarche_dematerialisee.svg"
-  },
-  {
-    "id": "symbol.intepretable.fiche-de-paie",
-    "translatedId": "Fiche de paie",
-    "src": "/symbols/interpretable/fiche_de_paie.svg"
-  },
-  {
-    "id": "symbol.intepretable.avis-d-imposition",
-    "translatedId": "Avis d'imposition",
-    "src": "/symbols/interpretable/avis_d_imposition.svg"
-  },
-  {
-    "id": "symbol.intepretable.justificatif-de-logement",
-    "translatedId": "Justificatif de logement",
-    "src": "/symbols/interpretable/justificatif_de_logement.svg"
-  },
-  {
-    "id": "symbol.intepretable.livret-de-famille",
-    "translatedId": "Livret de famille",
-    "src": "/symbols/interpretable/livret_de_famille.svg"
-  },
-  {
-    "id": "symbol.intepretable.passeport",
-    "translatedId": "Passeport",
-    "src": "/symbols/interpretable/passeport.svg"
-  },
-  {
-    "id": "symbol.intepretable.psychologue",
-    "translatedId": "Psychologue",
-    "src": "/symbols/interpretable/psychologue.svg"
-  },
-  {
-    "id": "symbol.intepretable.recepisse-demande-d-asile",
-    "translatedId": "Récépissé demande d'asile",
-    "src": "/symbols/interpretable/recepisse_demande_d_asile.svg"
-  },
-  {
-    "id": "symbol.intepretable.sans-papier-sans-papier-2",
-    "translatedId": "Sans papier\nSans papier 2",
-    "src": "/symbols/interpretable/sans_papier_sans_papier_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.taxe-fonciere",
-    "translatedId": "Taxe foncière",
-    "src": "/symbols/interpretable/taxe_fonciere.svg"
-  },
-  {
-    "id": "symbol.intepretable.titre-de-sejour",
-    "translatedId": "Titre de séjour",
-    "src": "/symbols/interpretable/titre_de_sejour.svg"
-  },
-  {
-    "id": "symbol.intepretable.facture-eau",
-    "translatedId": "Facture Eau",
-    "src": "/symbols/interpretable/facture_eau.svg"
-  },
-  {
-    "id": "symbol.intepretable.facture-telephone",
-    "translatedId": "Facture Téléphone",
-    "src": "/symbols/interpretable/facture_telephone.svg"
-  },
-  {
-    "id": "symbol.intepretable.aides-metropole",
-    "translatedId": "Aides métropole",
-    "src": "/symbols/interpretable/aides_metropole.svg"
-  },
-  {
-    "id": "symbol.intepretable.appeler",
-    "translatedId": "Appeler",
-    "src": "/symbols/interpretable/appeler.svg"
-  },
-  {
-    "id": "symbol.intepretable.decrocher",
-    "translatedId": "Décrocher",
-    "src": "/symbols/interpretable/decrocher.svg"
-  },
-  {
-    "id": "symbol.intepretable.raccrocher",
-    "translatedId": "Raccrocher",
-    "src": "/symbols/interpretable/raccrocher.svg"
-  },
-  {
-    "id": "symbol.intepretable.charger-le-telephone",
-    "translatedId": "Charger le téléphone",
-    "src": "/symbols/interpretable/charger_le_telephone.svg"
-  },
-  {
-    "id": "symbol.intepretable.bracelet-de-teleassistance",
-    "translatedId": "Bracelet de téléassistance",
-    "src": "/symbols/interpretable/bracelet_de_teleassistance.svg"
-  },
-  {
-    "id": "symbol.intepretable.ascenseur",
-    "translatedId": "Ascenseur",
-    "src": "/symbols/interpretable/ascenseur.svg"
-  },
-  {
-    "id": "symbol.intepretable.avion",
-    "translatedId": "Avion",
-    "src": "/symbols/interpretable/avion.svg"
-  },
-  {
-    "id": "symbol.intepretable.bus",
-    "translatedId": "Bus",
-    "src": "/symbols/interpretable/bus.svg"
-  },
-  {
-    "id": "symbol.intepretable.chez-un-ami-famille",
-    "translatedId": "Chez un ami/famille",
-    "src": "/symbols/interpretable/chez_un_ami_famille.svg"
-  },
-  {
-    "id": "symbol.intepretable.escalier",
-    "translatedId": "Escalier",
-    "src": "/symbols/interpretable/escalier.svg"
-  },
-  {
-    "id": "symbol.intepretable.puces",
-    "translatedId": "Puces ",
-    "src": "/symbols/interpretable/puces.svg"
-  },
-  {
-    "id": "symbol.intepretable.cafard",
-    "translatedId": "Cafard",
-    "src": "/symbols/interpretable/cafard.svg"
-  },
-  {
-    "id": "symbol.intepretable.punaises-de-lit",
-    "translatedId": "Punaises de lit",
-    "src": "/symbols/interpretable/punaises_de_lit.svg"
-  },
-  {
-    "id": "symbol.intepretable.insalubrite-electricite",
-    "translatedId": "Insalubrité électricité",
-    "src": "/symbols/interpretable/insalubrite_electricite.svg"
-  },
-  {
-    "id": "symbol.intepretable.travaux-du-logement",
-    "translatedId": "Travaux du logement",
-    "src": "/symbols/interpretable/travaux_du_logement.svg"
-  },
-  {
-    "id": "symbol.intepretable.moto",
-    "translatedId": "Moto",
-    "src": "/symbols/interpretable/moto.svg"
-  },
-  {
-    "id": "symbol.intepretable.ne-travaille-pas",
-    "translatedId": "Ne travaille pas",
-    "src": "/symbols/interpretable/ne_travaille_pas.svg"
-  },
-  {
-    "id": "symbol.intepretable.retraite",
-    "translatedId": "Retraité",
-    "src": "/symbols/interpretable/retraite.svg"
-  },
-  {
-    "id": "symbol.intepretable.salle-de-bain",
-    "translatedId": "Salle de bain",
-    "src": "/symbols/interpretable/salle_de_bain.svg"
-  },
-  {
-    "id": "symbol.intepretable.dans-la-rue",
-    "translatedId": "Dans la rue",
-    "src": "/symbols/interpretable/dans_la_rue.svg"
-  },
-  {
-    "id": "symbol.intepretable.dans-un-squat",
-    "translatedId": "Dans un squat",
-    "src": "/symbols/interpretable/dans_un_squat.svg"
-  },
-  {
-    "id": "symbol.intepretable.train",
-    "translatedId": "Train",
-    "src": "/symbols/interpretable/train.svg"
-  },
-  {
-    "id": "symbol.intepretable.voisins",
-    "translatedId": "Voisins",
-    "src": "/symbols/interpretable/voisins.svg"
-  },
-  {
-    "id": "symbol.intepretable.voiture",
-    "translatedId": "Voiture",
-    "src": "/symbols/interpretable/voiture.svg"
-  },
-  {
-    "id": "symbol.intepretable.wc",
-    "translatedId": "WC",
-    "src": "/symbols/interpretable/wc.svg"
-  },
-  {
-    "id": "symbol.intepretable.combien-d-habitants",
-    "translatedId": "Combien d'habitants",
-    "src": "/symbols/interpretable/combien_d_habitants.svg"
-  },
-  {
-    "id": "symbol.intepretable.pas-de-trotteur",
-    "translatedId": "Pas de trotteur",
-    "src": "/symbols/interpretable/pas_de_trotteur.svg"
-  },
-  {
-    "id": "symbol.intepretable.locataire",
-    "translatedId": "Locataire",
-    "src": "/symbols/interpretable/locataire.svg"
-  },
-  {
-    "id": "symbol.intepretable.se-mettre-au-lit",
-    "translatedId": "Se mettre au lit",
-    "src": "/symbols/interpretable/se_mettre_au_lit.svg"
-  },
-  {
-    "id": "symbol.intepretable.se-lever-du-lit",
-    "translatedId": "Se lever du lit",
-    "src": "/symbols/interpretable/se_lever_du_lit.svg"
-  },
-  {
-    "id": "symbol.intepretable.hauteur-du-lit",
-    "translatedId": "Hauteur du lit",
-    "src": "/symbols/interpretable/hauteur_du_lit.svg"
-  },
-  {
-    "id": "symbol.intepretable.poubelle",
-    "translatedId": "Poubelle",
-    "src": "/symbols/interpretable/poubelle.svg"
-  },
-  {
-    "id": "symbol.intepretable.garde-par-un-proche",
-    "translatedId": "Garde par un proche",
-    "src": "/symbols/interpretable/garde_par_un_proche.svg"
-  },
-  {
-    "id": "symbol.intepretable.cantine",
-    "translatedId": "Cantine",
-    "src": "/symbols/interpretable/cantine.svg"
-  },
-  {
-    "id": "symbol.intepretable.tente",
-    "translatedId": "Tente",
-    "src": "/symbols/interpretable/tente.svg"
-  },
-  {
-    "id": "symbol.intepretable.corps-homme-de-face",
-    "translatedId": "Corps homme de face",
-    "src": "/symbols/interpretable/corps_homme_de_face.svg"
-  },
-  {
-    "id": "symbol.intepretable.corps-homme-de-dos",
-    "translatedId": "Corps homme de dos",
-    "src": "/symbols/interpretable/corps_homme_de_dos.svg"
-  },
-  {
-    "id": "symbol.intepretable.corps-femme-de-dos",
-    "translatedId": "Corps femme de dos",
-    "src": "/symbols/interpretable/corps_femme_de_dos.svg"
-  },
-  {
-    "id": "symbol.intepretable.buste-femme",
-    "translatedId": "Buste femme",
-    "src": "/symbols/interpretable/buste_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.dos-femme",
-    "translatedId": "Dos femme",
-    "src": "/symbols/interpretable/dos_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.pieds-femme",
-    "translatedId": "Pieds femme",
-    "src": "/symbols/interpretable/pieds_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.jambes-femme",
-    "translatedId": "Jambes femme",
-    "src": "/symbols/interpretable/jambes_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.haut-du-corps-femme",
-    "translatedId": "Haut du corps femme",
-    "src": "/symbols/interpretable/haut_du_corps_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.bas-du-corps-femme",
-    "translatedId": "Bas du corps femme",
-    "src": "/symbols/interpretable/bas_du_corps_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.buste-homme",
-    "translatedId": "Buste homme",
-    "src": "/symbols/interpretable/buste_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.dos-homme",
-    "translatedId": "Dos homme",
-    "src": "/symbols/interpretable/dos_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.pieds-homme",
-    "translatedId": "Pieds homme",
-    "src": "/symbols/interpretable/pieds_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.jambes-homme",
-    "translatedId": "Jambes homme",
-    "src": "/symbols/interpretable/jambes_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.haut-du-corps-homme",
-    "translatedId": "Haut du corps homme",
-    "src": "/symbols/interpretable/haut_du_corps_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.bas-du-corps-homme",
-    "translatedId": "Bas du corps homme",
-    "src": "/symbols/interpretable/bas_du_corps_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.cheveux",
-    "translatedId": "Cheveux",
-    "src": "/symbols/interpretable/cheveux.svg"
-  },
-  {
-    "id": "symbol.intepretable.visage",
-    "translatedId": "Visage",
-    "src": "/symbols/interpretable/visage.svg"
-  },
-  {
-    "id": "symbol.intepretable.oreilles",
-    "translatedId": "Oreilles",
-    "src": "/symbols/interpretable/oreilles.svg"
-  },
-  {
-    "id": "symbol.intepretable.mains",
-    "translatedId": "Mains",
-    "src": "/symbols/interpretable/mains.svg"
-  },
-  {
-    "id": "symbol.intepretable.doigts",
-    "translatedId": "Doigts",
-    "src": "/symbols/interpretable/doigts.svg"
-  },
-  {
-    "id": "symbol.intepretable.ongles",
-    "translatedId": "Ongles",
-    "src": "/symbols/interpretable/ongles.svg"
-  },
-  {
-    "id": "symbol.intepretable.bouche",
-    "translatedId": "Bouche",
-    "src": "/symbols/interpretable/bouche.svg"
-  },
-  {
-    "id": "symbol.intepretable.dents",
-    "translatedId": "Dents",
-    "src": "/symbols/interpretable/dents.svg"
-  },
-  {
-    "id": "symbol.intepretable.nez",
-    "translatedId": "Nez",
-    "src": "/symbols/interpretable/nez.svg"
-  },
-  {
-    "id": "symbol.intepretable.chaussettes",
-    "translatedId": "Chaussettes",
-    "src": "/symbols/interpretable/chaussettes.svg"
-  },
-  {
-    "id": "symbol.intepretable.chaussure-a-lacets",
-    "translatedId": "Chaussure à lacets",
-    "src": "/symbols/interpretable/chaussure_a_lacets.svg"
-  },
-  {
-    "id": "symbol.intepretable.boutons-de-vetement",
-    "translatedId": "Boutons de vêtement",
-    "src": "/symbols/interpretable/boutons_de_vetement.svg"
-  },
-  {
-    "id": "symbol.intepretable.fermeture-eclair",
-    "translatedId": "Fermeture éclair",
-    "src": "/symbols/interpretable/fermeture_eclair.svg"
-  },
-  {
-    "id": "symbol.intepretable.assis",
-    "translatedId": "Assis",
-    "src": "/symbols/interpretable/assis.svg"
-  },
-  {
-    "id": "symbol.intepretable.debout",
-    "translatedId": "Debout",
-    "src": "/symbols/interpretable/debout.svg"
-  },
-  {
-    "id": "symbol.intepretable.couche",
-    "translatedId": "Couché",
-    "src": "/symbols/interpretable/couche.svg"
-  },
-  {
-    "id": "symbol.intepretable.odorat-visage",
-    "translatedId": "Odorat visage",
-    "src": "/symbols/interpretable/odorat_visage.svg"
-  },
-  {
-    "id": "symbol.intepretable.odorat-nez",
-    "translatedId": "Odorat nez",
-    "src": "/symbols/interpretable/odorat_nez.svg"
-  },
-  {
-    "id": "symbol.intepretable.ouie-visage",
-    "translatedId": "Ouïe visage",
-    "src": "/symbols/interpretable/ouie_visage.svg"
-  },
-  {
-    "id": "symbol.intepretable.ouie-oreille",
-    "translatedId": "Ouïe oreille",
-    "src": "/symbols/interpretable/ouie_oreille.svg"
-  },
-  {
-    "id": "symbol.intepretable.gout-visage",
-    "translatedId": "Goût visage",
-    "src": "/symbols/interpretable/gout_visage.svg"
-  },
-  {
-    "id": "symbol.intepretable.gout-bouche",
-    "translatedId": "Goût bouche",
-    "src": "/symbols/interpretable/gout_bouche.svg"
-  },
-  {
-    "id": "symbol.intepretable.vue-visage",
-    "translatedId": "Vue visage",
-    "src": "/symbols/interpretable/vue_visage.svg"
-  },
-  {
-    "id": "symbol.intepretable.vue-yeux",
-    "translatedId": "Vue yeux",
-    "src": "/symbols/interpretable/vue_yeux.svg"
-  },
-  {
-    "id": "symbol.intepretable.toucher",
-    "translatedId": "Toucher",
-    "src": "/symbols/interpretable/toucher.svg"
-  },
-  {
-    "id": "symbol.intepretable.toucher-2",
-    "translatedId": "\nToucher 2",
-    "src": "/symbols/interpretable/toucher_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.poumons-bebe",
-    "translatedId": "Poumons bébé",
-    "src": "/symbols/interpretable/poumons_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.deprime",
-    "translatedId": "Déprime",
-    "src": "/symbols/interpretable/deprime.svg"
-  },
-  {
-    "id": "symbol.intepretable.fatigue",
-    "translatedId": "Fatigue",
-    "src": "/symbols/interpretable/fatigue.svg"
-  },
-  {
-    "id": "symbol.intepretable.tristesse",
-    "translatedId": "Tristesse",
-    "src": "/symbols/interpretable/tristesse.svg"
-  },
-  {
-    "id": "symbol.intepretable.colere",
-    "translatedId": "Colère",
-    "src": "/symbols/interpretable/colere.svg"
-  },
-  {
-    "id": "symbol.intepretable.peur",
-    "translatedId": "Peur",
-    "src": "/symbols/interpretable/peur.svg"
-  },
-  {
-    "id": "symbol.intepretable.content",
-    "translatedId": "Content",
-    "src": "/symbols/interpretable/content.svg"
-  },
-  {
-    "id": "symbol.intepretable.pas-content",
-    "translatedId": "Pas content",
-    "src": "/symbols/interpretable/pas_content.svg"
-  },
-  {
-    "id": "symbol.intepretable.bien-etre",
-    "translatedId": "Bien-être",
-    "src": "/symbols/interpretable/bienetre.svg"
-  },
-  {
-    "id": "symbol.intepretable.couple",
-    "translatedId": "Couple",
-    "src": "/symbols/interpretable/couple.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-recomposee",
-    "translatedId": "Famille recomposée",
-    "src": "/symbols/interpretable/famille_recomposee.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-adoptive",
-    "translatedId": "Famille adoptive",
-    "src": "/symbols/interpretable/famille_adoptive.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-au-pays",
-    "translatedId": "Famille au pays",
-    "src": "/symbols/interpretable/famille_au_pays.svg"
-  },
-  {
-    "id": "symbol.intepretable.mariage",
-    "translatedId": "Mariage",
-    "src": "/symbols/interpretable/mariage.svg"
-  },
-  {
-    "id": "symbol.intepretable.famille-monoparentale",
-    "translatedId": "Famille monoparentale",
-    "src": "/symbols/interpretable/famille_monoparentale.svg"
-  },
-  {
-    "id": "symbol.intepretable.nombre-d-enfants",
-    "translatedId": "Nombre d'enfants",
-    "src": "/symbols/interpretable/nombre_d_enfants.svg"
-  },
-  {
-    "id": "symbol.intepretable.ressources-financieres",
-    "translatedId": "Ressources financières",
-    "src": "/symbols/interpretable/ressources_financieres.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-bleue",
-    "translatedId": "Carte bleue",
-    "src": "/symbols/interpretable/carte_bleue.svg"
-  },
-  {
-    "id": "symbol.intepretable.dollars",
-    "translatedId": "Dollars",
-    "src": "/symbols/interpretable/dollars.svg"
-  },
-  {
-    "id": "symbol.intepretable.mandat-sepa",
-    "translatedId": "Mandat SEPA",
-    "src": "/symbols/interpretable/mandat_sepa.svg"
-  },
-  {
-    "id": "symbol.intepretable.cheque",
-    "translatedId": "Chèque",
-    "src": "/symbols/interpretable/cheque.svg"
-  },
-  {
-    "id": "symbol.intepretable.echelle-numerique",
-    "translatedId": "Échelle numérique",
-    "src": "/symbols/interpretable/echelle_numerique.svg"
-  },
-  {
-    "id": "symbol.intepretable.jours-anglais",
-    "translatedId": "Jours anglais",
-    "src": "/symbols/interpretable/jours_anglais.svg"
-  },
-  {
-    "id": "symbol.intepretable.soleil",
-    "translatedId": "Soleil",
-    "src": "/symbols/interpretable/soleil.svg"
-  },
-  {
-    "id": "symbol.intepretable.pluie",
-    "translatedId": "Pluie",
-    "src": "/symbols/interpretable/pluie.svg"
-  },
-  {
-    "id": "symbol.intepretable.nuage",
-    "translatedId": "Nuage",
-    "src": "/symbols/interpretable/nuage.svg"
-  },
-  {
-    "id": "symbol.intepretable.nuage-et-soleil",
-    "translatedId": "Nuage et soleil",
-    "src": "/symbols/interpretable/nuage_et_soleil.svg"
-  },
-  {
-    "id": "symbol.intepretable.orage",
-    "translatedId": "Orage",
-    "src": "/symbols/interpretable/orage.svg"
-  },
-  {
-    "id": "symbol.intepretable.neige",
-    "translatedId": "Neige",
-    "src": "/symbols/interpretable/neige.svg"
-  },
-  {
-    "id": "symbol.intepretable.printemps",
-    "translatedId": "Printemps",
-    "src": "/symbols/interpretable/printemps.svg"
-  },
-  {
-    "id": "symbol.intepretable.ete",
-    "translatedId": "Eté",
-    "src": "/symbols/interpretable/ete.svg"
-  },
-  {
-    "id": "symbol.intepretable.automne",
-    "translatedId": "Automne",
-    "src": "/symbols/interpretable/automne.svg"
-  },
-  {
-    "id": "symbol.intepretable.hiver",
-    "translatedId": "Hiver",
-    "src": "/symbols/interpretable/hiver.svg"
-  },
-  {
-    "id": "symbol.intepretable.saisons",
-    "translatedId": "Saisons",
-    "src": "/symbols/interpretable/saisons.svg"
-  },
-  {
-    "id": "symbol.intepretable.planisphere",
-    "translatedId": "Planisphère",
-    "src": "/symbols/interpretable/planisphere.svg"
-  },
-  {
-    "id": "symbol.intepretable.prison",
-    "translatedId": "Prison",
-    "src": "/symbols/interpretable/prison.svg"
-  },
-  {
-    "id": "symbol.intepretable.bonjour-autres-langues",
-    "translatedId": "Bonjour autres langues",
-    "src": "/symbols/interpretable/bonjour_autres_langues.svg"
-  },
-  {
-    "id": "symbol.intepretable.europe",
-    "translatedId": "Europe",
-    "src": "/symbols/interpretable/europe.svg"
-  },
-  {
-    "id": "symbol.intepretable.amerique-du-nord",
-    "translatedId": "Amérique du Nord",
-    "src": "/symbols/interpretable/amerique_du_nord.svg"
-  },
-  {
-    "id": "symbol.intepretable.amerique-du-sud",
-    "translatedId": "Amérique du Sud",
-    "src": "/symbols/interpretable/amerique_du_sud.svg"
-  },
-  {
-    "id": "symbol.intepretable.oceanie",
-    "translatedId": "Océanie",
-    "src": "/symbols/interpretable/oceanie.svg"
-  },
-  {
-    "id": "symbol.intepretable.asie",
-    "translatedId": "Asie",
-    "src": "/symbols/interpretable/asie.svg"
-  },
-  {
-    "id": "symbol.intepretable.cuillere",
-    "translatedId": "Cuillère",
-    "src": "/symbols/interpretable/cuillere.svg"
-  },
-  {
-    "id": "symbol.intepretable.assiette",
-    "translatedId": "Assiette",
-    "src": "/symbols/interpretable/assiette.svg"
-  },
-  {
-    "id": "symbol.intepretable.verre",
-    "translatedId": "Verre",
-    "src": "/symbols/interpretable/verre.svg"
-  },
-  {
-    "id": "symbol.intepretable.fourchette",
-    "translatedId": "Fourchette",
-    "src": "/symbols/interpretable/fourchette.svg"
-  },
-  {
-    "id": "symbol.intepretable.couteau",
-    "translatedId": "Couteau",
-    "src": "/symbols/interpretable/couteau.svg"
-  },
-  {
-    "id": "symbol.intepretable.plat",
-    "translatedId": "Plat",
-    "src": "/symbols/interpretable/plat.svg"
-  },
-  {
-    "id": "symbol.intepretable.mettre-la-table",
-    "translatedId": "Mettre la table",
-    "src": "/symbols/interpretable/mettre_la_table.svg"
-  },
-  {
-    "id": "symbol.intepretable.aspirateur",
-    "translatedId": "Aspirateur",
-    "src": "/symbols/interpretable/aspirateur.svg"
-  },
-  {
-    "id": "symbol.intepretable.alphabet-francais",
-    "translatedId": "Alphabet français",
-    "src": "/symbols/interpretable/alphabet_francais.svg"
-  },
-  {
-    "id": "symbol.intepretable.aveugle",
-    "translatedId": "Aveugle",
-    "src": "/symbols/interpretable/aveugle.svg"
-  },
-  {
-    "id": "symbol.intepretable.handicap-manque-un-membre",
-    "translatedId": "Handicap Manque un membre",
-    "src": "/symbols/interpretable/handicap_manque_un_membre.svg"
-  },
-  {
-    "id": "symbol.intepretable.non",
-    "translatedId": "Non",
-    "src": "/symbols/interpretable/non.svg"
-  },
-  {
-    "id": "symbol.intepretable.oui",
-    "translatedId": "Oui",
-    "src": "/symbols/interpretable/oui.svg"
-  },
-  {
-    "id": "symbol.intepretable.ne-pas",
-    "translatedId": "Ne pas",
-    "src": "/symbols/interpretable/ne_pas.svg"
-  },
-  {
-    "id": "symbol.intepretable.positif-autoriser",
-    "translatedId": "Positif/Autoriser",
-    "src": "/symbols/interpretable/positif_autoriser.svg"
-  },
-  {
-    "id": "symbol.intepretable.brosse-a-biberon",
-    "translatedId": "Brosse à biberon",
-    "src": "/symbols/interpretable/brosse_a_biberon.svg"
-  },
-  {
-    "id": "symbol.intepretable.flacon-vide",
-    "translatedId": "Flacon vide",
-    "src": "/symbols/interpretable/flacon_vide.svg"
-  },
-  {
-    "id": "symbol.intepretable.baignoire-bebe",
-    "translatedId": "Baignoire bébé",
-    "src": "/symbols/interpretable/baignoire_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.temperature-eau-bebe",
-    "translatedId": "Température eau bébé",
-    "src": "/symbols/interpretable/temperature_eau_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.temperature-air",
-    "translatedId": "Température air",
-    "src": "/symbols/interpretable/temperature_air.svg"
-  },
-  {
-    "id": "symbol.intepretable.quelle-temperature",
-    "translatedId": "Quelle température",
-    "src": "/symbols/interpretable/quelle_temperature.svg"
-  },
-  {
-    "id": "symbol.intepretable.mouchoirs",
-    "translatedId": "Mouchoirs",
-    "src": "/symbols/interpretable/mouchoirs.svg"
-  },
-  {
-    "id": "symbol.intepretable.lingettes",
-    "translatedId": "Lingettes",
-    "src": "/symbols/interpretable/lingettes.svg"
-  },
-  {
-    "id": "symbol.intepretable.dentifrice",
-    "translatedId": "Dentifrice",
-    "src": "/symbols/interpretable/dentifrice.svg"
-  },
-  {
-    "id": "symbol.intepretable.brosse-a-dents",
-    "translatedId": "Brosse à dents",
-    "src": "/symbols/interpretable/brosse_a_dents.svg"
-  },
-  {
-    "id": "symbol.intepretable.brosse-a-dents-et-dentifrice",
-    "translatedId": "Brosse à dents et dentifrice",
-    "src": "/symbols/interpretable/brosse_a_dents_et_dentifrice.svg"
-  },
-  {
-    "id": "symbol.intepretable.peigne-et-brosse",
-    "translatedId": "Peigne et brosse",
-    "src": "/symbols/interpretable/peigne_et_brosse.svg"
-  },
-  {
-    "id": "symbol.intepretable.brosse-a-cheveux",
-    "translatedId": "Brosse à cheveux",
-    "src": "/symbols/interpretable/brosse_a_cheveux.svg"
-  },
-  {
-    "id": "symbol.intepretable.cotons-tiges",
-    "translatedId": "Cotons tiges",
-    "src": "/symbols/interpretable/cotons_tiges.svg"
-  },
-  {
-    "id": "symbol.intepretable.cosy-bebe",
-    "translatedId": "Cosy bébé",
-    "src": "/symbols/interpretable/cosy_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.siege-auto-bebe",
-    "translatedId": "Siège-auto bébé",
-    "src": "/symbols/interpretable/siegeauto_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.chaise-haute-bebe",
-    "translatedId": "Chaise haute bébé",
-    "src": "/symbols/interpretable/chaise_haute_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.chaise",
-    "translatedId": "Chaise",
-    "src": "/symbols/interpretable/chaise.svg"
-  },
-  {
-    "id": "symbol.intepretable.poussette",
-    "translatedId": "Poussette",
-    "src": "/symbols/interpretable/poussette.svg"
-  },
-  {
-    "id": "symbol.intepretable.trotteur",
-    "translatedId": "Trotteur",
-    "src": "/symbols/interpretable/trotteur.svg"
-  },
-  {
-    "id": "symbol.intepretable.jouet-voiture-bebe",
-    "translatedId": "Jouet voiture bébé",
-    "src": "/symbols/interpretable/jouet_voiture_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.velo-petites-roulettes",
-    "translatedId": "Vélo petites roulettes",
-    "src": "/symbols/interpretable/velo_petites_roulettes.svg"
-  },
-  {
-    "id": "symbol.intepretable.console-de-jeux",
-    "translatedId": "Console de jeux",
-    "src": "/symbols/interpretable/console_de_jeux.svg"
-  },
-  {
-    "id": "symbol.intepretable.lit-simple",
-    "translatedId": "Lit simple",
-    "src": "/symbols/interpretable/lit_simple.svg"
-  },
-  {
-    "id": "symbol.intepretable.lit-double",
-    "translatedId": "Lit double",
-    "src": "/symbols/interpretable/lit_double.svg"
-  },
-  {
-    "id": "symbol.intepretable.cuisiniere",
-    "translatedId": "Cuisinière",
-    "src": "/symbols/interpretable/cuisiniere.svg"
-  },
-  {
-    "id": "symbol.intepretable.canape",
-    "translatedId": "Canapé",
-    "src": "/symbols/interpretable/canape.svg"
-  },
-  {
-    "id": "symbol.intepretable.assiette-avec-repas",
-    "translatedId": "Assiette avec repas",
-    "src": "/symbols/interpretable/assiette_avec_repas.svg"
-  },
-  {
-    "id": "symbol.intepretable.boite-a-repas",
-    "translatedId": "Boîte à repas",
-    "src": "/symbols/interpretable/boite_a_repas.svg"
-  },
-  {
-    "id": "symbol.intepretable.berceau-bebe",
-    "translatedId": "Berceau bébé",
-    "src": "/symbols/interpretable/berceau_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.matelas",
-    "translatedId": "Matelas",
-    "src": "/symbols/interpretable/matelas.svg"
-  },
-  {
-    "id": "symbol.intepretable.biberon-verre",
-    "translatedId": "Biberon verre",
-    "src": "/symbols/interpretable/biberon_verre.svg"
-  },
-  {
-    "id": "symbol.intepretable.vetements-hiver",
-    "translatedId": "Vêtements hiver",
-    "src": "/symbols/interpretable/vetements_hiver.svg"
-  },
-  {
-    "id": "symbol.intepretable.vetements-ete",
-    "translatedId": "Vêtements été",
-    "src": "/symbols/interpretable/vetements_ete.svg"
-  },
-  {
-    "id": "symbol.intepretable.vetements-mi-saison",
-    "translatedId": "Vêtements mi-saison",
-    "src": "/symbols/interpretable/vetements_misaison.svg"
-  },
-  {
-    "id": "symbol.intepretable.logement-sale",
-    "translatedId": "Logement sale",
-    "src": "/symbols/interpretable/logement_sale.svg"
-  },
-  {
-    "id": "symbol.intepretable.logement-propre",
-    "translatedId": "Logement propre",
-    "src": "/symbols/interpretable/logement_propre.svg"
-  },
-  {
-    "id": "symbol.intepretable.faire-le-menage",
-    "translatedId": "Faire le ménage",
-    "src": "/symbols/interpretable/faire_le_menage.svg"
-  },
-  {
-    "id": "symbol.intepretable.faire-ses-courses",
-    "translatedId": "Faire ses courses",
-    "src": "/symbols/interpretable/faire_ses_courses.svg"
-  },
-  {
-    "id": "symbol.intepretable.laver-son-linge",
-    "translatedId": "Laver son linge",
-    "src": "/symbols/interpretable/laver_son_linge.svg"
-  },
-  {
-    "id": "symbol.intepretable.individu",
-    "translatedId": "Individu",
-    "src": "/symbols/interpretable/individu.svg"
-  },
-  {
-    "id": "symbol.intepretable.homme-adulte",
-    "translatedId": "Homme adulte",
-    "src": "/symbols/interpretable/homme_adulte.svg"
-  },
-  {
-    "id": "symbol.intepretable.femme-adulte",
-    "translatedId": "Femme adulte",
-    "src": "/symbols/interpretable/femme_adulte.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfant",
-    "translatedId": "Enfant",
-    "src": "/symbols/interpretable/enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.adolescent",
-    "translatedId": "Adolescent",
-    "src": "/symbols/interpretable/adolescent.svg"
-  },
-  {
-    "id": "symbol.intepretable.personne-agee-femme",
-    "translatedId": "Personne âgée Femme",
-    "src": "/symbols/interpretable/personne_agee_femme.svg"
-  },
-  {
-    "id": "symbol.intepretable.personne-agee-homme",
-    "translatedId": "Personne âgée Homme",
-    "src": "/symbols/interpretable/personne_agee_homme.svg"
-  },
-  {
-    "id": "symbol.intepretable.personne-precaire",
-    "translatedId": "Personne précaire",
-    "src": "/symbols/interpretable/personne_precaire.svg"
-  },
-  {
-    "id": "symbol.intepretable.age-enfant",
-    "translatedId": "Age enfant",
-    "src": "/symbols/interpretable/age_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.puzzle",
-    "translatedId": "Puzzle",
-    "src": "/symbols/interpretable/puzzle.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux-nourisson",
-    "translatedId": "Jeux nourisson",
-    "src": "/symbols/interpretable/jeux_nourisson.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux-bebe-3-6-mois",
-    "translatedId": "Jeux bébé 3 6 mois",
-    "src": "/symbols/interpretable/jeux_bebe_3_6_mois.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux-bebe-9-18-mois",
-    "translatedId": "Jeux bébé 9 18 mois",
-    "src": "/symbols/interpretable/jeux_bebe_9_18_mois.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux-enfant-18-36-mois",
-    "translatedId": "Jeux enfant 18/36 mois",
-    "src": "/symbols/interpretable/jeux_enfant_18_36_mois.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux-3-ans-et-plus",
-    "translatedId": "Jeux 3 ans et plus",
-    "src": "/symbols/interpretable/jeux_3_ans_et_plus.svg"
-  },
-  {
-    "id": "symbol.intepretable.deguisement",
-    "translatedId": "Déguisement",
-    "src": "/symbols/interpretable/deguisement.svg"
-  },
-  {
-    "id": "symbol.intepretable.parc-pour-enfants",
-    "translatedId": "Parc pour enfants",
-    "src": "/symbols/interpretable/parc_pour_enfants.svg"
-  },
-  {
-    "id": "symbol.intepretable.lecture",
-    "translatedId": "Lecture",
-    "src": "/symbols/interpretable/lecture.svg"
-  },
-  {
-    "id": "symbol.intepretable.tapis-de-jeu",
-    "translatedId": "Tapis de jeu",
-    "src": "/symbols/interpretable/tapis_de_jeu.svg"
-  },
-  {
-    "id": "symbol.intepretable.comptine",
-    "translatedId": "Comptine",
-    "src": "/symbols/interpretable/comptine.svg"
-  },
-  {
-    "id": "symbol.intepretable.dessin",
-    "translatedId": "Dessin",
-    "src": "/symbols/interpretable/dessin.svg"
-  },
-  {
-    "id": "symbol.intepretable.mediatheque",
-    "translatedId": "Médiathèque",
-    "src": "/symbols/interpretable/mediatheque.svg"
-  },
-  {
-    "id": "symbol.intepretable.ludotheque",
-    "translatedId": "Ludothèque",
-    "src": "/symbols/interpretable/ludotheque.svg"
-  },
-  {
-    "id": "symbol.intepretable.centre-de-loisirs",
-    "translatedId": "Centre de loisirs",
-    "src": "/symbols/interpretable/centre_de_loisirs.svg"
-  },
-  {
-    "id": "symbol.intepretable.ecouter-de-la-musique",
-    "translatedId": "Écouter de la musique",
-    "src": "/symbols/interpretable/ecouter_de_la_musique.svg"
-  },
-  {
-    "id": "symbol.intepretable.protection-maternelle-infantile",
-    "translatedId": "Protection Maternelle Infantile",
-    "src": "/symbols/interpretable/protection_maternelle_infantile.svg"
-  },
-  {
-    "id": "symbol.intepretable.contacts-au-pays",
-    "translatedId": "Contacts au pays",
-    "src": "/symbols/interpretable/contacts_au_pays.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfants-au-pays",
-    "translatedId": "Enfants au pays",
-    "src": "/symbols/interpretable/enfants_au_pays.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeux",
-    "translatedId": "Jeux",
-    "src": "/symbols/interpretable/jeux.svg"
-  },
-  {
-    "id": "symbol.intepretable.cesarienne",
-    "translatedId": "Césarienne",
-    "src": "/symbols/interpretable/cesarienne.svg"
-  },
-  {
-    "id": "symbol.intepretable.accouchement-voie-basse",
-    "translatedId": "Accouchement voie basse",
-    "src": "/symbols/interpretable/accouchement_voie_basse.svg"
-  },
-  {
-    "id": "symbol.intepretable.alcool",
-    "translatedId": "Alcool",
-    "src": "/symbols/interpretable/alcool.svg"
-  },
-  {
-    "id": "symbol.intepretable.ambulance",
-    "translatedId": "Ambulance",
-    "src": "/symbols/interpretable/ambulance.svg"
-  },
-  {
-    "id": "symbol.intepretable.babyphone",
-    "translatedId": "Babyphone",
-    "src": "/symbols/interpretable/babyphone.svg"
-  },
-  {
-    "id": "symbol.intepretable.baignoire",
-    "translatedId": "Baignoire",
-    "src": "/symbols/interpretable/baignoire.svg"
-  },
-  {
-    "id": "symbol.intepretable.boire",
-    "translatedId": "Boire",
-    "src": "/symbols/interpretable/boire.svg"
-  },
-  {
-    "id": "symbol.intepretable.cannabis",
-    "translatedId": "Cannabis",
-    "src": "/symbols/interpretable/cannabis.svg"
-  },
-  {
-    "id": "symbol.intepretable.canne",
-    "translatedId": "Canne",
-    "src": "/symbols/interpretable/canne.svg"
-  },
-  {
-    "id": "symbol.intepretable.cigarette",
-    "translatedId": "Cigarette",
-    "src": "/symbols/interpretable/cigarette.svg"
-  },
-  {
-    "id": "symbol.intepretable.contraception",
-    "translatedId": "Contraception",
-    "src": "/symbols/interpretable/contraception.svg"
-  },
-  {
-    "id": "symbol.intepretable.implant-contraceptif",
-    "translatedId": "Implant contraceptif",
-    "src": "/symbols/interpretable/implant_contraceptif.svg"
-  },
-  {
-    "id": "symbol.intepretable.ligature-des-trompes",
-    "translatedId": "Ligature des trompes",
-    "src": "/symbols/interpretable/ligature_des_trompes.svg"
-  },
-  {
-    "id": "symbol.intepretable.declaration-de-grossesse",
-    "translatedId": "Déclaration de grossesse",
-    "src": "/symbols/interpretable/declaration_de_grossesse.svg"
-  },
-  {
-    "id": "symbol.intepretable.delire-et-hallucination",
-    "translatedId": "Délire et hallucination",
-    "src": "/symbols/interpretable/delire_et_hallucination.svg"
-  },
-  {
-    "id": "symbol.intepretable.depression",
-    "translatedId": "Dépression",
-    "src": "/symbols/interpretable/depression.svg"
-  },
-  {
-    "id": "symbol.intepretable.douche",
-    "translatedId": "Douche",
-    "src": "/symbols/interpretable/douche.svg"
-  },
-  {
-    "id": "symbol.intepretable.drogue-dure",
-    "translatedId": "Drogue dure",
-    "src": "/symbols/interpretable/drogue_dure.svg"
-  },
-  {
-    "id": "symbol.intepretable.echographie-stade-1",
-    "translatedId": "Échographie Stade 1",
-    "src": "/symbols/interpretable/echographie_stade_1.svg"
-  },
-  {
-    "id": "symbol.intepretable.echographie-stade-2",
-    "translatedId": "Échographie Stade 2",
-    "src": "/symbols/interpretable/echographie_stade_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.echographie-stade-3",
-    "translatedId": "Échographie Stade 3",
-    "src": "/symbols/interpretable/echographie_stade_3.svg"
-  },
-  {
-    "id": "symbol.intepretable.fauteuil-roulant-manuel",
-    "translatedId": "Fauteuil roulant manuel",
-    "src": "/symbols/interpretable/fauteuil_roulant_manuel.svg"
-  },
-  {
-    "id": "symbol.intepretable.grossesse-desiree-2",
-    "translatedId": "Grossesse désirée 2",
-    "src": "/symbols/interpretable/grossesse_desiree_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.grossesse-non-desiree",
-    "translatedId": "Grossesse non désirée",
-    "src": "/symbols/interpretable/grossesse_non_desiree.svg"
-  },
-  {
-    "id": "symbol.intepretable.grossesse-non-desiree-2",
-    "translatedId": "Grossesse non désirée 2",
-    "src": "/symbols/interpretable/grossesse_non_desiree_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.guerre",
-    "translatedId": "Guerre",
-    "src": "/symbols/interpretable/guerre.svg"
-  },
-  {
-    "id": "symbol.intepretable.insomnie",
-    "translatedId": "Insomnie",
-    "src": "/symbols/interpretable/insomnie.svg"
-  },
-  {
-    "id": "symbol.intepretable.lit-bebe-encombre",
-    "translatedId": "Lit bébé encombré ",
-    "src": "/symbols/interpretable/lit_bebe_encombre.svg"
-  },
-  {
-    "id": "symbol.intepretable.stade-de-lecture",
-    "translatedId": "Stade de lecture ",
-    "src": "/symbols/interpretable/stade_de_lecture.svg"
-  },
-  {
-    "id": "symbol.intepretable.lunettes",
-    "translatedId": "Lunettes",
-    "src": "/symbols/interpretable/lunettes.svg"
-  },
-  {
-    "id": "symbol.intepretable.manger-mal",
-    "translatedId": "Manger mal",
-    "src": "/symbols/interpretable/manger_mal.svg"
-  },
-  {
-    "id": "symbol.intepretable.moustique",
-    "translatedId": "Moustique",
-    "src": "/symbols/interpretable/moustique.svg"
-  },
-  {
-    "id": "symbol.intepretable.mst",
-    "translatedId": "MST",
-    "src": "/symbols/interpretable/mst.svg"
-  },
-  {
-    "id": "symbol.intepretable.ordinateur",
-    "translatedId": "Ordinateur",
-    "src": "/symbols/interpretable/ordinateur.svg"
-  },
-  {
-    "id": "symbol.intepretable.ouvrir-un-contenant",
-    "translatedId": "Ouvrir un contenant",
-    "src": "/symbols/interpretable/ouvrir_un_contenant.svg"
-  },
-  {
-    "id": "symbol.intepretable.parler",
-    "translatedId": "Parler",
-    "src": "/symbols/interpretable/parler.svg"
-  },
-  {
-    "id": "symbol.intepretable.pas-de-contraception",
-    "translatedId": "Pas de contraception",
-    "src": "/symbols/interpretable/pas_de_contraception.svg"
-  },
-  {
-    "id": "symbol.intepretable.pas-de-bonbon",
-    "translatedId": "Pas de bonbon",
-    "src": "/symbols/interpretable/pas_de_bonbon.svg"
-  },
-  {
-    "id": "symbol.intepretable.peluche",
-    "translatedId": "Peluche",
-    "src": "/symbols/interpretable/peluche.svg"
-  },
-  {
-    "id": "symbol.intepretable.pilule",
-    "translatedId": "Pilule",
-    "src": "/symbols/interpretable/pilule.svg"
-  },
-  {
-    "id": "symbol.intepretable.porno",
-    "translatedId": "Porno",
-    "src": "/symbols/interpretable/porno.svg"
-  },
-  {
-    "id": "symbol.intepretable.portage-de-repas",
-    "translatedId": "Portage de repas",
-    "src": "/symbols/interpretable/portage_de_repas.svg"
-  },
-  {
-    "id": "symbol.intepretable.poux",
-    "translatedId": "Poux",
-    "src": "/symbols/interpretable/poux.svg"
-  },
-  {
-    "id": "symbol.intepretable.prise-de-sang-adulte",
-    "translatedId": "Prise de sang adulte",
-    "src": "/symbols/interpretable/prise_de_sang_adulte.svg"
-  },
-  {
-    "id": "symbol.intepretable.culotte-menstruelle",
-    "translatedId": "Culotte menstruelle",
-    "src": "/symbols/interpretable/culotte_menstruelle.svg"
-  },
-  {
-    "id": "symbol.intepretable.pyjama",
-    "translatedId": "Pyjama",
-    "src": "/symbols/interpretable/pyjama.svg"
-  },
-  {
-    "id": "symbol.intepretable.body",
-    "translatedId": "Body",
-    "src": "/symbols/interpretable/body.svg"
-  },
-  {
-    "id": "symbol.intepretable.gigoteuse",
-    "translatedId": "Gigoteuse",
-    "src": "/symbols/interpretable/gigoteuse.svg"
-  },
-  {
-    "id": "symbol.intepretable.rasage",
-    "translatedId": "Rasage",
-    "src": "/symbols/interpretable/rasage.svg"
-  },
-  {
-    "id": "symbol.intepretable.sequestration",
-    "translatedId": "Séquestration",
-    "src": "/symbols/interpretable/sequestration.svg"
-  },
-  {
-    "id": "symbol.intepretable.smartphone",
-    "translatedId": "Smartphone",
-    "src": "/symbols/interpretable/smartphone.svg"
-  },
-  {
-    "id": "symbol.intepretable.solitude",
-    "translatedId": "Solitude",
-    "src": "/symbols/interpretable/solitude.svg"
-  },
-  {
-    "id": "symbol.intepretable.vaccins-adulte",
-    "translatedId": "Vaccins adulte",
-    "src": "/symbols/interpretable/vaccins_adulte.svg"
-  },
-  {
-    "id": "symbol.intepretable.vapoteur",
-    "translatedId": "Vapoteur",
-    "src": "/symbols/interpretable/vapoteur.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence-parent-enfant",
-    "translatedId": "Violence parent enfant",
-    "src": "/symbols/interpretable/violence_parent_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfant-temoin-de-violence",
-    "translatedId": "Enfant témoin de violence",
-    "src": "/symbols/interpretable/enfant_temoin_de_violence.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence-physique",
-    "translatedId": "Violence physique",
-    "src": "/symbols/interpretable/violence_physique.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence-psychologique",
-    "translatedId": "Violence psychologique",
-    "src": "/symbols/interpretable/violence_psychologique.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence-psychologique-2",
-    "translatedId": "Violence psychologique 2",
-    "src": "/symbols/interpretable/violence_psychologique_2.svg"
-  },
-  {
-    "id": "symbol.intepretable.dispute",
-    "translatedId": "Dispute",
-    "src": "/symbols/interpretable/dispute.svg"
-  },
-  {
-    "id": "symbol.intepretable.vol",
-    "translatedId": "Vol",
-    "src": "/symbols/interpretable/vol.svg"
-  },
-  {
-    "id": "symbol.intepretable.selles-de-couleur",
-    "translatedId": "Selles de couleur",
-    "src": "/symbols/interpretable/selles_de_couleur.svg"
-  },
-  {
-    "id": "symbol.intepretable.urine-de-couleur",
-    "translatedId": "Urine de couleur",
-    "src": "/symbols/interpretable/urine_de_couleur.svg"
-  },
-  {
-    "id": "symbol.intepretable.regurgitation",
-    "translatedId": "Régurgitation",
-    "src": "/symbols/interpretable/regurgitation.svg"
-  },
-  {
-    "id": "symbol.intepretable.vomi",
-    "translatedId": "Vomi",
-    "src": "/symbols/interpretable/vomi.svg"
-  },
-  {
-    "id": "symbol.intepretable.doliprane-liquide",
-    "translatedId": "Doliprane liquide",
-    "src": "/symbols/interpretable/doliprane_liquide.svg"
-  },
-  {
-    "id": "symbol.intepretable.pansement",
-    "translatedId": "Pansement",
-    "src": "/symbols/interpretable/pansement.svg"
-  },
-  {
-    "id": "symbol.intepretable.pommade",
-    "translatedId": "Pommade",
-    "src": "/symbols/interpretable/pommade.svg"
-  },
-  {
-    "id": "symbol.intepretable.eau-bouteille",
-    "translatedId": "Eau bouteille",
-    "src": "/symbols/interpretable/eau_bouteille.svg"
-  },
-  {
-    "id": "symbol.intepretable.prise-de-sang-enfant",
-    "translatedId": "Prise de sang enfant",
-    "src": "/symbols/interpretable/prise_de_sang_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.vaccin-enfant",
-    "translatedId": "Vaccin enfant",
-    "src": "/symbols/interpretable/vaccin_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.ventoline",
-    "translatedId": "Ventoline",
-    "src": "/symbols/interpretable/ventoline.svg"
-  },
-  {
-    "id": "symbol.intepretable.eosine",
-    "translatedId": "Eosine",
-    "src": "/symbols/interpretable/eosine.svg"
-  },
-  {
-    "id": "symbol.intepretable.biseptine",
-    "translatedId": "Biseptine",
-    "src": "/symbols/interpretable/biseptine.svg"
-  },
-  {
-    "id": "symbol.intepretable.douleur-femme-enceinte",
-    "translatedId": "Douleur femme enceinte",
-    "src": "/symbols/interpretable/douleur_femme_enceinte.svg"
-  },
-  {
-    "id": "symbol.intepretable.stade-de-la-grossesse",
-    "translatedId": "Stade de la grossesse",
-    "src": "/symbols/interpretable/stade_de_la_grossesse.svg"
-  },
-  {
-    "id": "symbol.intepretable.prise-de-tension",
-    "translatedId": "Prise de tension",
-    "src": "/symbols/interpretable/prise_de_tension.svg"
-  },
-  {
-    "id": "symbol.intepretable.consommation-tabac",
-    "translatedId": "Consommation tabac",
-    "src": "/symbols/interpretable/consommation_tabac.svg"
-  },
-  {
-    "id": "symbol.intepretable.consommation-alcool",
-    "translatedId": "Consommation alcool",
-    "src": "/symbols/interpretable/consommation_alcool.svg"
-  },
-  {
-    "id": "symbol.intepretable.femme-enceinte",
-    "translatedId": "Femme enceinte",
-    "src": "/symbols/interpretable/femme_enceinte.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-tete-en-bas",
-    "translatedId": "Bébé tête en bas",
-    "src": "/symbols/interpretable/bebe_tete_en_bas.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-tete-en-haut",
-    "translatedId": "Bébé tête en haut",
-    "src": "/symbols/interpretable/bebe_tete_en_haut.svg"
-  },
-  {
-    "id": "symbol.intepretable.accouchement-maison",
-    "translatedId": "Accouchement maison",
-    "src": "/symbols/interpretable/accouchement_maison.svg"
-  },
-  {
-    "id": "symbol.intepretable.accouchement-hopital",
-    "translatedId": "Accouchement hôpital",
-    "src": "/symbols/interpretable/accouchement_hopital.svg"
-  },
-  {
-    "id": "symbol.intepretable.sage-femme",
-    "translatedId": "Sage-femme",
-    "src": "/symbols/interpretable/sagefemme.svg"
-  },
-  {
-    "id": "symbol.intepretable.serviette-urinaire",
-    "translatedId": "Serviette urinaire",
-    "src": "/symbols/interpretable/serviette_urinaire.svg"
-  },
-  {
-    "id": "symbol.intepretable.jeu-d-assemblage",
-    "translatedId": "Jeu d'assemblage",
-    "src": "/symbols/interpretable/jeu_d_assemblage.svg"
-  },
-  {
-    "id": "symbol.intepretable.ne-parle-pas",
-    "translatedId": "Ne parle pas",
-    "src": "/symbols/interpretable/ne_parle_pas.svg"
-  },
-  {
-    "id": "symbol.intepretable.mots-du-quotidien",
-    "translatedId": "Mots du quotidien",
-    "src": "/symbols/interpretable/mots_du_quotidien.svg"
-  },
-  {
-    "id": "symbol.intepretable.ecrire-ecriture",
-    "translatedId": "Écrire / Écriture",
-    "src": "/symbols/interpretable/ecrire_ecriture.svg"
-  },
-  {
-    "id": "symbol.intepretable.dessiner",
-    "translatedId": "Dessiner",
-    "src": "/symbols/interpretable/dessiner.svg"
-  },
-  {
-    "id": "symbol.intepretable.prehension",
-    "translatedId": "Préhension",
-    "src": "/symbols/interpretable/prehension.svg"
-  },
-  {
-    "id": "symbol.intepretable.dentition-bonne",
-    "translatedId": "Dentition bonne",
-    "src": "/symbols/interpretable/dentition_bonne.svg"
-  },
-  {
-    "id": "symbol.intepretable.dents-sales",
-    "translatedId": "Dents sales",
-    "src": "/symbols/interpretable/dents_sales.svg"
-  },
-  {
-    "id": "symbol.intepretable.appareil-dentaire",
-    "translatedId": "Appareil dentaire",
-    "src": "/symbols/interpretable/appareil_dentaire.svg"
-  },
-  {
-    "id": "symbol.intepretable.dentier",
-    "translatedId": "Dentier",
-    "src": "/symbols/interpretable/dentier.svg"
-  },
-  {
-    "id": "symbol.intepretable.fatigue-bebe",
-    "translatedId": "Fatigue bébé",
-    "src": "/symbols/interpretable/fatigue_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.matelas-pas-trop-souple",
-    "translatedId": "Matelas pas trop souple",
-    "src": "/symbols/interpretable/matelas_pas_trop_souple.svg"
-  },
-  {
-    "id": "symbol.intepretable.bon-matelas",
-    "translatedId": "Bon matelas ",
-    "src": "/symbols/interpretable/bon_matelas.svg"
-  },
-  {
-    "id": "symbol.intepretable.eteindre-la-lumiere",
-    "translatedId": "Éteindre la lumière",
-    "src": "/symbols/interpretable/eteindre_la_lumiere.svg"
-  },
-  {
-    "id": "symbol.intepretable.allumer-la-lumiere",
-    "translatedId": "Allumer la lumière",
-    "src": "/symbols/interpretable/allumer_la_lumiere.svg"
-  },
-  {
-    "id": "symbol.intepretable.casquette-enfant",
-    "translatedId": "Casquette enfant",
-    "src": "/symbols/interpretable/casquette_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.ombre",
-    "translatedId": "Ombre",
-    "src": "/symbols/interpretable/ombre.svg"
-  },
-  {
-    "id": "symbol.intepretable.besoin-d-aide-pour-se-deplacer",
-    "translatedId": "Besoin d'aide pour se déplacer",
-    "src": "/symbols/interpretable/besoin_d_aide_pour_se_deplacer.svg"
-  },
-  {
-    "id": "symbol.intepretable.tv-cuisine",
-    "translatedId": "TV cuisine",
-    "src": "/symbols/interpretable/tv_cuisine.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfant-regarde-tv",
-    "translatedId": "Enfant regarde TV",
-    "src": "/symbols/interpretable/enfant_regarde_tv.svg"
-  },
-  {
-    "id": "symbol.intepretable.medicaments",
-    "translatedId": "Médicaments",
-    "src": "/symbols/interpretable/medicaments.svg"
-  },
-  {
-    "id": "symbol.intepretable.soutien-de-l-entourage",
-    "translatedId": "Soutien de l'entourage",
-    "src": "/symbols/interpretable/soutien_de_l_entourage.svg"
-  },
-  {
-    "id": "symbol.intepretable.frequence-consultation",
-    "translatedId": "Fréquence consultation",
-    "src": "/symbols/interpretable/frequence_consultation.svg"
-  },
-  {
-    "id": "symbol.intepretable.medecin-traitant",
-    "translatedId": "Médecin traitant",
-    "src": "/symbols/interpretable/medecin_traitant.svg"
-  },
-  {
-    "id": "symbol.intepretable.viande",
-    "translatedId": "Viande",
-    "src": "/symbols/interpretable/viande.svg"
-  },
-  {
-    "id": "symbol.intepretable.poisson",
-    "translatedId": "Poisson",
-    "src": "/symbols/interpretable/poisson.svg"
-  },
-  {
-    "id": "symbol.intepretable.crevette",
-    "translatedId": "Crevette",
-    "src": "/symbols/interpretable/crevette.svg"
-  },
-  {
-    "id": "symbol.intepretable.oeuf",
-    "translatedId": "Œuf",
-    "src": "/symbols/interpretable/oeuf.svg"
-  },
-  {
-    "id": "symbol.intepretable.pates",
-    "translatedId": "Pâtes",
-    "src": "/symbols/interpretable/pates.svg"
-  },
-  {
-    "id": "symbol.intepretable.riz",
-    "translatedId": "Riz",
-    "src": "/symbols/interpretable/riz.svg"
-  },
-  {
-    "id": "symbol.intepretable.mais",
-    "translatedId": "Maïs",
-    "src": "/symbols/interpretable/mais.svg"
-  },
-  {
-    "id": "symbol.intepretable.pomme-de-terre",
-    "translatedId": "Pomme de terre",
-    "src": "/symbols/interpretable/pomme_de_terre.svg"
-  },
-  {
-    "id": "symbol.intepretable.patate-douce",
-    "translatedId": "Patate douce",
-    "src": "/symbols/interpretable/patate_douce.svg"
-  },
-  {
-    "id": "symbol.intepretable.biscuit",
-    "translatedId": "Biscuit",
-    "src": "/symbols/interpretable/biscuit.svg"
-  },
-  {
-    "id": "symbol.intepretable.yaourt",
-    "translatedId": "Yaourt",
-    "src": "/symbols/interpretable/yaourt.svg"
-  },
-  {
-    "id": "symbol.intepretable.lait",
-    "translatedId": "Lait",
-    "src": "/symbols/interpretable/lait.svg"
-  },
-  {
-    "id": "symbol.intepretable.fromage",
-    "translatedId": "Fromage",
-    "src": "/symbols/interpretable/fromage.svg"
-  },
-  {
-    "id": "symbol.intepretable.bonbons",
-    "translatedId": "Bonbons",
-    "src": "/symbols/interpretable/bonbons.svg"
-  },
-  {
-    "id": "symbol.intepretable.soda",
-    "translatedId": "Soda",
-    "src": "/symbols/interpretable/soda.svg"
-  },
-  {
-    "id": "symbol.intepretable.confiture",
-    "translatedId": "Confiture",
-    "src": "/symbols/interpretable/confiture.svg"
-  },
-  {
-    "id": "symbol.intepretable.viennoiserie",
-    "translatedId": "Viennoiserie",
-    "src": "/symbols/interpretable/viennoiserie.svg"
-  },
-  {
-    "id": "symbol.intepretable.frites",
-    "translatedId": "Frites",
-    "src": "/symbols/interpretable/frites.svg"
-  },
-  {
-    "id": "symbol.intepretable.chips",
-    "translatedId": "Chips",
-    "src": "/symbols/interpretable/chips.svg"
-  },
-  {
-    "id": "symbol.intepretable.raisin",
-    "translatedId": "Raisin",
-    "src": "/symbols/interpretable/raisin.svg"
-  },
-  {
-    "id": "symbol.intepretable.banane",
-    "translatedId": "Banane",
-    "src": "/symbols/interpretable/banane.svg"
-  },
-  {
-    "id": "symbol.intepretable.fraise",
-    "translatedId": "Fraise",
-    "src": "/symbols/interpretable/fraise.svg"
-  },
-  {
-    "id": "symbol.intepretable.clementine",
-    "translatedId": "Clémentine",
-    "src": "/symbols/interpretable/clementine.svg"
-  },
-  {
-    "id": "symbol.intepretable.cerise",
-    "translatedId": "Cerise",
-    "src": "/symbols/interpretable/cerise.svg"
-  },
-  {
-    "id": "symbol.intepretable.orange",
-    "translatedId": "Orange",
-    "src": "/symbols/interpretable/orange.svg"
-  },
-  {
-    "id": "symbol.intepretable.compote",
-    "translatedId": "Compote",
-    "src": "/symbols/interpretable/compote.svg"
-  },
-  {
-    "id": "symbol.intepretable.pomme",
-    "translatedId": "Pomme",
-    "src": "/symbols/interpretable/pomme.svg"
-  },
-  {
-    "id": "symbol.intepretable.noix-de-coco",
-    "translatedId": "Noix de coco",
-    "src": "/symbols/interpretable/noix_de_coco.svg"
-  },
-  {
-    "id": "symbol.intepretable.abricot",
-    "translatedId": "Abricot",
-    "src": "/symbols/interpretable/abricot.svg"
-  },
-  {
-    "id": "symbol.intepretable.citron",
-    "translatedId": "Citron",
-    "src": "/symbols/interpretable/citron.svg"
-  },
-  {
-    "id": "symbol.intepretable.poire",
-    "translatedId": "Poire",
-    "src": "/symbols/interpretable/poire.svg"
-  },
-  {
-    "id": "symbol.intepretable.melon",
-    "translatedId": "Melon",
-    "src": "/symbols/interpretable/melon.svg"
-  },
-  {
-    "id": "symbol.intepretable.pasteque",
-    "translatedId": "Pastèque",
-    "src": "/symbols/interpretable/pasteque.svg"
-  },
-  {
-    "id": "symbol.intepretable.poivron",
-    "translatedId": "Poivron",
-    "src": "/symbols/interpretable/poivron.svg"
-  },
-  {
-    "id": "symbol.intepretable.brocolis",
-    "translatedId": "Brocolis",
-    "src": "/symbols/interpretable/brocolis.svg"
-  },
-  {
-    "id": "symbol.intepretable.carotte",
-    "translatedId": "Carotte",
-    "src": "/symbols/interpretable/carotte.svg"
-  },
-  {
-    "id": "symbol.intepretable.petits-pois",
-    "translatedId": "Petits pois",
-    "src": "/symbols/interpretable/petits_pois.svg"
-  },
-  {
-    "id": "symbol.intepretable.tomate",
-    "translatedId": "Tomate",
-    "src": "/symbols/interpretable/tomate.svg"
-  },
-  {
-    "id": "symbol.intepretable.aubergine",
-    "translatedId": "Aubergine",
-    "src": "/symbols/interpretable/aubergine.svg"
-  },
-  {
-    "id": "symbol.intepretable.champignon",
-    "translatedId": "Champignon",
-    "src": "/symbols/interpretable/champignon.svg"
-  },
-  {
-    "id": "symbol.intepretable.concombre",
-    "translatedId": "Concombre",
-    "src": "/symbols/interpretable/concombre.svg"
-  },
-  {
-    "id": "symbol.intepretable.courgette",
-    "translatedId": "Courgette",
-    "src": "/symbols/interpretable/courgette.svg"
-  },
-  {
-    "id": "symbol.intepretable.poireau",
-    "translatedId": "Poireau",
-    "src": "/symbols/interpretable/poireau.svg"
-  },
-  {
-    "id": "symbol.intepretable.soupe",
-    "translatedId": "Soupe",
-    "src": "/symbols/interpretable/soupe.svg"
-  },
-  {
-    "id": "symbol.intepretable.petit-pot-bebe",
-    "translatedId": "Petit pot bébé",
-    "src": "/symbols/interpretable/petit_pot_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.vache",
-    "translatedId": "Vache",
-    "src": "/symbols/interpretable/vache.svg"
-  },
-  {
-    "id": "symbol.intepretable.lait-de-vache",
-    "translatedId": "Lait de vache",
-    "src": "/symbols/interpretable/lait_de_vache.svg"
-  },
-  {
-    "id": "symbol.intepretable.yaourt-vache-chevre",
-    "translatedId": "Yaourt vache chèvre",
-    "src": "/symbols/interpretable/yaourt_vache_chevre.svg"
-  },
-  {
-    "id": "symbol.intepretable.fromage-de-vache",
-    "translatedId": "Fromage de vache",
-    "src": "/symbols/interpretable/fromage_de_vache.svg"
-  },
-  {
-    "id": "symbol.intepretable.mouton",
-    "translatedId": "Mouton",
-    "src": "/symbols/interpretable/mouton.svg"
-  },
-  {
-    "id": "symbol.intepretable.chevre",
-    "translatedId": "Chèvre",
-    "src": "/symbols/interpretable/chevre.svg"
-  },
-  {
-    "id": "symbol.intepretable.fruits-a-coque",
-    "translatedId": "Fruits à coque",
-    "src": "/symbols/interpretable/fruits_a_coque.svg"
-  },
-  {
-    "id": "symbol.intepretable.lait-d-amande",
-    "translatedId": "Lait d'amande",
-    "src": "/symbols/interpretable/lait_d_amande.svg"
-  },
-  {
-    "id": "symbol.intepretable.fromage-de-chevre",
-    "translatedId": "Fromage de chèvre",
-    "src": "/symbols/interpretable/fromage_de_chevre.svg"
-  },
-  {
-    "id": "symbol.intepretable.lait-en-poudre",
-    "translatedId": "Lait en poudre",
-    "src": "/symbols/interpretable/lait_en_poudre.svg"
-  },
-  {
-    "id": "symbol.intepretable.chauffe-lait",
-    "translatedId": "Chauffe-lait",
-    "src": "/symbols/interpretable/chauffelait.svg"
-  },
-  {
-    "id": "symbol.intepretable.quantite-de-lait",
-    "translatedId": "Quantité de lait",
-    "src": "/symbols/interpretable/quantite_de_lait.svg"
-  },
-  {
-    "id": "symbol.intepretable.enfant-mange-seul",
-    "translatedId": "Enfant mange seul",
-    "src": "/symbols/interpretable/enfant_mange_seul.svg"
-  },
-  {
-    "id": "symbol.intepretable.horaire-des-repas",
-    "translatedId": "Horaire des repas",
-    "src": "/symbols/interpretable/horaire_des_repas.svg"
-  },
-  {
-    "id": "symbol.intepretable.aimer-manger",
-    "translatedId": "Aimer manger",
-    "src": "/symbols/interpretable/aimer_manger.svg"
-  },
-  {
-    "id": "symbol.intepretable.forme-des-selles",
-    "translatedId": "Forme des selles",
-    "src": "/symbols/interpretable/forme_des_selles.svg"
-  },
-  {
-    "id": "symbol.intepretable.test-sang-doigts",
-    "translatedId": "Test sang doigts",
-    "src": "/symbols/interpretable/test_sang_doigts.svg"
-  },
-  {
-    "id": "symbol.intepretable.entend-bien",
-    "translatedId": "Entend bien",
-    "src": "/symbols/interpretable/entend_bien.svg"
-  },
-  {
-    "id": "symbol.intepretable.entend-mal",
-    "translatedId": "Entend mal",
-    "src": "/symbols/interpretable/entend_mal.svg"
-  },
-  {
-    "id": "symbol.intepretable.voir-bien",
-    "translatedId": "Voir bien",
-    "src": "/symbols/interpretable/voir_bien.svg"
-  },
-  {
-    "id": "symbol.intepretable.voit-mal",
-    "translatedId": "Voit mal",
-    "src": "/symbols/interpretable/voit_mal.svg"
-  },
-  {
-    "id": "symbol.intepretable.allaitement",
-    "translatedId": "Allaitement",
-    "src": "/symbols/interpretable/allaitement.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-au-sein",
-    "translatedId": "Bébé au sein",
-    "src": "/symbols/interpretable/bebe_au_sein.svg"
-  },
-  {
-    "id": "symbol.intepretable.douleur-au-sein",
-    "translatedId": "Douleur au sein",
-    "src": "/symbols/interpretable/douleur_au_sein.svg"
-  },
-  {
-    "id": "symbol.intepretable.allaiter-debout-allonge",
-    "translatedId": "Allaiter debout allongé",
-    "src": "/symbols/interpretable/allaiter_debout_allonge.svg"
-  },
-  {
-    "id": "symbol.intepretable.tire-lait",
-    "translatedId": "Tire-lait",
-    "src": "/symbols/interpretable/tirelait.svg"
-  },
-  {
-    "id": "symbol.intepretable.douleur-aux-dents",
-    "translatedId": "Douleur aux dents",
-    "src": "/symbols/interpretable/douleur_aux_dents.svg"
-  },
-  {
-    "id": "symbol.intepretable.douleur-aux-yeux",
-    "translatedId": "Douleur aux yeux",
-    "src": "/symbols/interpretable/douleur_aux_yeux.svg"
-  },
-  {
-    "id": "symbol.intepretable.douleur-aux-oreilles",
-    "translatedId": "Douleur aux oreilles",
-    "src": "/symbols/interpretable/douleur_aux_oreilles.svg"
-  },
-  {
-    "id": "symbol.intepretable.mal-a-la-gorge-bebe",
-    "translatedId": "Mal à la gorge bébé",
-    "src": "/symbols/interpretable/mal_a_la_gorge_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.mal-aux-oreilles-bebe",
-    "translatedId": "Mal aux oreilles bébé",
-    "src": "/symbols/interpretable/mal_aux_oreilles_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.nez-qui-coule-bebe",
-    "translatedId": "Nez qui coule bébé",
-    "src": "/symbols/interpretable/nez_qui_coule_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.mal-a-la-tete-bebe",
-    "translatedId": "Mal à la tête bébé",
-    "src": "/symbols/interpretable/mal_a_la_tete_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.toux-bebe",
-    "translatedId": "Toux bébé",
-    "src": "/symbols/interpretable/toux_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.os-brise",
-    "translatedId": "Os brisé",
-    "src": "/symbols/interpretable/os_brise.svg"
-  },
-  {
-    "id": "symbol.intepretable.bleu-cutane",
-    "translatedId": "Bleu cutané",
-    "src": "/symbols/interpretable/bleu_cutane.svg"
-  },
-  {
-    "id": "symbol.intepretable.coupure-cutanee",
-    "translatedId": "Coupure cutanée",
-    "src": "/symbols/interpretable/coupure_cutanee.svg"
-  },
-  {
-    "id": "symbol.intepretable.boutons-bras",
-    "translatedId": "Boutons bras",
-    "src": "/symbols/interpretable/boutons_bras.svg"
-  },
-  {
-    "id": "symbol.intepretable.eczema",
-    "translatedId": "Eczéma",
-    "src": "/symbols/interpretable/eczema.svg"
-  },
-  {
-    "id": "symbol.intepretable.brulure",
-    "translatedId": "Brulûre",
-    "src": "/symbols/interpretable/brulure.svg"
-  },
-  {
-    "id": "symbol.intepretable.varicelle",
-    "translatedId": "Varicelle",
-    "src": "/symbols/interpretable/varicelle.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-pollution",
-    "translatedId": "Allergie pollution",
-    "src": "/symbols/interpretable/allergie_pollution.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-poussiere",
-    "translatedId": "Allergie poussière",
-    "src": "/symbols/interpretable/allergie_poussiere.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-puce",
-    "translatedId": "Allergie puce",
-    "src": "/symbols/interpretable/allergie_puce.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-pollen",
-    "translatedId": "Allergie pollen",
-    "src": "/symbols/interpretable/allergie_pollen.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-chat",
-    "translatedId": "Allergie chat",
-    "src": "/symbols/interpretable/allergie_chat.svg"
-  },
-  {
-    "id": "symbol.intepretable.allergie-chien",
-    "translatedId": "Allergie chien",
-    "src": "/symbols/interpretable/allergie_chien.svg"
-  },
-  {
-    "id": "symbol.intepretable.temperature-bain-enfant",
-    "translatedId": "Température bain enfant",
-    "src": "/symbols/interpretable/temperature_bain_enfant.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-assis",
-    "translatedId": "Bébé assis",
-    "src": "/symbols/interpretable/bebe_assis.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-a-4-pattes",
-    "translatedId": "Bébé à 4 pattes",
-    "src": "/symbols/interpretable/bebe_a_4_pattes.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-marche",
-    "translatedId": "Bébé marche",
-    "src": "/symbols/interpretable/bebe_marche.svg"
-  },
-  {
-    "id": "symbol.intepretable.bebe-tient-le-doigt",
-    "translatedId": "Bébé tient le doigt",
-    "src": "/symbols/interpretable/bebe_tient_le_doigt.svg"
-  },
-  {
-    "id": "symbol.intepretable.gynecologue",
-    "translatedId": "Gynécologue",
-    "src": "/symbols/interpretable/gynecologue.svg"
-  },
-  {
-    "id": "symbol.intepretable.dentiste",
-    "translatedId": "Dentiste",
-    "src": "/symbols/interpretable/dentiste.svg"
-  },
-  {
-    "id": "symbol.intepretable.kinesitherapeute",
-    "translatedId": "Kinésithérapeute",
-    "src": "/symbols/interpretable/kinesitherapeute.svg"
-  },
-  {
-    "id": "symbol.intepretable.dermatologue",
-    "translatedId": "Dermatologue",
-    "src": "/symbols/interpretable/dermatologue.svg"
-  },
-  {
-    "id": "symbol.intepretable.bains-douches",
-    "translatedId": "Bains douches",
-    "src": "/symbols/interpretable/bains_douches.svg"
+    "id": "symbol.intepretable.assistante-sociale",
+    "translatedId": "Assistante sociale",
+    "src": "/symbols/interpretable/assistante_sociale.svg"
   },
   {
     "id": "symbol.intepretable.caisse-allocation-familiale",
@@ -2385,24 +35,14 @@
     "src": "/symbols/interpretable/caisse_allocation_familiale.svg"
   },
   {
-    "id": "symbol.intepretable.ccas",
-    "translatedId": "CCAS",
-    "src": "/symbols/interpretable/ccas.svg"
-  },
-  {
     "id": "symbol.intepretable.cattp",
     "translatedId": "CATTP",
     "src": "/symbols/interpretable/cattp.svg"
   },
   {
-    "id": "symbol.intepretable.cidag",
-    "translatedId": "CIDAG",
-    "src": "/symbols/interpretable/cidag.svg"
-  },
-  {
-    "id": "symbol.intepretable.centre-medico-psychiatrique",
-    "translatedId": "Centre médico-psychiatrique",
-    "src": "/symbols/interpretable/centre_medicopsychiatrique.svg"
+    "id": "symbol.intepretable.ccas",
+    "translatedId": "CCAS",
+    "src": "/symbols/interpretable/ccas.svg"
   },
   {
     "id": "symbol.intepretable.cdhs",
@@ -2410,39 +50,24 @@
     "src": "/symbols/interpretable/cdhs.svg"
   },
   {
-    "id": "symbol.intepretable.psychomotricien",
-    "translatedId": "Psychomotricien",
-    "src": "/symbols/interpretable/psychomotricien.svg"
+    "id": "symbol.intepretable.centre-medico-psychiatrique",
+    "translatedId": "Centre médico-psychiatrique",
+    "src": "/symbols/interpretable/centre_medicopsychiatrique.svg"
   },
   {
-    "id": "symbol.intepretable.creche",
-    "translatedId": "Crèche",
-    "src": "/symbols/interpretable/creche.svg"
-  },
-  {
-    "id": "symbol.intepretable.croix-rouge",
-    "translatedId": "Croix rouge",
-    "src": "/symbols/interpretable/croix_rouge.svg"
-  },
-  {
-    "id": "symbol.intepretable.ecrivain-public",
-    "translatedId": "Écrivain public",
-    "src": "/symbols/interpretable/ecrivain_public.svg"
-  },
-  {
-    "id": "symbol.intepretable.emmaus",
-    "translatedId": "Emmaüs",
-    "src": "/symbols/interpretable/emmaus.svg"
-  },
-  {
-    "id": "symbol.intepretable.epicerie-sociale",
-    "translatedId": "Épicerie sociale",
-    "src": "/symbols/interpretable/epicerie_sociale.svg"
+    "id": "symbol.intepretable.cidag",
+    "translatedId": "CIDAG",
+    "src": "/symbols/interpretable/cidag.svg"
   },
   {
     "id": "symbol.intepretable.hopital",
     "translatedId": "Hôpital",
     "src": "/symbols/interpretable/hopital.svg"
+  },
+  {
+    "id": "symbol.intepretable.ehpad",
+    "translatedId": "EHPAD",
+    "src": "/symbols/interpretable/ehpad.svg"
   },
   {
     "id": "symbol.intepretable.laboratoire-d-analyse",
@@ -2455,19 +80,19 @@
     "src": "/symbols/interpretable/mairie.svg"
   },
   {
-    "id": "symbol.intepretable.medecins-du-monde",
-    "translatedId": "Médecins du monde",
-    "src": "/symbols/interpretable/medecins_du_monde.svg"
+    "id": "symbol.intepretable.medecin",
+    "translatedId": "Médecin",
+    "src": "/symbols/interpretable/medecin.svg"
   },
   {
-    "id": "symbol.intepretable.mjc",
-    "translatedId": "MJC",
-    "src": "/symbols/interpretable/mjc.svg"
+    "id": "symbol.intepretable.orthophoniste",
+    "translatedId": "Orthophoniste",
+    "src": "/symbols/interpretable/orthophoniste.svg"
   },
   {
-    "id": "symbol.intepretable.petits-freres-des-pauvres",
-    "translatedId": "Petits frères des pauvres",
-    "src": "/symbols/interpretable/petits_freres_des_pauvres.svg"
+    "id": "symbol.intepretable.pediatre",
+    "translatedId": "Pédiatre",
+    "src": "/symbols/interpretable/pediatre.svg"
   },
   {
     "id": "symbol.intepretable.police",
@@ -2483,16 +108,6 @@
     "id": "symbol.intepretable.prefecture",
     "translatedId": "Préfecture",
     "src": "/symbols/interpretable/prefecture.svg"
-  },
-  {
-    "id": "symbol.intepretable.restos-du-coeur",
-    "translatedId": "Restos du coeur",
-    "src": "/symbols/interpretable/restos_du_coeur.svg"
-  },
-  {
-    "id": "symbol.intepretable.secours-populaire",
-    "translatedId": "Secours populaire",
-    "src": "/symbols/interpretable/secours_populaire.svg"
   },
   {
     "id": "symbol.intepretable.samu",
@@ -2520,23 +135,3018 @@
     "src": "/symbols/interpretable/auxiliaire_de_vie.svg"
   },
   {
-    "id": "symbol.intepretable.orthophoniste",
-    "translatedId": "Orthophoniste",
-    "src": "/symbols/interpretable/orthophoniste.svg"
+    "id": "symbol.intepretable.creche",
+    "translatedId": "Crèche",
+    "src": "/symbols/interpretable/creche.svg"
   },
   {
-    "id": "symbol.intepretable.medecin",
-    "translatedId": "Médecin",
-    "src": "/symbols/interpretable/medecin.svg"
+    "id": "symbol.intepretable.psychomotricien",
+    "translatedId": "Psychomotricien",
+    "src": "/symbols/interpretable/psychomotricien.svg"
   },
   {
-    "id": "symbol.intepretable.pediatre",
-    "translatedId": "Pédiatre",
-    "src": "/symbols/interpretable/pediatre.svg"
+    "id": "symbol.intepretable.centre-de-loisirs",
+    "translatedId": "Centre de loisirs",
+    "src": "/symbols/interpretable/centre_de_loisirs.svg"
   },
   {
-    "id": "symbol.intepretable.assistante-sociale",
-    "translatedId": "Assistante sociale",
-    "src": "/symbols/interpretable/assistante_sociale.svg"
+    "id": "symbol.intepretable.mjc",
+    "translatedId": "MJC",
+    "src": "/symbols/interpretable/mjc.svg"
+  },
+  {
+    "id": "symbol.intepretable.bains-douches",
+    "translatedId": "Bains douches",
+    "src": "/symbols/interpretable/bains_douches.svg"
+  },
+  {
+    "id": "symbol.intepretable.croix-rouge",
+    "translatedId": "Croix rouge",
+    "src": "/symbols/interpretable/croix_rouge.svg"
+  },
+  {
+    "id": "symbol.intepretable.ecrivain-public",
+    "translatedId": "Écrivain public",
+    "src": "/symbols/interpretable/ecrivain_public.svg"
+  },
+  {
+    "id": "symbol.intepretable.emmaus",
+    "translatedId": "Emmaüs",
+    "src": "/symbols/interpretable/emmaus.svg"
+  },
+  {
+    "id": "symbol.intepretable.epicerie-sociale",
+    "translatedId": "Épicerie sociale",
+    "src": "/symbols/interpretable/epicerie_sociale.svg"
+  },
+  {
+    "id": "symbol.intepretable.restos-du-coeur",
+    "translatedId": "Restos du coeur",
+    "src": "/symbols/interpretable/restos_du_coeur.svg"
+  },
+  {
+    "id": "symbol.intepretable.medecins-du-monde",
+    "translatedId": "Médecins du monde",
+    "src": "/symbols/interpretable/medecins_du_monde.svg"
+  },
+  {
+    "id": "symbol.intepretable.petits-freres-des-pauvres",
+    "translatedId": "Petits frères des pauvres",
+    "src": "/symbols/interpretable/petits_freres_des_pauvres.svg"
+  },
+  {
+    "id": "symbol.intepretable.secours-populaire",
+    "translatedId": "Secours populaire",
+    "src": "/symbols/interpretable/secours_populaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.ambulance",
+    "translatedId": "Ambulance",
+    "src": "/symbols/interpretable/ambulance.svg"
+  },
+  {
+    "id": "symbol.intepretable.conseiller-conjugual",
+    "translatedId": "Conseiller conjugual",
+    "src": "/symbols/interpretable/conseiller_conjugual.svg"
+  },
+  {
+    "id": "symbol.intepretable.psychologue",
+    "translatedId": "Psychologue",
+    "src": "/symbols/interpretable/psychologue.svg"
+  },
+  {
+    "id": "symbol.intepretable.avis-d-imposition",
+    "translatedId": "Avis d'imposition",
+    "src": "/symbols/interpretable/avis_d_imposition.svg"
+  },
+  {
+    "id": "symbol.intepretable.carnet-de-sante",
+    "translatedId": "Carnet de santé",
+    "src": "/symbols/interpretable/carnet_de_sante.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-assurance-maladie",
+    "translatedId": "Carte assurance maladie",
+    "src": "/symbols/interpretable/carte_assurance_maladie.svg"
+  },
+  {
+    "id": "symbol.intepretable.stationnement-handicape",
+    "translatedId": "Stationnement handicapé",
+    "src": "/symbols/interpretable/stationnement_handicape.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-d-identite",
+    "translatedId": "Carte d'identité",
+    "src": "/symbols/interpretable/carte_d_identite.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-de-mutuelle",
+    "translatedId": "Carte de mutuelle",
+    "src": "/symbols/interpretable/carte_de_mutuelle.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-oura",
+    "translatedId": "Carte Oura",
+    "src": "/symbols/interpretable/carte_oura.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-sncf",
+    "translatedId": "Carte SNCF",
+    "src": "/symbols/interpretable/carte_sncf.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-tecely",
+    "translatedId": "Carte Técély",
+    "src": "/symbols/interpretable/carte_tecely.svg"
+  },
+  {
+    "id": "symbol.intepretable.fiche-de-paie",
+    "translatedId": "Fiche de paie",
+    "src": "/symbols/interpretable/fiche_de_paie.svg"
+  },
+  {
+    "id": "symbol.intepretable.justificatif-de-logement",
+    "translatedId": "Justificatif de logement",
+    "src": "/symbols/interpretable/justificatif_de_logement.svg"
+  },
+  {
+    "id": "symbol.intepretable.facture-eau",
+    "translatedId": "Facture Eau",
+    "src": "/symbols/interpretable/facture_eau.svg"
+  },
+  {
+    "id": "symbol.intepretable.facture-telephone",
+    "translatedId": "Facture Téléphone",
+    "src": "/symbols/interpretable/facture_telephone.svg"
+  },
+  {
+    "id": "symbol.intepretable.livret-de-famille",
+    "translatedId": "Livret de famille",
+    "src": "/symbols/interpretable/livret_de_famille.svg"
+  },
+  {
+    "id": "symbol.intepretable.passeport",
+    "translatedId": "Passeport",
+    "src": "/symbols/interpretable/passeport.svg"
+  },
+  {
+    "id": "symbol.intepretable.recepisse-demande-d-asile",
+    "translatedId": "Récépissé demande d'asile",
+    "src": "/symbols/interpretable/recepisse_demande_d_asile.svg"
+  },
+  {
+    "id": "symbol.intepretable.taxe-fonciere",
+    "translatedId": "Taxe foncière",
+    "src": "/symbols/interpretable/taxe_fonciere.svg"
+  },
+  {
+    "id": "symbol.intepretable.titre-de-sejour",
+    "translatedId": "Titre de séjour",
+    "src": "/symbols/interpretable/titre_de_sejour.svg"
+  },
+  {
+    "id": "symbol.intepretable.aides-metropole",
+    "translatedId": "Aides métropole",
+    "src": "/symbols/interpretable/aides_metropole.svg"
+  },
+  {
+    "id": "symbol.intepretable.besoins-de-necessite",
+    "translatedId": "Besoins de nécessité",
+    "src": "/symbols/interpretable/besoins_de_necessite.svg"
+  },
+  {
+    "id": "symbol.intepretable.demarche-dematerialisee",
+    "translatedId": "Démarche dématérialisée",
+    "src": "/symbols/interpretable/demarche_dematerialisee.svg"
+  },
+  {
+    "id": "symbol.intepretable.sans-papier",
+    "translatedId": "Sans papier",
+    "src": "/symbols/interpretable/sans_papier.svg"
+  },
+  {
+    "id": "symbol.intepretable.sans-papier-2",
+    "translatedId": "Sans papier 2",
+    "src": "/symbols/interpretable/sans_papier_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.appeler",
+    "translatedId": "Appeler",
+    "src": "/symbols/interpretable/appeler.svg"
+  },
+  {
+    "id": "symbol.intepretable.bracelet-de-teleassistance",
+    "translatedId": "Bracelet de téléassistance",
+    "src": "/symbols/interpretable/bracelet_de_teleassistance.svg"
+  },
+  {
+    "id": "symbol.intepretable.charger-le-telephone",
+    "translatedId": "Charger le téléphone",
+    "src": "/symbols/interpretable/charger_le_telephone.svg"
+  },
+  {
+    "id": "symbol.intepretable.decrocher",
+    "translatedId": "Décrocher",
+    "src": "/symbols/interpretable/decrocher.svg"
+  },
+  {
+    "id": "symbol.intepretable.raccrocher",
+    "translatedId": "Raccrocher",
+    "src": "/symbols/interpretable/raccrocher.svg"
+  },
+  {
+    "id": "symbol.intepretable.se-lever-du-lit",
+    "translatedId": "Se lever du lit",
+    "src": "/symbols/interpretable/se_lever_du_lit.svg"
+  },
+  {
+    "id": "symbol.intepretable.se-mettre-au-lit",
+    "translatedId": "Se mettre au lit",
+    "src": "/symbols/interpretable/se_mettre_au_lit.svg"
+  },
+  {
+    "id": "symbol.intepretable.scolarite",
+    "translatedId": "Scolarité",
+    "src": "/symbols/interpretable/scolarite.svg"
+  },
+  {
+    "id": "symbol.intepretable.metier-intellectuel",
+    "translatedId": "Métier intellectuel",
+    "src": "/symbols/interpretable/metier_intellectuel.svg"
+  },
+  {
+    "id": "symbol.intepretable.metier-manuel",
+    "translatedId": "Métier manuel",
+    "src": "/symbols/interpretable/metier_manuel.svg"
+  },
+  {
+    "id": "symbol.intepretable.retraite",
+    "translatedId": "Retraité",
+    "src": "/symbols/interpretable/retraite.svg"
+  },
+  {
+    "id": "symbol.intepretable.ne-travaille-pas",
+    "translatedId": "Ne travaille pas",
+    "src": "/symbols/interpretable/ne_travaille_pas.svg"
+  },
+  {
+    "id": "symbol.intepretable.ascenseur",
+    "translatedId": "Ascenseur",
+    "src": "/symbols/interpretable/ascenseur.svg"
+  },
+  {
+    "id": "symbol.intepretable.barre-d-appui",
+    "translatedId": "Barre d'appui",
+    "src": "/symbols/interpretable/barre_d_appui.svg"
+  },
+  {
+    "id": "symbol.intepretable.boite-aux-lettres",
+    "translatedId": "Boîte aux lettres",
+    "src": "/symbols/interpretable/boite_aux_lettres.svg"
+  },
+  {
+    "id": "symbol.intepretable.escalier",
+    "translatedId": "Escalier",
+    "src": "/symbols/interpretable/escalier.svg"
+  },
+  {
+    "id": "symbol.intepretable.hauteur-du-lit",
+    "translatedId": "Hauteur du lit",
+    "src": "/symbols/interpretable/hauteur_du_lit.svg"
+  },
+  {
+    "id": "symbol.intepretable.poubelle",
+    "translatedId": "Poubelle",
+    "src": "/symbols/interpretable/poubelle.svg"
+  },
+  {
+    "id": "symbol.intepretable.salle-de-bain",
+    "translatedId": "Salle de bain",
+    "src": "/symbols/interpretable/salle_de_bain.svg"
+  },
+  {
+    "id": "symbol.intepretable.wc",
+    "translatedId": "WC",
+    "src": "/symbols/interpretable/wc.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-elargie",
+    "translatedId": "Famille élargie",
+    "src": "/symbols/interpretable/famille_elargie.svg"
+  },
+  {
+    "id": "symbol.intepretable.chez-un-ami-famille",
+    "translatedId": "Chez un ami/famille",
+    "src": "/symbols/interpretable/chez_un_ami_famille.svg"
+  },
+  {
+    "id": "symbol.intepretable.combien-d-habitants",
+    "translatedId": "Combien d'habitants",
+    "src": "/symbols/interpretable/combien_d_habitants.svg"
+  },
+  {
+    "id": "symbol.intepretable.dans-la-rue",
+    "translatedId": "Dans la rue",
+    "src": "/symbols/interpretable/dans_la_rue.svg"
+  },
+  {
+    "id": "symbol.intepretable.dans-un-squat",
+    "translatedId": "Dans un squat",
+    "src": "/symbols/interpretable/dans_un_squat.svg"
+  },
+  {
+    "id": "symbol.intepretable.hebergement-precaire-temporaire",
+    "translatedId": "Hébergement précaire/temporaire",
+    "src": "/symbols/interpretable/hebergement_precaire_temporaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.locataire",
+    "translatedId": "Locataire",
+    "src": "/symbols/interpretable/locataire.svg"
+  },
+  {
+    "id": "symbol.intepretable.proprietaire",
+    "translatedId": "Propriétaire",
+    "src": "/symbols/interpretable/proprietaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.tente",
+    "translatedId": "Tente",
+    "src": "/symbols/interpretable/tente.svg"
+  },
+  {
+    "id": "symbol.intepretable.type-d-habitat",
+    "translatedId": "Type d'habitat",
+    "src": "/symbols/interpretable/type_d_habitat.svg"
+  },
+  {
+    "id": "symbol.intepretable.voisins",
+    "translatedId": "Voisins",
+    "src": "/symbols/interpretable/voisins.svg"
+  },
+  {
+    "id": "symbol.intepretable.acariens",
+    "translatedId": "Acariens",
+    "src": "/symbols/interpretable/acariens.svg"
+  },
+  {
+    "id": "symbol.intepretable.cafard",
+    "translatedId": "Cafard",
+    "src": "/symbols/interpretable/cafard.svg"
+  },
+  {
+    "id": "symbol.intepretable.humidite",
+    "translatedId": "Humidité",
+    "src": "/symbols/interpretable/humidite.svg"
+  },
+  {
+    "id": "symbol.intepretable.insalubrite-electricite",
+    "translatedId": "Insalubrité électricité",
+    "src": "/symbols/interpretable/insalubrite_electricite.svg"
+  },
+  {
+    "id": "symbol.intepretable.puces",
+    "translatedId": "Puces ",
+    "src": "/symbols/interpretable/puces.svg"
+  },
+  {
+    "id": "symbol.intepretable.puces-sur-lit",
+    "translatedId": "Puces sur lit",
+    "src": "/symbols/interpretable/puces_sur_lit.svg"
+  },
+  {
+    "id": "symbol.intepretable.punaises-de-lit",
+    "translatedId": "Punaises de lit",
+    "src": "/symbols/interpretable/punaises_de_lit.svg"
+  },
+  {
+    "id": "symbol.intepretable.cantine",
+    "translatedId": "Cantine",
+    "src": "/symbols/interpretable/cantine.svg"
+  },
+  {
+    "id": "symbol.intepretable.garde-par-un-proche",
+    "translatedId": "Garde par un proche",
+    "src": "/symbols/interpretable/garde_par_un_proche.svg"
+  },
+  {
+    "id": "symbol.intepretable.travaux-du-logement",
+    "translatedId": "Travaux du logement",
+    "src": "/symbols/interpretable/travaux_du_logement.svg"
+  },
+  {
+    "id": "symbol.intepretable.logement-encombre",
+    "translatedId": "Logement encombré",
+    "src": "/symbols/interpretable/logement_encombre.svg"
+  },
+  {
+    "id": "symbol.intepretable.logement-range",
+    "translatedId": "Logement rangé",
+    "src": "/symbols/interpretable/logement_range.svg"
+  },
+  {
+    "id": "symbol.intepretable.fenetre-ouverte",
+    "translatedId": "Fenêtre ouverte",
+    "src": "/symbols/interpretable/fenetre_ouverte.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-d-ecran",
+    "translatedId": "Pas d'écran",
+    "src": "/symbols/interpretable/pas_d_ecran.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-de-trotteur",
+    "translatedId": "Pas de trotteur",
+    "src": "/symbols/interpretable/pas_de_trotteur.svg"
+  },
+  {
+    "id": "symbol.intepretable.bonne-temperature",
+    "translatedId": "Bonne température",
+    "src": "/symbols/interpretable/bonne_temperature.svg"
+  },
+  {
+    "id": "symbol.intepretable.avion",
+    "translatedId": "Avion",
+    "src": "/symbols/interpretable/avion.svg"
+  },
+  {
+    "id": "symbol.intepretable.bateau",
+    "translatedId": "Bâteau",
+    "src": "/symbols/interpretable/bateau.svg"
+  },
+  {
+    "id": "symbol.intepretable.bus",
+    "translatedId": "Bus",
+    "src": "/symbols/interpretable/bus.svg"
+  },
+  {
+    "id": "symbol.intepretable.metro",
+    "translatedId": "Métro",
+    "src": "/symbols/interpretable/metro.svg"
+  },
+  {
+    "id": "symbol.intepretable.moto",
+    "translatedId": "Moto",
+    "src": "/symbols/interpretable/moto.svg"
+  },
+  {
+    "id": "symbol.intepretable.train",
+    "translatedId": "Train",
+    "src": "/symbols/interpretable/train.svg"
+  },
+  {
+    "id": "symbol.intepretable.velo",
+    "translatedId": "Vélo",
+    "src": "/symbols/interpretable/velo.svg"
+  },
+  {
+    "id": "symbol.intepretable.voiture",
+    "translatedId": "Voiture",
+    "src": "/symbols/interpretable/voiture.svg"
+  },
+  {
+    "id": "symbol.intepretable.gout-bouche",
+    "translatedId": "Goût bouche",
+    "src": "/symbols/interpretable/gout_bouche.svg"
+  },
+  {
+    "id": "symbol.intepretable.gout-visage",
+    "translatedId": "Goût visage",
+    "src": "/symbols/interpretable/gout_visage.svg"
+  },
+  {
+    "id": "symbol.intepretable.odorat-nez",
+    "translatedId": "Odorat nez",
+    "src": "/symbols/interpretable/odorat_nez.svg"
+  },
+  {
+    "id": "symbol.intepretable.odorat-visage",
+    "translatedId": "Odorat visage",
+    "src": "/symbols/interpretable/odorat_visage.svg"
+  },
+  {
+    "id": "symbol.intepretable.ouie-oreille",
+    "translatedId": "Ouïe oreille",
+    "src": "/symbols/interpretable/ouie_oreille.svg"
+  },
+  {
+    "id": "symbol.intepretable.ouie-visage",
+    "translatedId": "Ouïe visage",
+    "src": "/symbols/interpretable/ouie_visage.svg"
+  },
+  {
+    "id": "symbol.intepretable.toucher",
+    "translatedId": "Toucher",
+    "src": "/symbols/interpretable/toucher.svg"
+  },
+  {
+    "id": "symbol.intepretable.toucher-3",
+    "translatedId": "\nToucher 3",
+    "src": "/symbols/interpretable/toucher_3.svg"
+  },
+  {
+    "id": "symbol.intepretable.toucher-2",
+    "translatedId": "\nToucher 2",
+    "src": "/symbols/interpretable/toucher_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.vue-yeux",
+    "translatedId": "Vue yeux",
+    "src": "/symbols/interpretable/vue_yeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.vue-visage",
+    "translatedId": "Vue visage",
+    "src": "/symbols/interpretable/vue_visage.svg"
+  },
+  {
+    "id": "symbol.intepretable.assis",
+    "translatedId": "Assis",
+    "src": "/symbols/interpretable/assis.svg"
+  },
+  {
+    "id": "symbol.intepretable.couche",
+    "translatedId": "Couché",
+    "src": "/symbols/interpretable/couche.svg"
+  },
+  {
+    "id": "symbol.intepretable.debout",
+    "translatedId": "Debout",
+    "src": "/symbols/interpretable/debout.svg"
+  },
+  {
+    "id": "symbol.intepretable.boutons-de-vetement",
+    "translatedId": "Boutons de vêtement",
+    "src": "/symbols/interpretable/boutons_de_vetement.svg"
+  },
+  {
+    "id": "symbol.intepretable.chaussettes",
+    "translatedId": "Chaussettes",
+    "src": "/symbols/interpretable/chaussettes.svg"
+  },
+  {
+    "id": "symbol.intepretable.chaussure-a-lacets",
+    "translatedId": "Chaussure à lacets",
+    "src": "/symbols/interpretable/chaussure_a_lacets.svg"
+  },
+  {
+    "id": "symbol.intepretable.fermeture-eclair",
+    "translatedId": "Fermeture éclair",
+    "src": "/symbols/interpretable/fermeture_eclair.svg"
+  },
+  {
+    "id": "symbol.intepretable.bas-du-corps-femme",
+    "translatedId": "Bas du corps femme",
+    "src": "/symbols/interpretable/bas_du_corps_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.bas-du-corps-homme",
+    "translatedId": "Bas du corps homme",
+    "src": "/symbols/interpretable/bas_du_corps_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.bouche",
+    "translatedId": "Bouche",
+    "src": "/symbols/interpretable/bouche.svg"
+  },
+  {
+    "id": "symbol.intepretable.buste-femme",
+    "translatedId": "Buste femme",
+    "src": "/symbols/interpretable/buste_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.buste-homme",
+    "translatedId": "Buste homme",
+    "src": "/symbols/interpretable/buste_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.cheveux",
+    "translatedId": "Cheveux",
+    "src": "/symbols/interpretable/cheveux.svg"
+  },
+  {
+    "id": "symbol.intepretable.corps-femme-de-dos",
+    "translatedId": "Corps femme de dos",
+    "src": "/symbols/interpretable/corps_femme_de_dos.svg"
+  },
+  {
+    "id": "symbol.intepretable.corps-femme-de-face",
+    "translatedId": "Corps femme de face",
+    "src": "/symbols/interpretable/corps_femme_de_face.svg"
+  },
+  {
+    "id": "symbol.intepretable.corps-homme-de-dos",
+    "translatedId": "Corps homme de dos",
+    "src": "/symbols/interpretable/corps_homme_de_dos.svg"
+  },
+  {
+    "id": "symbol.intepretable.corps-homme-de-face",
+    "translatedId": "Corps homme de face",
+    "src": "/symbols/interpretable/corps_homme_de_face.svg"
+  },
+  {
+    "id": "symbol.intepretable.dents",
+    "translatedId": "Dents",
+    "src": "/symbols/interpretable/dents.svg"
+  },
+  {
+    "id": "symbol.intepretable.doigts",
+    "translatedId": "Doigts",
+    "src": "/symbols/interpretable/doigts.svg"
+  },
+  {
+    "id": "symbol.intepretable.dos-femme",
+    "translatedId": "Dos femme",
+    "src": "/symbols/interpretable/dos_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.dos-homme",
+    "translatedId": "Dos homme",
+    "src": "/symbols/interpretable/dos_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.haut-du-corps-femme",
+    "translatedId": "Haut du corps femme",
+    "src": "/symbols/interpretable/haut_du_corps_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.haut-du-corps-homme",
+    "translatedId": "Haut du corps homme",
+    "src": "/symbols/interpretable/haut_du_corps_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.jambes-femme",
+    "translatedId": "Jambes femme",
+    "src": "/symbols/interpretable/jambes_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.jambes-homme",
+    "translatedId": "Jambes homme",
+    "src": "/symbols/interpretable/jambes_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.mains",
+    "translatedId": "Mains",
+    "src": "/symbols/interpretable/mains.svg"
+  },
+  {
+    "id": "symbol.intepretable.nez",
+    "translatedId": "Nez",
+    "src": "/symbols/interpretable/nez.svg"
+  },
+  {
+    "id": "symbol.intepretable.ongles",
+    "translatedId": "Ongles",
+    "src": "/symbols/interpretable/ongles.svg"
+  },
+  {
+    "id": "symbol.intepretable.oreilles",
+    "translatedId": "Oreilles",
+    "src": "/symbols/interpretable/oreilles.svg"
+  },
+  {
+    "id": "symbol.intepretable.pieds-femme",
+    "translatedId": "Pieds femme",
+    "src": "/symbols/interpretable/pieds_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.pieds-homme",
+    "translatedId": "Pieds homme",
+    "src": "/symbols/interpretable/pieds_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.poumons-bebe",
+    "translatedId": "Poumons bébé",
+    "src": "/symbols/interpretable/poumons_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.visage",
+    "translatedId": "Visage",
+    "src": "/symbols/interpretable/visage.svg"
+  },
+  {
+    "id": "symbol.intepretable.yeux",
+    "translatedId": "Yeux",
+    "src": "/symbols/interpretable/yeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.bonheur",
+    "translatedId": "Bonheur",
+    "src": "/symbols/interpretable/bonheur.svg"
+  },
+  {
+    "id": "symbol.intepretable.colere",
+    "translatedId": "Colère",
+    "src": "/symbols/interpretable/colere.svg"
+  },
+  {
+    "id": "symbol.intepretable.content",
+    "translatedId": "Content",
+    "src": "/symbols/interpretable/content.svg"
+  },
+  {
+    "id": "symbol.intepretable.deprime",
+    "translatedId": "Déprime",
+    "src": "/symbols/interpretable/deprime.svg"
+  },
+  {
+    "id": "symbol.intepretable.fatigue",
+    "translatedId": "Fatigue",
+    "src": "/symbols/interpretable/fatigue.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-content",
+    "translatedId": "Pas content",
+    "src": "/symbols/interpretable/pas_content.svg"
+  },
+  {
+    "id": "symbol.intepretable.peur",
+    "translatedId": "Peur",
+    "src": "/symbols/interpretable/peur.svg"
+  },
+  {
+    "id": "symbol.intepretable.tristesse",
+    "translatedId": "Tristesse",
+    "src": "/symbols/interpretable/tristesse.svg"
+  },
+  {
+    "id": "symbol.intepretable.bien-etre",
+    "translatedId": "Bien-être",
+    "src": "/symbols/interpretable/bienetre.svg"
+  },
+  {
+    "id": "symbol.intepretable.nombre-de-bebes",
+    "translatedId": "Nombre de bébés",
+    "src": "/symbols/interpretable/nombre_de_bebes.svg"
+  },
+  {
+    "id": "symbol.intepretable.nombre-d-enfants",
+    "translatedId": "Nombre d'enfants",
+    "src": "/symbols/interpretable/nombre_d_enfants.svg"
+  },
+  {
+    "id": "symbol.intepretable.couple",
+    "translatedId": "Couple",
+    "src": "/symbols/interpretable/couple.svg"
+  },
+  {
+    "id": "symbol.intepretable.divorce",
+    "translatedId": "Divorce",
+    "src": "/symbols/interpretable/divorce.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-nucleaire",
+    "translatedId": "Famille nucléaire",
+    "src": "/symbols/interpretable/famille_nucleaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-adoptive",
+    "translatedId": "Famille adoptive",
+    "src": "/symbols/interpretable/famille_adoptive.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-monoparentale",
+    "translatedId": "Famille monoparentale",
+    "src": "/symbols/interpretable/famille_monoparentale.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-recomposee",
+    "translatedId": "Famille recomposée",
+    "src": "/symbols/interpretable/famille_recomposee.svg"
+  },
+  {
+    "id": "symbol.intepretable.mariage",
+    "translatedId": "Mariage",
+    "src": "/symbols/interpretable/mariage.svg"
+  },
+  {
+    "id": "symbol.intepretable.pacs",
+    "translatedId": "PACS",
+    "src": "/symbols/interpretable/pacs.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille-au-pays",
+    "translatedId": "Famille au pays",
+    "src": "/symbols/interpretable/famille_au_pays.svg"
+  },
+  {
+    "id": "symbol.intepretable.carte-bleue",
+    "translatedId": "Carte bleue",
+    "src": "/symbols/interpretable/carte_bleue.svg"
+  },
+  {
+    "id": "symbol.intepretable.cheque",
+    "translatedId": "Chèque",
+    "src": "/symbols/interpretable/cheque.svg"
+  },
+  {
+    "id": "symbol.intepretable.dollars",
+    "translatedId": "Dollars",
+    "src": "/symbols/interpretable/dollars.svg"
+  },
+  {
+    "id": "symbol.intepretable.euros",
+    "translatedId": "Euros",
+    "src": "/symbols/interpretable/euros.svg"
+  },
+  {
+    "id": "symbol.intepretable.mandat-sepa",
+    "translatedId": "Mandat SEPA",
+    "src": "/symbols/interpretable/mandat_sepa.svg"
+  },
+  {
+    "id": "symbol.intepretable.ressources-financieres",
+    "translatedId": "Ressources financières",
+    "src": "/symbols/interpretable/ressources_financieres.svg"
+  },
+  {
+    "id": "symbol.intepretable.assiette-avec-repas",
+    "translatedId": "Assiette avec repas",
+    "src": "/symbols/interpretable/assiette_avec_repas.svg"
+  },
+  {
+    "id": "symbol.intepretable.boite-a-repas",
+    "translatedId": "Boîte à repas",
+    "src": "/symbols/interpretable/boite_a_repas.svg"
+  },
+  {
+    "id": "symbol.intepretable.baignoire-bebe",
+    "translatedId": "Baignoire bébé",
+    "src": "/symbols/interpretable/baignoire_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.berceau-bebe",
+    "translatedId": "Berceau bébé",
+    "src": "/symbols/interpretable/berceau_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.biberon",
+    "translatedId": "Biberon",
+    "src": "/symbols/interpretable/biberon.svg"
+  },
+  {
+    "id": "symbol.intepretable.biberon-verre",
+    "translatedId": "Biberon verre",
+    "src": "/symbols/interpretable/biberon_verre.svg"
+  },
+  {
+    "id": "symbol.intepretable.brosse-a-biberon",
+    "translatedId": "Brosse à biberon",
+    "src": "/symbols/interpretable/brosse_a_biberon.svg"
+  },
+  {
+    "id": "symbol.intepretable.chaise-haute-bebe",
+    "translatedId": "Chaise haute bébé",
+    "src": "/symbols/interpretable/chaise_haute_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.cosy-bebe",
+    "translatedId": "Cosy bébé",
+    "src": "/symbols/interpretable/cosy_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.flacon-vide",
+    "translatedId": "Flacon vide",
+    "src": "/symbols/interpretable/flacon_vide.svg"
+  },
+  {
+    "id": "symbol.intepretable.jouet-voiture-bebe",
+    "translatedId": "Jouet voiture bébé",
+    "src": "/symbols/interpretable/jouet_voiture_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.poussette",
+    "translatedId": "Poussette",
+    "src": "/symbols/interpretable/poussette.svg"
+  },
+  {
+    "id": "symbol.intepretable.siege-auto-bebe",
+    "translatedId": "Siège-auto bébé",
+    "src": "/symbols/interpretable/siegeauto_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.trotteur",
+    "translatedId": "Trotteur",
+    "src": "/symbols/interpretable/trotteur.svg"
+  },
+  {
+    "id": "symbol.intepretable.velo-petites-roulettes",
+    "translatedId": "Vélo petites roulettes",
+    "src": "/symbols/interpretable/velo_petites_roulettes.svg"
+  },
+  {
+    "id": "symbol.intepretable.alphabet-francais",
+    "translatedId": "Alphabet français",
+    "src": "/symbols/interpretable/alphabet_francais.svg"
+  },
+  {
+    "id": "symbol.intepretable.automne",
+    "translatedId": "Automne",
+    "src": "/symbols/interpretable/automne.svg"
+  },
+  {
+    "id": "symbol.intepretable.echelle-numerique",
+    "translatedId": "Échelle numérique",
+    "src": "/symbols/interpretable/echelle_numerique.svg"
+  },
+  {
+    "id": "symbol.intepretable.ete",
+    "translatedId": "Eté",
+    "src": "/symbols/interpretable/ete.svg"
+  },
+  {
+    "id": "symbol.intepretable.hiver",
+    "translatedId": "Hiver",
+    "src": "/symbols/interpretable/hiver.svg"
+  },
+  {
+    "id": "symbol.intepretable.jours-anglais",
+    "translatedId": "Jours anglais",
+    "src": "/symbols/interpretable/jours_anglais.svg"
+  },
+  {
+    "id": "symbol.intepretable.jours-francais",
+    "translatedId": "Jours français",
+    "src": "/symbols/interpretable/jours_francais.svg"
+  },
+  {
+    "id": "symbol.intepretable.ne-pas",
+    "translatedId": "Ne pas",
+    "src": "/symbols/interpretable/ne_pas.svg"
+  },
+  {
+    "id": "symbol.intepretable.neige",
+    "translatedId": "Neige",
+    "src": "/symbols/interpretable/neige.svg"
+  },
+  {
+    "id": "symbol.intepretable.non",
+    "translatedId": "Non",
+    "src": "/symbols/interpretable/non.svg"
+  },
+  {
+    "id": "symbol.intepretable.nuage",
+    "translatedId": "Nuage",
+    "src": "/symbols/interpretable/nuage.svg"
+  },
+  {
+    "id": "symbol.intepretable.orage",
+    "translatedId": "Orage",
+    "src": "/symbols/interpretable/orage.svg"
+  },
+  {
+    "id": "symbol.intepretable.oui",
+    "translatedId": "Oui",
+    "src": "/symbols/interpretable/oui.svg"
+  },
+  {
+    "id": "symbol.intepretable.pluie",
+    "translatedId": "Pluie",
+    "src": "/symbols/interpretable/pluie.svg"
+  },
+  {
+    "id": "symbol.intepretable.pictos-generiques",
+    "translatedId": "Pictos génériques",
+    "src": "/symbols/interpretable/pictos_generiques.svg"
+  },
+  {
+    "id": "symbol.intepretable.point-d-interrogation",
+    "translatedId": "Point d'interrogation",
+    "src": "/symbols/interpretable/point_d_interrogation.svg"
+  },
+  {
+    "id": "symbol.intepretable.positif-autoriser",
+    "translatedId": "Positif/Autoriser",
+    "src": "/symbols/interpretable/positif_autoriser.svg"
+  },
+  {
+    "id": "symbol.intepretable.printemps",
+    "translatedId": "Printemps",
+    "src": "/symbols/interpretable/printemps.svg"
+  },
+  {
+    "id": "symbol.intepretable.quelle-temperature",
+    "translatedId": "Quelle température",
+    "src": "/symbols/interpretable/quelle_temperature.svg"
+  },
+  {
+    "id": "symbol.intepretable.saisons",
+    "translatedId": "Saisons",
+    "src": "/symbols/interpretable/saisons.svg"
+  },
+  {
+    "id": "symbol.intepretable.soleil",
+    "translatedId": "Soleil",
+    "src": "/symbols/interpretable/soleil.svg"
+  },
+  {
+    "id": "symbol.intepretable.nuage-et-soleil",
+    "translatedId": "Nuage et soleil",
+    "src": "/symbols/interpretable/nuage_et_soleil.svg"
+  },
+  {
+    "id": "symbol.intepretable.temperature-air",
+    "translatedId": "Température air",
+    "src": "/symbols/interpretable/temperature_air.svg"
+  },
+  {
+    "id": "symbol.intepretable.amerique-du-nord",
+    "translatedId": "Amérique du Nord",
+    "src": "/symbols/interpretable/amerique_du_nord.svg"
+  },
+  {
+    "id": "symbol.intepretable.amerique-du-sud",
+    "translatedId": "Amérique du Sud",
+    "src": "/symbols/interpretable/amerique_du_sud.svg"
+  },
+  {
+    "id": "symbol.intepretable.asie",
+    "translatedId": "Asie",
+    "src": "/symbols/interpretable/asie.svg"
+  },
+  {
+    "id": "symbol.intepretable.europe",
+    "translatedId": "Europe",
+    "src": "/symbols/interpretable/europe.svg"
+  },
+  {
+    "id": "symbol.intepretable.bonjour-autres-langues",
+    "translatedId": "Bonjour autres langues",
+    "src": "/symbols/interpretable/bonjour_autres_langues.svg"
+  },
+  {
+    "id": "symbol.intepretable.oceanie",
+    "translatedId": "Océanie",
+    "src": "/symbols/interpretable/oceanie.svg"
+  },
+  {
+    "id": "symbol.intepretable.planisphere",
+    "translatedId": "Planisphère",
+    "src": "/symbols/interpretable/planisphere.svg"
+  },
+  {
+    "id": "symbol.intepretable.planisphere-drapeaux",
+    "translatedId": "Planisphère drapeaux",
+    "src": "/symbols/interpretable/planisphere_drapeaux.svg"
+  },
+  {
+    "id": "symbol.intepretable.prison",
+    "translatedId": "Prison",
+    "src": "/symbols/interpretable/prison.svg"
+  },
+  {
+    "id": "symbol.intepretable.aveugle",
+    "translatedId": "Aveugle",
+    "src": "/symbols/interpretable/aveugle.svg"
+  },
+  {
+    "id": "symbol.intepretable.handicap-psychique-fauteuil",
+    "translatedId": "Handicap psychique Fauteuil",
+    "src": "/symbols/interpretable/handicap_psychique_fauteuil.svg"
+  },
+  {
+    "id": "symbol.intepretable.handicap-manque-un-membre",
+    "translatedId": "Handicap Manque un membre",
+    "src": "/symbols/interpretable/handicap_manque_un_membre.svg"
+  },
+  {
+    "id": "symbol.intepretable.symbole-d-accueil-accompagnement-et-accessibilite-handicap",
+    "translatedId": "Symbole d'accueil accompagnement et accessibilité handicap",
+    "src": "/symbols/interpretable/symbole_d_accueil_accompagnement_et_accessibilite_handicap.svg"
+  },
+  {
+    "id": "symbol.intepretable.maman",
+    "translatedId": "maman",
+    "src": "/symbols/interpretable/maman.svg"
+  },
+  {
+    "id": "symbol.intepretable.personnes-agees",
+    "translatedId": "Personnes âgées",
+    "src": "/symbols/interpretable/personnes_agees.svg"
+  },
+  {
+    "id": "symbol.intepretable.aspirateur",
+    "translatedId": "Aspirateur",
+    "src": "/symbols/interpretable/aspirateur.svg"
+  },
+  {
+    "id": "symbol.intepretable.assiette",
+    "translatedId": "Assiette",
+    "src": "/symbols/interpretable/assiette.svg"
+  },
+  {
+    "id": "symbol.intepretable.brosse-a-cheveux",
+    "translatedId": "Brosse à cheveux",
+    "src": "/symbols/interpretable/brosse_a_cheveux.svg"
+  },
+  {
+    "id": "symbol.intepretable.brosse-a-dents",
+    "translatedId": "Brosse à dents",
+    "src": "/symbols/interpretable/brosse_a_dents.svg"
+  },
+  {
+    "id": "symbol.intepretable.brosse-a-dents-et-dentifrice",
+    "translatedId": "Brosse à dents et dentifrice",
+    "src": "/symbols/interpretable/brosse_a_dents_et_dentifrice.svg"
+  },
+  {
+    "id": "symbol.intepretable.canape",
+    "translatedId": "Canapé",
+    "src": "/symbols/interpretable/canape.svg"
+  },
+  {
+    "id": "symbol.intepretable.plat",
+    "translatedId": "Plat",
+    "src": "/symbols/interpretable/plat.svg"
+  },
+  {
+    "id": "symbol.intepretable.chaise",
+    "translatedId": "Chaise",
+    "src": "/symbols/interpretable/chaise.svg"
+  },
+  {
+    "id": "symbol.intepretable.console-de-jeux",
+    "translatedId": "Console de jeux",
+    "src": "/symbols/interpretable/console_de_jeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.cotons-tiges",
+    "translatedId": "Cotons tiges",
+    "src": "/symbols/interpretable/cotons_tiges.svg"
+  },
+  {
+    "id": "symbol.intepretable.couteau",
+    "translatedId": "Couteau",
+    "src": "/symbols/interpretable/couteau.svg"
+  },
+  {
+    "id": "symbol.intepretable.cuillere",
+    "translatedId": "Cuillère",
+    "src": "/symbols/interpretable/cuillere.svg"
+  },
+  {
+    "id": "symbol.intepretable.cuisiniere",
+    "translatedId": "Cuisinière",
+    "src": "/symbols/interpretable/cuisiniere.svg"
+  },
+  {
+    "id": "symbol.intepretable.culotte",
+    "translatedId": "Culotte",
+    "src": "/symbols/interpretable/culotte.svg"
+  },
+  {
+    "id": "symbol.intepretable.dentifrice",
+    "translatedId": "Dentifrice",
+    "src": "/symbols/interpretable/dentifrice.svg"
+  },
+  {
+    "id": "symbol.intepretable.fourchette",
+    "translatedId": "Fourchette",
+    "src": "/symbols/interpretable/fourchette.svg"
+  },
+  {
+    "id": "symbol.intepretable.lingettes",
+    "translatedId": "Lingettes",
+    "src": "/symbols/interpretable/lingettes.svg"
+  },
+  {
+    "id": "symbol.intepretable.lit-double",
+    "translatedId": "Lit double",
+    "src": "/symbols/interpretable/lit_double.svg"
+  },
+  {
+    "id": "symbol.intepretable.lit-simple",
+    "translatedId": "Lit simple",
+    "src": "/symbols/interpretable/lit_simple.svg"
+  },
+  {
+    "id": "symbol.intepretable.manette-console-de-jeux",
+    "translatedId": "Manette console de jeux",
+    "src": "/symbols/interpretable/manette_console_de_jeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.matelas",
+    "translatedId": "Matelas",
+    "src": "/symbols/interpretable/matelas.svg"
+  },
+  {
+    "id": "symbol.intepretable.mettre-la-table",
+    "translatedId": "Mettre la table",
+    "src": "/symbols/interpretable/mettre_la_table.svg"
+  },
+  {
+    "id": "symbol.intepretable.mouchoirs",
+    "translatedId": "Mouchoirs",
+    "src": "/symbols/interpretable/mouchoirs.svg"
+  },
+  {
+    "id": "symbol.intepretable.peigne-et-brosse",
+    "translatedId": "Peigne et brosse",
+    "src": "/symbols/interpretable/peigne_et_brosse.svg"
+  },
+  {
+    "id": "symbol.intepretable.reveil",
+    "translatedId": "Réveil",
+    "src": "/symbols/interpretable/reveil.svg"
+  },
+  {
+    "id": "symbol.intepretable.tablette-numerique",
+    "translatedId": "Tablette numérique",
+    "src": "/symbols/interpretable/tablette_numerique.svg"
+  },
+  {
+    "id": "symbol.intepretable.verre",
+    "translatedId": "Verre",
+    "src": "/symbols/interpretable/verre.svg"
+  },
+  {
+    "id": "symbol.intepretable.temperature-eau-bebe",
+    "translatedId": "Température eau bébé",
+    "src": "/symbols/interpretable/temperature_eau_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.faire-le-menage",
+    "translatedId": "Faire le ménage",
+    "src": "/symbols/interpretable/faire_le_menage.svg"
+  },
+  {
+    "id": "symbol.intepretable.faire-ses-courses",
+    "translatedId": "Faire ses courses",
+    "src": "/symbols/interpretable/faire_ses_courses.svg"
+  },
+  {
+    "id": "symbol.intepretable.laver-son-linge",
+    "translatedId": "Laver son linge",
+    "src": "/symbols/interpretable/laver_son_linge.svg"
+  },
+  {
+    "id": "symbol.intepretable.vetements-ete",
+    "translatedId": "Vêtements été",
+    "src": "/symbols/interpretable/vetements_ete.svg"
+  },
+  {
+    "id": "symbol.intepretable.vetements-hiver",
+    "translatedId": "Vêtements hiver",
+    "src": "/symbols/interpretable/vetements_hiver.svg"
+  },
+  {
+    "id": "symbol.intepretable.vetements-mi-saison",
+    "translatedId": "Vêtements mi-saison",
+    "src": "/symbols/interpretable/vetements_misaison.svg"
+  },
+  {
+    "id": "symbol.intepretable.logement-propre",
+    "translatedId": "Logement propre",
+    "src": "/symbols/interpretable/logement_propre.svg"
+  },
+  {
+    "id": "symbol.intepretable.logement-sale",
+    "translatedId": "Logement sale",
+    "src": "/symbols/interpretable/logement_sale.svg"
+  },
+  {
+    "id": "symbol.intepretable.age-enfant",
+    "translatedId": "Age enfant",
+    "src": "/symbols/interpretable/age_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-sur-le-cote",
+    "translatedId": "Bébé sur le côté",
+    "src": "/symbols/interpretable/bebe_sur_le_cote.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-de-face",
+    "translatedId": "Bébé de face",
+    "src": "/symbols/interpretable/bebe_de_face.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-sur-le-ventre",
+    "translatedId": "Bébé sur le ventre",
+    "src": "/symbols/interpretable/bebe_sur_le_ventre.svg"
+  },
+  {
+    "id": "symbol.intepretable.adolescent",
+    "translatedId": "Adolescent",
+    "src": "/symbols/interpretable/adolescent.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe",
+    "translatedId": "Bébé",
+    "src": "/symbols/interpretable/bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.nourisson",
+    "translatedId": "Nourisson",
+    "src": "/symbols/interpretable/nourisson.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfant",
+    "translatedId": "Enfant",
+    "src": "/symbols/interpretable/enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.femme-adulte",
+    "translatedId": "Femme adulte",
+    "src": "/symbols/interpretable/femme_adulte.svg"
+  },
+  {
+    "id": "symbol.intepretable.personne-agee-femme",
+    "translatedId": "Personne âgée Femme",
+    "src": "/symbols/interpretable/personne_agee_femme.svg"
+  },
+  {
+    "id": "symbol.intepretable.homme-adulte",
+    "translatedId": "Homme adulte",
+    "src": "/symbols/interpretable/homme_adulte.svg"
+  },
+  {
+    "id": "symbol.intepretable.personne-agee-homme",
+    "translatedId": "Personne âgée Homme",
+    "src": "/symbols/interpretable/personne_agee_homme.svg"
+  },
+  {
+    "id": "symbol.intepretable.individu",
+    "translatedId": "Individu",
+    "src": "/symbols/interpretable/individu.svg"
+  },
+  {
+    "id": "symbol.intepretable.personne-precaire",
+    "translatedId": "Personne précaire",
+    "src": "/symbols/interpretable/personne_precaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.comptine",
+    "translatedId": "Comptine",
+    "src": "/symbols/interpretable/comptine.svg"
+  },
+  {
+    "id": "symbol.intepretable.deguisement",
+    "translatedId": "Déguisement",
+    "src": "/symbols/interpretable/deguisement.svg"
+  },
+  {
+    "id": "symbol.intepretable.dessiner-et-peindre",
+    "translatedId": "Dessiner et peindre",
+    "src": "/symbols/interpretable/dessiner_et_peindre.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux-enfant-18-36-mois",
+    "translatedId": "Jeux enfant 18/36 mois",
+    "src": "/symbols/interpretable/jeux_enfant_18_36_mois.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux-nourisson",
+    "translatedId": "Jeux nourisson",
+    "src": "/symbols/interpretable/jeux_nourisson.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux-bebe-9-18-mois",
+    "translatedId": "Jeux bébé 9 18 mois",
+    "src": "/symbols/interpretable/jeux_bebe_9_18_mois.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux-bebe-3-6-mois",
+    "translatedId": "Jeux bébé 3 6 mois",
+    "src": "/symbols/interpretable/jeux_bebe_3_6_mois.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux-3-ans-et-plus",
+    "translatedId": "Jeux 3 ans et plus",
+    "src": "/symbols/interpretable/jeux_3_ans_et_plus.svg"
+  },
+  {
+    "id": "symbol.intepretable.lecture",
+    "translatedId": "Lecture",
+    "src": "/symbols/interpretable/lecture.svg"
+  },
+  {
+    "id": "symbol.intepretable.parc-pour-enfants",
+    "translatedId": "Parc pour enfants",
+    "src": "/symbols/interpretable/parc_pour_enfants.svg"
+  },
+  {
+    "id": "symbol.intepretable.puzzle",
+    "translatedId": "Puzzle",
+    "src": "/symbols/interpretable/puzzle.svg"
+  },
+  {
+    "id": "symbol.intepretable.tapis-de-jeu",
+    "translatedId": "Tapis de jeu",
+    "src": "/symbols/interpretable/tapis_de_jeu.svg"
+  },
+  {
+    "id": "symbol.intepretable.ecouter-de-la-musique",
+    "translatedId": "Écouter de la musique",
+    "src": "/symbols/interpretable/ecouter_de_la_musique.svg"
+  },
+  {
+    "id": "symbol.intepretable.libraire",
+    "translatedId": "Libraire",
+    "src": "/symbols/interpretable/libraire.svg"
+  },
+  {
+    "id": "symbol.intepretable.ludotheque",
+    "translatedId": "Ludothèque",
+    "src": "/symbols/interpretable/ludotheque.svg"
+  },
+  {
+    "id": "symbol.intepretable.mediatheque",
+    "translatedId": "Médiathèque",
+    "src": "/symbols/interpretable/mediatheque.svg"
+  },
+  {
+    "id": "symbol.intepretable.piscine-municipale",
+    "translatedId": "Piscine municipale",
+    "src": "/symbols/interpretable/piscine_municipale.svg"
+  },
+  {
+    "id": "symbol.intepretable.protection-maternelle-infantile",
+    "translatedId": "Protection Maternelle Infantile",
+    "src": "/symbols/interpretable/protection_maternelle_infantile.svg"
+  },
+  {
+    "id": "symbol.intepretable.contacts-au-pays",
+    "translatedId": "Contacts au pays",
+    "src": "/symbols/interpretable/contacts_au_pays.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfants-au-pays",
+    "translatedId": "Enfants au pays",
+    "src": "/symbols/interpretable/enfants_au_pays.svg"
+  },
+  {
+    "id": "symbol.intepretable.dentiste",
+    "translatedId": "Dentiste",
+    "src": "/symbols/interpretable/dentiste.svg"
+  },
+  {
+    "id": "symbol.intepretable.dermatologue",
+    "translatedId": "Dermatologue",
+    "src": "/symbols/interpretable/dermatologue.svg"
+  },
+  {
+    "id": "symbol.intepretable.kinesitherapeute",
+    "translatedId": "Kinésithérapeute",
+    "src": "/symbols/interpretable/kinesitherapeute.svg"
+  },
+  {
+    "id": "symbol.intepretable.puericultrice",
+    "translatedId": "Puéricultrice",
+    "src": "/symbols/interpretable/puericultrice.svg"
+  },
+  {
+    "id": "symbol.intepretable.alcool",
+    "translatedId": "Alcool",
+    "src": "/symbols/interpretable/alcool.svg"
+  },
+  {
+    "id": "symbol.intepretable.cannabis",
+    "translatedId": "Cannabis",
+    "src": "/symbols/interpretable/cannabis.svg"
+  },
+  {
+    "id": "symbol.intepretable.cigarette",
+    "translatedId": "Cigarette",
+    "src": "/symbols/interpretable/cigarette.svg"
+  },
+  {
+    "id": "symbol.intepretable.consommation-alcool",
+    "translatedId": "Consommation alcool",
+    "src": "/symbols/interpretable/consommation_alcool.svg"
+  },
+  {
+    "id": "symbol.intepretable.consommation-tabac",
+    "translatedId": "Consommation tabac",
+    "src": "/symbols/interpretable/consommation_tabac.svg"
+  },
+  {
+    "id": "symbol.intepretable.drogue-dure",
+    "translatedId": "Drogue dure",
+    "src": "/symbols/interpretable/drogue_dure.svg"
+  },
+  {
+    "id": "symbol.intepretable.frequence-d-utilisation-tv",
+    "translatedId": "Fréquence d'utilisation TV",
+    "src": "/symbols/interpretable/frequence_d_utilisation_tv.svg"
+  },
+  {
+    "id": "symbol.intepretable.ordinateur",
+    "translatedId": "Ordinateur",
+    "src": "/symbols/interpretable/ordinateur.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-de-tabac",
+    "translatedId": "Pas de tabac",
+    "src": "/symbols/interpretable/pas_de_tabac.svg"
+  },
+  {
+    "id": "symbol.intepretable.porno",
+    "translatedId": "Porno",
+    "src": "/symbols/interpretable/porno.svg"
+  },
+  {
+    "id": "symbol.intepretable.reseaux-sociaux",
+    "translatedId": "Réseaux sociaux",
+    "src": "/symbols/interpretable/reseaux_sociaux.svg"
+  },
+  {
+    "id": "symbol.intepretable.smartphone",
+    "translatedId": "Smartphone",
+    "src": "/symbols/interpretable/smartphone.svg"
+  },
+  {
+    "id": "symbol.intepretable.vapoteur",
+    "translatedId": "Vapoteur",
+    "src": "/symbols/interpretable/vapoteur.svg"
+  },
+  {
+    "id": "symbol.intepretable.abricot",
+    "translatedId": "Abricot",
+    "src": "/symbols/interpretable/abricot.svg"
+  },
+  {
+    "id": "symbol.intepretable.aubergine",
+    "translatedId": "Aubergine",
+    "src": "/symbols/interpretable/aubergine.svg"
+  },
+  {
+    "id": "symbol.intepretable.banane",
+    "translatedId": "Banane",
+    "src": "/symbols/interpretable/banane.svg"
+  },
+  {
+    "id": "symbol.intepretable.biscuit",
+    "translatedId": "Biscuit",
+    "src": "/symbols/interpretable/biscuit.svg"
+  },
+  {
+    "id": "symbol.intepretable.boire",
+    "translatedId": "Boire",
+    "src": "/symbols/interpretable/boire.svg"
+  },
+  {
+    "id": "symbol.intepretable.boisson-cafe",
+    "translatedId": "Boisson café",
+    "src": "/symbols/interpretable/boisson_cafe.svg"
+  },
+  {
+    "id": "symbol.intepretable.boisson-chocolat",
+    "translatedId": "Boisson chocolat",
+    "src": "/symbols/interpretable/boisson_chocolat.svg"
+  },
+  {
+    "id": "symbol.intepretable.boisson-the",
+    "translatedId": "Boisson thé",
+    "src": "/symbols/interpretable/boisson_the.svg"
+  },
+  {
+    "id": "symbol.intepretable.bonbons",
+    "translatedId": "Bonbons",
+    "src": "/symbols/interpretable/bonbons.svg"
+  },
+  {
+    "id": "symbol.intepretable.brocolis",
+    "translatedId": "Brocolis",
+    "src": "/symbols/interpretable/brocolis.svg"
+  },
+  {
+    "id": "symbol.intepretable.carotte",
+    "translatedId": "Carotte",
+    "src": "/symbols/interpretable/carotte.svg"
+  },
+  {
+    "id": "symbol.intepretable.cerise",
+    "translatedId": "Cerise",
+    "src": "/symbols/interpretable/cerise.svg"
+  },
+  {
+    "id": "symbol.intepretable.champignon",
+    "translatedId": "Champignon",
+    "src": "/symbols/interpretable/champignon.svg"
+  },
+  {
+    "id": "symbol.intepretable.chauffe-lait",
+    "translatedId": "Chauffe-lait",
+    "src": "/symbols/interpretable/chauffelait.svg"
+  },
+  {
+    "id": "symbol.intepretable.chevre",
+    "translatedId": "Chèvre",
+    "src": "/symbols/interpretable/chevre.svg"
+  },
+  {
+    "id": "symbol.intepretable.chips",
+    "translatedId": "Chips",
+    "src": "/symbols/interpretable/chips.svg"
+  },
+  {
+    "id": "symbol.intepretable.citron",
+    "translatedId": "Citron",
+    "src": "/symbols/interpretable/citron.svg"
+  },
+  {
+    "id": "symbol.intepretable.clementine",
+    "translatedId": "Clémentine",
+    "src": "/symbols/interpretable/clementine.svg"
+  },
+  {
+    "id": "symbol.intepretable.compote",
+    "translatedId": "Compote",
+    "src": "/symbols/interpretable/compote.svg"
+  },
+  {
+    "id": "symbol.intepretable.concombre",
+    "translatedId": "Concombre",
+    "src": "/symbols/interpretable/concombre.svg"
+  },
+  {
+    "id": "symbol.intepretable.confiture",
+    "translatedId": "Confiture",
+    "src": "/symbols/interpretable/confiture.svg"
+  },
+  {
+    "id": "symbol.intepretable.courgette",
+    "translatedId": "Courgette",
+    "src": "/symbols/interpretable/courgette.svg"
+  },
+  {
+    "id": "symbol.intepretable.crevette",
+    "translatedId": "Crevette",
+    "src": "/symbols/interpretable/crevette.svg"
+  },
+  {
+    "id": "symbol.intepretable.eau-bouteille",
+    "translatedId": "Eau bouteille",
+    "src": "/symbols/interpretable/eau_bouteille.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfant-mange-seul",
+    "translatedId": "Enfant mange seul",
+    "src": "/symbols/interpretable/enfant_mange_seul.svg"
+  },
+  {
+    "id": "symbol.intepretable.fraise",
+    "translatedId": "Fraise",
+    "src": "/symbols/interpretable/fraise.svg"
+  },
+  {
+    "id": "symbol.intepretable.frites",
+    "translatedId": "Frites",
+    "src": "/symbols/interpretable/frites.svg"
+  },
+  {
+    "id": "symbol.intepretable.fromage",
+    "translatedId": "Fromage",
+    "src": "/symbols/interpretable/fromage.svg"
+  },
+  {
+    "id": "symbol.intepretable.fromage-de-chevre",
+    "translatedId": "Fromage de chèvre",
+    "src": "/symbols/interpretable/fromage_de_chevre.svg"
+  },
+  {
+    "id": "symbol.intepretable.fromage-de-vache",
+    "translatedId": "Fromage de vache",
+    "src": "/symbols/interpretable/fromage_de_vache.svg"
+  },
+  {
+    "id": "symbol.intepretable.fruits-a-coque",
+    "translatedId": "Fruits à coque",
+    "src": "/symbols/interpretable/fruits_a_coque.svg"
+  },
+  {
+    "id": "symbol.intepretable.horaire-des-repas",
+    "translatedId": "Horaire des repas",
+    "src": "/symbols/interpretable/horaire_des_repas.svg"
+  },
+  {
+    "id": "symbol.intepretable.aimer-manger",
+    "translatedId": "Aimer manger",
+    "src": "/symbols/interpretable/aimer_manger.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait",
+    "translatedId": "Lait",
+    "src": "/symbols/interpretable/lait.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-d-amande",
+    "translatedId": "Lait d'amande",
+    "src": "/symbols/interpretable/lait_d_amande.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-de-vache",
+    "translatedId": "Lait de vache",
+    "src": "/symbols/interpretable/lait_de_vache.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-de-soja",
+    "translatedId": "Lait de soja",
+    "src": "/symbols/interpretable/lait_de_soja.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-d-avoine",
+    "translatedId": "Lait d'avoine",
+    "src": "/symbols/interpretable/lait_d_avoine.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-de-coco",
+    "translatedId": "Lait de coco",
+    "src": "/symbols/interpretable/lait_de_coco.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-vegetal",
+    "translatedId": "Lait végétal",
+    "src": "/symbols/interpretable/lait_vegetal.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-de-vache-ou-lait-de-chevre",
+    "translatedId": "Lait de vache ou lait de chèvre",
+    "src": "/symbols/interpretable/lait_de_vache_ou_lait_de_chevre.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-en-poudre",
+    "translatedId": "Lait en poudre",
+    "src": "/symbols/interpretable/lait_en_poudre.svg"
+  },
+  {
+    "id": "symbol.intepretable.mais",
+    "translatedId": "Maïs",
+    "src": "/symbols/interpretable/mais.svg"
+  },
+  {
+    "id": "symbol.intepretable.manger-mal",
+    "translatedId": "Manger mal",
+    "src": "/symbols/interpretable/manger_mal.svg"
+  },
+  {
+    "id": "symbol.intepretable.melon",
+    "translatedId": "Melon",
+    "src": "/symbols/interpretable/melon.svg"
+  },
+  {
+    "id": "symbol.intepretable.mouton",
+    "translatedId": "Mouton",
+    "src": "/symbols/interpretable/mouton.svg"
+  },
+  {
+    "id": "symbol.intepretable.noix-de-coco",
+    "translatedId": "Noix de coco",
+    "src": "/symbols/interpretable/noix_de_coco.svg"
+  },
+  {
+    "id": "symbol.intepretable.oeuf",
+    "translatedId": "Œuf",
+    "src": "/symbols/interpretable/oeuf.svg"
+  },
+  {
+    "id": "symbol.intepretable.orange",
+    "translatedId": "Orange",
+    "src": "/symbols/interpretable/orange.svg"
+  },
+  {
+    "id": "symbol.intepretable.soda",
+    "translatedId": "Soda",
+    "src": "/symbols/interpretable/soda.svg"
+  },
+  {
+    "id": "symbol.intepretable.viennoiserie",
+    "translatedId": "Viennoiserie",
+    "src": "/symbols/interpretable/viennoiserie.svg"
+  },
+  {
+    "id": "symbol.intepretable.pasteque",
+    "translatedId": "Pastèque",
+    "src": "/symbols/interpretable/pasteque.svg"
+  },
+  {
+    "id": "symbol.intepretable.patate-douce",
+    "translatedId": "Patate douce",
+    "src": "/symbols/interpretable/patate_douce.svg"
+  },
+  {
+    "id": "symbol.intepretable.pates",
+    "translatedId": "Pâtes",
+    "src": "/symbols/interpretable/pates.svg"
+  },
+  {
+    "id": "symbol.intepretable.petit-pot-bebe",
+    "translatedId": "Petit pot bébé",
+    "src": "/symbols/interpretable/petit_pot_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.petits-pois",
+    "translatedId": "Petits pois",
+    "src": "/symbols/interpretable/petits_pois.svg"
+  },
+  {
+    "id": "symbol.intepretable.poire",
+    "translatedId": "Poire",
+    "src": "/symbols/interpretable/poire.svg"
+  },
+  {
+    "id": "symbol.intepretable.poireau",
+    "translatedId": "Poireau",
+    "src": "/symbols/interpretable/poireau.svg"
+  },
+  {
+    "id": "symbol.intepretable.poisson",
+    "translatedId": "Poisson",
+    "src": "/symbols/interpretable/poisson.svg"
+  },
+  {
+    "id": "symbol.intepretable.poivron",
+    "translatedId": "Poivron",
+    "src": "/symbols/interpretable/poivron.svg"
+  },
+  {
+    "id": "symbol.intepretable.pomme",
+    "translatedId": "Pomme",
+    "src": "/symbols/interpretable/pomme.svg"
+  },
+  {
+    "id": "symbol.intepretable.pomme-de-terre",
+    "translatedId": "Pomme de terre",
+    "src": "/symbols/interpretable/pomme_de_terre.svg"
+  },
+  {
+    "id": "symbol.intepretable.quantite-de-lait",
+    "translatedId": "Quantité de lait",
+    "src": "/symbols/interpretable/quantite_de_lait.svg"
+  },
+  {
+    "id": "symbol.intepretable.raisin",
+    "translatedId": "Raisin",
+    "src": "/symbols/interpretable/raisin.svg"
+  },
+  {
+    "id": "symbol.intepretable.riz",
+    "translatedId": "Riz",
+    "src": "/symbols/interpretable/riz.svg"
+  },
+  {
+    "id": "symbol.intepretable.sans-porc",
+    "translatedId": "Sans porc",
+    "src": "/symbols/interpretable/sans_porc.svg"
+  },
+  {
+    "id": "symbol.intepretable.soupe",
+    "translatedId": "Soupe",
+    "src": "/symbols/interpretable/soupe.svg"
+  },
+  {
+    "id": "symbol.intepretable.boisson-soupe",
+    "translatedId": "Boisson soupe",
+    "src": "/symbols/interpretable/boisson_soupe.svg"
+  },
+  {
+    "id": "symbol.intepretable.tomate",
+    "translatedId": "Tomate",
+    "src": "/symbols/interpretable/tomate.svg"
+  },
+  {
+    "id": "symbol.intepretable.vache",
+    "translatedId": "Vache",
+    "src": "/symbols/interpretable/vache.svg"
+  },
+  {
+    "id": "symbol.intepretable.vegan",
+    "translatedId": "Vegan",
+    "src": "/symbols/interpretable/vegan.svg"
+  },
+  {
+    "id": "symbol.intepretable.vegetarien",
+    "translatedId": "Végétarien",
+    "src": "/symbols/interpretable/vegetarien.svg"
+  },
+  {
+    "id": "symbol.intepretable.viande",
+    "translatedId": "Viande",
+    "src": "/symbols/interpretable/viande.svg"
+  },
+  {
+    "id": "symbol.intepretable.yaourt",
+    "translatedId": "Yaourt",
+    "src": "/symbols/interpretable/yaourt.svg"
+  },
+  {
+    "id": "symbol.intepretable.yaourt-vache-chevre",
+    "translatedId": "Yaourt vache chèvre",
+    "src": "/symbols/interpretable/yaourt_vache_chevre.svg"
+  },
+  {
+    "id": "symbol.intepretable.besoin-d-aide-pour-se-deplacer",
+    "translatedId": "Besoin d'aide pour se déplacer",
+    "src": "/symbols/interpretable/besoin_d_aide_pour_se_deplacer.svg"
+  },
+  {
+    "id": "symbol.intepretable.couper-nourriture",
+    "translatedId": "Couper nourriture",
+    "src": "/symbols/interpretable/couper_nourriture.svg"
+  },
+  {
+    "id": "symbol.intepretable.ouvrir-un-contenant",
+    "translatedId": "Ouvrir un contenant",
+    "src": "/symbols/interpretable/ouvrir_un_contenant.svg"
+  },
+  {
+    "id": "symbol.intepretable.perimetre-de-marche",
+    "translatedId": "Périmètre de marche",
+    "src": "/symbols/interpretable/perimetre_de_marche.svg"
+  },
+  {
+    "id": "symbol.intepretable.portage-de-repas",
+    "translatedId": "Portage de repas",
+    "src": "/symbols/interpretable/portage_de_repas.svg"
+  },
+  {
+    "id": "symbol.intepretable.porter-a-la-bouche",
+    "translatedId": "Porter à la bouche",
+    "src": "/symbols/interpretable/porter_a_la_bouche.svg"
+  },
+  {
+    "id": "symbol.intepretable.soutien-de-l-entourage",
+    "translatedId": "Soutien de l'entourage",
+    "src": "/symbols/interpretable/soutien_de_l_entourage.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-de-bonbon",
+    "translatedId": "Pas de bonbon",
+    "src": "/symbols/interpretable/pas_de_bonbon.svg"
+  },
+  {
+    "id": "symbol.intepretable.delire-et-hallucination",
+    "translatedId": "Délire et hallucination",
+    "src": "/symbols/interpretable/delire_et_hallucination.svg"
+  },
+  {
+    "id": "symbol.intepretable.depression",
+    "translatedId": "Dépression",
+    "src": "/symbols/interpretable/depression.svg"
+  },
+  {
+    "id": "symbol.intepretable.solitude",
+    "translatedId": "Solitude",
+    "src": "/symbols/interpretable/solitude.svg"
+  },
+  {
+    "id": "symbol.intepretable.allumer-la-lumiere",
+    "translatedId": "Allumer la lumière",
+    "src": "/symbols/interpretable/allumer_la_lumiere.svg"
+  },
+  {
+    "id": "symbol.intepretable.babyphone",
+    "translatedId": "Babyphone",
+    "src": "/symbols/interpretable/babyphone.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-a-4-pattes",
+    "translatedId": "Bébé à 4 pattes",
+    "src": "/symbols/interpretable/bebe_a_4_pattes.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-assis",
+    "translatedId": "Bébé assis",
+    "src": "/symbols/interpretable/bebe_assis.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-dort",
+    "translatedId": "Bébé dort",
+    "src": "/symbols/interpretable/bebe_dort.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-dort-sur-le-dos",
+    "translatedId": "Bébé dort sur le dos",
+    "src": "/symbols/interpretable/bebe_dort_sur_le_dos.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-dort-sur-le-ventre",
+    "translatedId": "Bébé dort sur le ventre",
+    "src": "/symbols/interpretable/bebe_dort_sur_le_ventre.svg"
+  },
+  {
+    "id": "symbol.intepretable.mal-aux-oreilles-bebe",
+    "translatedId": "Mal aux oreilles bébé",
+    "src": "/symbols/interpretable/mal_aux_oreilles_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.fatigue-bebe",
+    "translatedId": "Fatigue bébé",
+    "src": "/symbols/interpretable/fatigue_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.mal-a-la-gorge-bebe",
+    "translatedId": "Mal à la gorge bébé",
+    "src": "/symbols/interpretable/mal_a_la_gorge_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.toux-bebe",
+    "translatedId": "Toux bébé",
+    "src": "/symbols/interpretable/toux_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.mal-a-la-tete-bebe",
+    "translatedId": "Mal à la tête bébé",
+    "src": "/symbols/interpretable/mal_a_la_tete_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.nez-qui-coule-bebe",
+    "translatedId": "Nez qui coule bébé",
+    "src": "/symbols/interpretable/nez_qui_coule_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-marche",
+    "translatedId": "Bébé marche",
+    "src": "/symbols/interpretable/bebe_marche.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-tient-le-doigt",
+    "translatedId": "Bébé tient le doigt",
+    "src": "/symbols/interpretable/bebe_tient_le_doigt.svg"
+  },
+  {
+    "id": "symbol.intepretable.body",
+    "translatedId": "Body",
+    "src": "/symbols/interpretable/body.svg"
+  },
+  {
+    "id": "symbol.intepretable.bon-matelas",
+    "translatedId": "Bon matelas ",
+    "src": "/symbols/interpretable/bon_matelas.svg"
+  },
+  {
+    "id": "symbol.intepretable.casquette-enfant",
+    "translatedId": "Casquette enfant",
+    "src": "/symbols/interpretable/casquette_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.dessiner",
+    "translatedId": "Dessiner",
+    "src": "/symbols/interpretable/dessiner.svg"
+  },
+  {
+    "id": "symbol.intepretable.ecrire-ecriture",
+    "translatedId": "Écrire / Écriture",
+    "src": "/symbols/interpretable/ecrire_ecriture.svg"
+  },
+  {
+    "id": "symbol.intepretable.endormir-bebe",
+    "translatedId": "Endormir bébé",
+    "src": "/symbols/interpretable/endormir_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.manger-seul",
+    "translatedId": "Manger seul",
+    "src": "/symbols/interpretable/manger_seul.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfant-regarde-tv",
+    "translatedId": "Enfant regarde TV",
+    "src": "/symbols/interpretable/enfant_regarde_tv.svg"
+  },
+  {
+    "id": "symbol.intepretable.gigoteuse",
+    "translatedId": "Gigoteuse",
+    "src": "/symbols/interpretable/gigoteuse.svg"
+  },
+  {
+    "id": "symbol.intepretable.harnais-bebe",
+    "translatedId": "Harnais bébé",
+    "src": "/symbols/interpretable/harnais_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeu-d-assemblage",
+    "translatedId": "Jeu d'assemblage",
+    "src": "/symbols/interpretable/jeu_d_assemblage.svg"
+  },
+  {
+    "id": "symbol.intepretable.lit-bebe-a-grillage",
+    "translatedId": "Lit bébé à grillage",
+    "src": "/symbols/interpretable/lit_bebe_a_grillage.svg"
+  },
+  {
+    "id": "symbol.intepretable.lit-bebe-pas-encombre",
+    "translatedId": "Lit bébé pas encombré ",
+    "src": "/symbols/interpretable/lit_bebe_pas_encombre.svg"
+  },
+  {
+    "id": "symbol.intepretable.matelas-pas-trop-souple",
+    "translatedId": "Matelas pas trop souple",
+    "src": "/symbols/interpretable/matelas_pas_trop_souple.svg"
+  },
+  {
+    "id": "symbol.intepretable.mots-du-quotidien",
+    "translatedId": "Mots du quotidien",
+    "src": "/symbols/interpretable/mots_du_quotidien.svg"
+  },
+  {
+    "id": "symbol.intepretable.ne-parle-pas",
+    "translatedId": "Ne parle pas",
+    "src": "/symbols/interpretable/ne_parle_pas.svg"
+  },
+  {
+    "id": "symbol.intepretable.lit-bebe-encombre",
+    "translatedId": "Lit bébé encombré ",
+    "src": "/symbols/interpretable/lit_bebe_encombre.svg"
+  },
+  {
+    "id": "symbol.intepretable.ombre",
+    "translatedId": "Ombre",
+    "src": "/symbols/interpretable/ombre.svg"
+  },
+  {
+    "id": "symbol.intepretable.parler",
+    "translatedId": "Parler",
+    "src": "/symbols/interpretable/parler.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-de-tetine",
+    "translatedId": "Pas de tétine",
+    "src": "/symbols/interpretable/pas_de_tetine.svg"
+  },
+  {
+    "id": "symbol.intepretable.perimetre-cranien-bebe",
+    "translatedId": "Périmètre cranien bébé",
+    "src": "/symbols/interpretable/perimetre_cranien_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.pleurs-bebe",
+    "translatedId": "Pleurs bébé",
+    "src": "/symbols/interpretable/pleurs_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.poids-naissance-bebe",
+    "translatedId": "Poids naissance bébé",
+    "src": "/symbols/interpretable/poids_naissance_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.prehension",
+    "translatedId": "Préhension",
+    "src": "/symbols/interpretable/prehension.svg"
+  },
+  {
+    "id": "symbol.intepretable.prise-de-sang-enfant",
+    "translatedId": "Prise de sang enfant",
+    "src": "/symbols/interpretable/prise_de_sang_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.pyjama",
+    "translatedId": "Pyjama",
+    "src": "/symbols/interpretable/pyjama.svg"
+  },
+  {
+    "id": "symbol.intepretable.reve-cauchemar-bebe",
+    "translatedId": "Rêve cauchemar bébé",
+    "src": "/symbols/interpretable/reve_cauchemar_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.serum-physiologique",
+    "translatedId": "Sérum physiologique",
+    "src": "/symbols/interpretable/serum_physiologique.svg"
+  },
+  {
+    "id": "symbol.intepretable.faire-le-silence",
+    "translatedId": "Faire le silence",
+    "src": "/symbols/interpretable/faire_le_silence.svg"
+  },
+  {
+    "id": "symbol.intepretable.stade-de-lecture",
+    "translatedId": "Stade de lecture ",
+    "src": "/symbols/interpretable/stade_de_lecture.svg"
+  },
+  {
+    "id": "symbol.intepretable.echelle-stade-de-lecture",
+    "translatedId": "Echelle stade de lecture",
+    "src": "/symbols/interpretable/echelle_stade_de_lecture.svg"
+  },
+  {
+    "id": "symbol.intepretable.suppositoire-enfant",
+    "translatedId": "Suppositoire enfant",
+    "src": "/symbols/interpretable/suppositoire_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.taille-naissance-bebe",
+    "translatedId": "Taille naissance bébé",
+    "src": "/symbols/interpretable/taille_naissance_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.tv-chambre-enfant",
+    "translatedId": "TV chambre enfant",
+    "src": "/symbols/interpretable/tv_chambre_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.temperature-bain-enfant",
+    "translatedId": "Température bain enfant",
+    "src": "/symbols/interpretable/temperature_bain_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.temperature-lit-bebe",
+    "translatedId": "Température lit bébé",
+    "src": "/symbols/interpretable/temperature_lit_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.tetine",
+    "translatedId": "Tétine",
+    "src": "/symbols/interpretable/tetine.svg"
+  },
+  {
+    "id": "symbol.intepretable.vaccin-enfant",
+    "translatedId": "Vaccin enfant",
+    "src": "/symbols/interpretable/vaccin_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.veilleuse-bebe",
+    "translatedId": "Veilleuse bébé",
+    "src": "/symbols/interpretable/veilleuse_bebe.svg"
+  },
+  {
+    "id": "symbol.intepretable.telephone",
+    "translatedId": "Téléphone",
+    "src": "/symbols/interpretable/telephone.svg"
+  },
+  {
+    "id": "symbol.intepretable.tv-cuisine",
+    "translatedId": "TV cuisine",
+    "src": "/symbols/interpretable/tv_cuisine.svg"
+  },
+  {
+    "id": "symbol.intepretable.araignee",
+    "translatedId": "Araignée",
+    "src": "/symbols/interpretable/araignee.svg"
+  },
+  {
+    "id": "symbol.intepretable.guepe",
+    "translatedId": "Guêpe",
+    "src": "/symbols/interpretable/guepe.svg"
+  },
+  {
+    "id": "symbol.intepretable.canne",
+    "translatedId": "Canne",
+    "src": "/symbols/interpretable/canne.svg"
+  },
+  {
+    "id": "symbol.intepretable.deambulateur",
+    "translatedId": "Déambulateur",
+    "src": "/symbols/interpretable/deambulateur.svg"
+  },
+  {
+    "id": "symbol.intepretable.fauteuil-roulant-electrique",
+    "translatedId": "Fauteuil roulant éléctrique",
+    "src": "/symbols/interpretable/fauteuil_roulant_electrique.svg"
+  },
+  {
+    "id": "symbol.intepretable.fauteuil-roulant-manuel",
+    "translatedId": "Fauteuil roulant manuel",
+    "src": "/symbols/interpretable/fauteuil_roulant_manuel.svg"
+  },
+  {
+    "id": "symbol.intepretable.appareil-dentaire",
+    "translatedId": "Appareil dentaire",
+    "src": "/symbols/interpretable/appareil_dentaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.baignoire",
+    "translatedId": "Baignoire",
+    "src": "/symbols/interpretable/baignoire.svg"
+  },
+  {
+    "id": "symbol.intepretable.dent-cassee",
+    "translatedId": "Dent cassée",
+    "src": "/symbols/interpretable/dent_cassee.svg"
+  },
+  {
+    "id": "symbol.intepretable.dentier",
+    "translatedId": "Dentier",
+    "src": "/symbols/interpretable/dentier.svg"
+  },
+  {
+    "id": "symbol.intepretable.dentition-bonne",
+    "translatedId": "Dentition bonne",
+    "src": "/symbols/interpretable/dentition_bonne.svg"
+  },
+  {
+    "id": "symbol.intepretable.dents-sales",
+    "translatedId": "Dents sales",
+    "src": "/symbols/interpretable/dents_sales.svg"
+  },
+  {
+    "id": "symbol.intepretable.douche",
+    "translatedId": "Douche",
+    "src": "/symbols/interpretable/douche.svg"
+  },
+  {
+    "id": "symbol.intepretable.evier",
+    "translatedId": "Évier",
+    "src": "/symbols/interpretable/evier.svg"
+  },
+  {
+    "id": "symbol.intepretable.frequence-hygiene",
+    "translatedId": "Fréquence hygiène",
+    "src": "/symbols/interpretable/frequence_hygiene.svg"
+  },
+  {
+    "id": "symbol.intepretable.poux",
+    "translatedId": "Poux",
+    "src": "/symbols/interpretable/poux.svg"
+  },
+  {
+    "id": "symbol.intepretable.moustique",
+    "translatedId": "Moustique",
+    "src": "/symbols/interpretable/moustique.svg"
+  },
+  {
+    "id": "symbol.intepretable.rasage",
+    "translatedId": "Rasage",
+    "src": "/symbols/interpretable/rasage.svg"
+  },
+  {
+    "id": "symbol.intepretable.television",
+    "translatedId": "Télévision",
+    "src": "/symbols/interpretable/television.svg"
+  },
+  {
+    "id": "symbol.intepretable.jeux",
+    "translatedId": "Jeux",
+    "src": "/symbols/interpretable/jeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.addiction",
+    "translatedId": "Addiction",
+    "src": "/symbols/interpretable/addiction.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-puce",
+    "translatedId": "Allergie puce",
+    "src": "/symbols/interpretable/allergie_puce.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-chat",
+    "translatedId": "Allergie chat",
+    "src": "/symbols/interpretable/allergie_chat.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-chien",
+    "translatedId": "Allergie chien",
+    "src": "/symbols/interpretable/allergie_chien.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-pollen",
+    "translatedId": "Allergie pollen",
+    "src": "/symbols/interpretable/allergie_pollen.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-pollution",
+    "translatedId": "Allergie pollution",
+    "src": "/symbols/interpretable/allergie_pollution.svg"
+  },
+  {
+    "id": "symbol.intepretable.allergie-poussiere",
+    "translatedId": "Allergie poussière",
+    "src": "/symbols/interpretable/allergie_poussiere.svg"
+  },
+  {
+    "id": "symbol.intepretable.biseptine",
+    "translatedId": "Biseptine",
+    "src": "/symbols/interpretable/biseptine.svg"
+  },
+  {
+    "id": "symbol.intepretable.bleu-cutane",
+    "translatedId": "Bleu cutané",
+    "src": "/symbols/interpretable/bleu_cutane.svg"
+  },
+  {
+    "id": "symbol.intepretable.boutons-bras",
+    "translatedId": "Boutons bras",
+    "src": "/symbols/interpretable/boutons_bras.svg"
+  },
+  {
+    "id": "symbol.intepretable.brulure",
+    "translatedId": "Brulûre",
+    "src": "/symbols/interpretable/brulure.svg"
+  },
+  {
+    "id": "symbol.intepretable.couche-sale",
+    "translatedId": "Couche sale",
+    "src": "/symbols/interpretable/couche_sale.svg"
+  },
+  {
+    "id": "symbol.intepretable.coupure-cutanee",
+    "translatedId": "Coupure cutanée",
+    "src": "/symbols/interpretable/coupure_cutanee.svg"
+  },
+  {
+    "id": "symbol.intepretable.dosage-medicament",
+    "translatedId": "Dosage médicament",
+    "src": "/symbols/interpretable/dosage_medicament.svg"
+  },
+  {
+    "id": "symbol.intepretable.doliprane-liquide",
+    "translatedId": "Doliprane liquide",
+    "src": "/symbols/interpretable/doliprane_liquide.svg"
+  },
+  {
+    "id": "symbol.intepretable.douleur-aux-dents",
+    "translatedId": "Douleur aux dents",
+    "src": "/symbols/interpretable/douleur_aux_dents.svg"
+  },
+  {
+    "id": "symbol.intepretable.douleur-aux-oreilles",
+    "translatedId": "Douleur aux oreilles",
+    "src": "/symbols/interpretable/douleur_aux_oreilles.svg"
+  },
+  {
+    "id": "symbol.intepretable.douleur-aux-yeux",
+    "translatedId": "Douleur aux yeux",
+    "src": "/symbols/interpretable/douleur_aux_yeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.eczema",
+    "translatedId": "Eczéma",
+    "src": "/symbols/interpretable/eczema.svg"
+  },
+  {
+    "id": "symbol.intepretable.vomi",
+    "translatedId": "Vomi",
+    "src": "/symbols/interpretable/vomi.svg"
+  },
+  {
+    "id": "symbol.intepretable.entend-bien",
+    "translatedId": "Entend bien",
+    "src": "/symbols/interpretable/entend_bien.svg"
+  },
+  {
+    "id": "symbol.intepretable.entend-mal",
+    "translatedId": "Entend mal",
+    "src": "/symbols/interpretable/entend_mal.svg"
+  },
+  {
+    "id": "symbol.intepretable.eosine",
+    "translatedId": "Eosine",
+    "src": "/symbols/interpretable/eosine.svg"
+  },
+  {
+    "id": "symbol.intepretable.forme-des-selles",
+    "translatedId": "Forme des selles",
+    "src": "/symbols/interpretable/forme_des_selles.svg"
+  },
+  {
+    "id": "symbol.intepretable.frequence-consultation",
+    "translatedId": "Fréquence consultation",
+    "src": "/symbols/interpretable/frequence_consultation.svg"
+  },
+  {
+    "id": "symbol.intepretable.insomnie",
+    "translatedId": "Insomnie",
+    "src": "/symbols/interpretable/insomnie.svg"
+  },
+  {
+    "id": "symbol.intepretable.medicament-levure",
+    "translatedId": "Médicament levure",
+    "src": "/symbols/interpretable/medicament_levure.svg"
+  },
+  {
+    "id": "symbol.intepretable.lunettes",
+    "translatedId": "Lunettes",
+    "src": "/symbols/interpretable/lunettes.svg"
+  },
+  {
+    "id": "symbol.intepretable.medecin-traitant",
+    "translatedId": "Médecin traitant",
+    "src": "/symbols/interpretable/medecin_traitant.svg"
+  },
+  {
+    "id": "symbol.intepretable.medicament-soluble",
+    "translatedId": "Médicament soluble",
+    "src": "/symbols/interpretable/medicament_soluble.svg"
+  },
+  {
+    "id": "symbol.intepretable.medicaments",
+    "translatedId": "Médicaments",
+    "src": "/symbols/interpretable/medicaments.svg"
+  },
+  {
+    "id": "symbol.intepretable.os-brise",
+    "translatedId": "Os brisé",
+    "src": "/symbols/interpretable/os_brise.svg"
+  },
+  {
+    "id": "symbol.intepretable.pansement",
+    "translatedId": "Pansement",
+    "src": "/symbols/interpretable/pansement.svg"
+  },
+  {
+    "id": "symbol.intepretable.pipette-medicament",
+    "translatedId": "Pipette médicament",
+    "src": "/symbols/interpretable/pipette_medicament.svg"
+  },
+  {
+    "id": "symbol.intepretable.pommade",
+    "translatedId": "Pommade",
+    "src": "/symbols/interpretable/pommade.svg"
+  },
+  {
+    "id": "symbol.intepretable.prise-de-sang-adulte",
+    "translatedId": "Prise de sang adulte",
+    "src": "/symbols/interpretable/prise_de_sang_adulte.svg"
+  },
+  {
+    "id": "symbol.intepretable.prise-de-tension",
+    "translatedId": "Prise de tension",
+    "src": "/symbols/interpretable/prise_de_tension.svg"
+  },
+  {
+    "id": "symbol.intepretable.regurgitation",
+    "translatedId": "Régurgitation",
+    "src": "/symbols/interpretable/regurgitation.svg"
+  },
+  {
+    "id": "symbol.intepretable.selles-de-couleur",
+    "translatedId": "Selles de couleur",
+    "src": "/symbols/interpretable/selles_de_couleur.svg"
+  },
+  {
+    "id": "symbol.intepretable.sirop-medicament",
+    "translatedId": "Sirop médicament",
+    "src": "/symbols/interpretable/sirop_medicament.svg"
+  },
+  {
+    "id": "symbol.intepretable.test-sang-doigts",
+    "translatedId": "Test sang doigts",
+    "src": "/symbols/interpretable/test_sang_doigts.svg"
+  },
+  {
+    "id": "symbol.intepretable.urine-de-couleur",
+    "translatedId": "Urine de couleur",
+    "src": "/symbols/interpretable/urine_de_couleur.svg"
+  },
+  {
+    "id": "symbol.intepretable.vaccins-adulte",
+    "translatedId": "Vaccins adulte",
+    "src": "/symbols/interpretable/vaccins_adulte.svg"
+  },
+  {
+    "id": "symbol.intepretable.varicelle",
+    "translatedId": "Varicelle",
+    "src": "/symbols/interpretable/varicelle.svg"
+  },
+  {
+    "id": "symbol.intepretable.ventoline",
+    "translatedId": "Ventoline",
+    "src": "/symbols/interpretable/ventoline.svg"
+  },
+  {
+    "id": "symbol.intepretable.voir-bien",
+    "translatedId": "Voir bien",
+    "src": "/symbols/interpretable/voir_bien.svg"
+  },
+  {
+    "id": "symbol.intepretable.voit-mal",
+    "translatedId": "Voit mal",
+    "src": "/symbols/interpretable/voit_mal.svg"
+  },
+  {
+    "id": "symbol.intepretable.abondance-des-regles",
+    "translatedId": "Abondance des règles",
+    "src": "/symbols/interpretable/abondance_des_regles.svg"
+  },
+  {
+    "id": "symbol.intepretable.abondance-des-regles-2",
+    "translatedId": "Abondance des règles 2",
+    "src": "/symbols/interpretable/abondance_des_regles_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.accouchement-hopital",
+    "translatedId": "Accouchement hôpital",
+    "src": "/symbols/interpretable/accouchement_hopital.svg"
+  },
+  {
+    "id": "symbol.intepretable.accouchement-maison",
+    "translatedId": "Accouchement maison",
+    "src": "/symbols/interpretable/accouchement_maison.svg"
+  },
+  {
+    "id": "symbol.intepretable.ressenti-accouchement",
+    "translatedId": "Ressenti accouchement",
+    "src": "/symbols/interpretable/ressenti_accouchement.svg"
+  },
+  {
+    "id": "symbol.intepretable.cesarienne",
+    "translatedId": "Césarienne",
+    "src": "/symbols/interpretable/cesarienne.svg"
+  },
+  {
+    "id": "symbol.intepretable.accouchement-voie-basse",
+    "translatedId": "Accouchement voie basse",
+    "src": "/symbols/interpretable/accouchement_voie_basse.svg"
+  },
+  {
+    "id": "symbol.intepretable.allaitement",
+    "translatedId": "Allaitement",
+    "src": "/symbols/interpretable/allaitement.svg"
+  },
+  {
+    "id": "symbol.intepretable.allaiter-debout-allonge",
+    "translatedId": "Allaiter debout allongé",
+    "src": "/symbols/interpretable/allaiter_debout_allonge.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-au-sein",
+    "translatedId": "Bébé au sein",
+    "src": "/symbols/interpretable/bebe_au_sein.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-tete-en-bas",
+    "translatedId": "Bébé tête en bas",
+    "src": "/symbols/interpretable/bebe_tete_en_bas.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-tete-en-haut",
+    "translatedId": "Bébé tête en haut",
+    "src": "/symbols/interpretable/bebe_tete_en_haut.svg"
+  },
+  {
+    "id": "symbol.intepretable.bebe-tete-en-haut-ou-bas",
+    "translatedId": "Bébé tête en haut ou bas",
+    "src": "/symbols/interpretable/bebe_tete_en_haut_ou_bas.svg"
+  },
+  {
+    "id": "symbol.intepretable.declaration-de-grossesse",
+    "translatedId": "Déclaration de grossesse",
+    "src": "/symbols/interpretable/declaration_de_grossesse.svg"
+  },
+  {
+    "id": "symbol.intepretable.douleur-au-sein",
+    "translatedId": "Douleur au sein",
+    "src": "/symbols/interpretable/douleur_au_sein.svg"
+  },
+  {
+    "id": "symbol.intepretable.douleur-femme-enceinte",
+    "translatedId": "Douleur femme enceinte",
+    "src": "/symbols/interpretable/douleur_femme_enceinte.svg"
+  },
+  {
+    "id": "symbol.intepretable.echographie-stade-1",
+    "translatedId": "Échographie Stade 1",
+    "src": "/symbols/interpretable/echographie_stade_1.svg"
+  },
+  {
+    "id": "symbol.intepretable.echographie-stade-2",
+    "translatedId": "Échographie Stade 2",
+    "src": "/symbols/interpretable/echographie_stade_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.echographie-stade-3",
+    "translatedId": "Échographie Stade 3",
+    "src": "/symbols/interpretable/echographie_stade_3.svg"
+  },
+  {
+    "id": "symbol.intepretable.femme-enceinte",
+    "translatedId": "Femme enceinte",
+    "src": "/symbols/interpretable/femme_enceinte.svg"
+  },
+  {
+    "id": "symbol.intepretable.grossesse-desiree-2",
+    "translatedId": "Grossesse désirée 2",
+    "src": "/symbols/interpretable/grossesse_desiree_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.grossesse-non-desiree",
+    "translatedId": "Grossesse non désirée",
+    "src": "/symbols/interpretable/grossesse_non_desiree.svg"
+  },
+  {
+    "id": "symbol.intepretable.grossesse-non-desiree-2",
+    "translatedId": "Grossesse non désirée 2",
+    "src": "/symbols/interpretable/grossesse_non_desiree_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.gynecologue",
+    "translatedId": "Gynécologue",
+    "src": "/symbols/interpretable/gynecologue.svg"
+  },
+  {
+    "id": "symbol.intepretable.menopause",
+    "translatedId": "Ménopause",
+    "src": "/symbols/interpretable/menopause.svg"
+  },
+  {
+    "id": "symbol.intepretable.peridurale",
+    "translatedId": "Péridurale",
+    "src": "/symbols/interpretable/peridurale.svg"
+  },
+  {
+    "id": "symbol.intepretable.peridurale-femme-enceinte",
+    "translatedId": "Péridurale Femme enceinte",
+    "src": "/symbols/interpretable/peridurale_femme_enceinte.svg"
+  },
+  {
+    "id": "symbol.intepretable.culotte-menstruelle",
+    "translatedId": "Culotte menstruelle",
+    "src": "/symbols/interpretable/culotte_menstruelle.svg"
+  },
+  {
+    "id": "symbol.intepretable.cup-hygienique",
+    "translatedId": "Cup hygiénique",
+    "src": "/symbols/interpretable/cup_hygienique.svg"
+  },
+  {
+    "id": "symbol.intepretable.serviette-hygienique",
+    "translatedId": "Serviette hygiénique",
+    "src": "/symbols/interpretable/serviette_hygienique.svg"
+  },
+  {
+    "id": "symbol.intepretable.tampon-hygenique",
+    "translatedId": "Tampon hygénique",
+    "src": "/symbols/interpretable/tampon_hygenique.svg"
+  },
+  {
+    "id": "symbol.intepretable.tampon-hygenique-2",
+    "translatedId": "Tampon hygénique 2",
+    "src": "/symbols/interpretable/tampon_hygenique_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.couche-urinaire",
+    "translatedId": "Couche urinaire",
+    "src": "/symbols/interpretable/couche_urinaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.serviette-urinaire",
+    "translatedId": "Serviette urinaire",
+    "src": "/symbols/interpretable/serviette_urinaire.svg"
+  },
+  {
+    "id": "symbol.intepretable.regles-douloureuses",
+    "translatedId": "Règles douloureuses",
+    "src": "/symbols/interpretable/regles_douloureuses.svg"
+  },
+  {
+    "id": "symbol.intepretable.sage-femme",
+    "translatedId": "Sage-femme",
+    "src": "/symbols/interpretable/sagefemme.svg"
+  },
+  {
+    "id": "symbol.intepretable.stade-de-la-grossesse",
+    "translatedId": "Stade de la grossesse",
+    "src": "/symbols/interpretable/stade_de_la_grossesse.svg"
+  },
+  {
+    "id": "symbol.intepretable.tire-lait",
+    "translatedId": "Tire-lait",
+    "src": "/symbols/interpretable/tirelait.svg"
+  },
+  {
+    "id": "symbol.intepretable.contraception",
+    "translatedId": "Contraception",
+    "src": "/symbols/interpretable/contraception.svg"
+  },
+  {
+    "id": "symbol.intepretable.frequence-sexualite",
+    "translatedId": "Fréquence sexualité",
+    "src": "/symbols/interpretable/frequence_sexualite.svg"
+  },
+  {
+    "id": "symbol.intepretable.implant-contraceptif",
+    "translatedId": "Implant contraceptif",
+    "src": "/symbols/interpretable/implant_contraceptif.svg"
+  },
+  {
+    "id": "symbol.intepretable.ligature-des-trompes",
+    "translatedId": "Ligature des trompes",
+    "src": "/symbols/interpretable/ligature_des_trompes.svg"
+  },
+  {
+    "id": "symbol.intepretable.maladies-sexuellement-transmissibles",
+    "translatedId": "Maladies sexuellement transmissibles",
+    "src": "/symbols/interpretable/maladies_sexuellement_transmissibles.svg"
+  },
+  {
+    "id": "symbol.intepretable.pas-de-contraception",
+    "translatedId": "Pas de contraception",
+    "src": "/symbols/interpretable/pas_de_contraception.svg"
+  },
+  {
+    "id": "symbol.intepretable.pilule",
+    "translatedId": "Pilule",
+    "src": "/symbols/interpretable/pilule.svg"
+  },
+  {
+    "id": "symbol.intepretable.preservatif",
+    "translatedId": "Préservatif",
+    "src": "/symbols/interpretable/preservatif.svg"
+  },
+  {
+    "id": "symbol.intepretable.sterilet",
+    "translatedId": "Stérilet",
+    "src": "/symbols/interpretable/sterilet.svg"
+  },
+  {
+    "id": "symbol.intepretable.peluche",
+    "translatedId": "Peluche",
+    "src": "/symbols/interpretable/peluche.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfant-temoin-de-violence",
+    "translatedId": "Enfant témoin de violence",
+    "src": "/symbols/interpretable/enfant_temoin_de_violence.svg"
+  },
+  {
+    "id": "symbol.intepretable.viol",
+    "translatedId": "Viol",
+    "src": "/symbols/interpretable/viol.svg"
+  },
+  {
+    "id": "symbol.intepretable.guerre",
+    "translatedId": "Guerre",
+    "src": "/symbols/interpretable/guerre.svg"
+  },
+  {
+    "id": "symbol.intepretable.dispute",
+    "translatedId": "Dispute",
+    "src": "/symbols/interpretable/dispute.svg"
+  },
+  {
+    "id": "symbol.intepretable.sequestration",
+    "translatedId": "Séquestration",
+    "src": "/symbols/interpretable/sequestration.svg"
+  },
+  {
+    "id": "symbol.intepretable.violence-physique",
+    "translatedId": "Violence physique",
+    "src": "/symbols/interpretable/violence_physique.svg"
+  },
+  {
+    "id": "symbol.intepretable.violence-psychologique",
+    "translatedId": "Violence psychologique",
+    "src": "/symbols/interpretable/violence_psychologique.svg"
+  },
+  {
+    "id": "symbol.intepretable.violence-psychologique-2",
+    "translatedId": "Violence psychologique 2",
+    "src": "/symbols/interpretable/violence_psychologique_2.svg"
+  },
+  {
+    "id": "symbol.intepretable.violence-parent-enfant",
+    "translatedId": "Violence parent enfant",
+    "src": "/symbols/interpretable/violence_parent_enfant.svg"
+  },
+  {
+    "id": "symbol.intepretable.vol",
+    "translatedId": "Vol",
+    "src": "/symbols/interpretable/vol.svg"
+  },
+  {
+    "id": "symbol.intepretable.transport",
+    "translatedId": "Transport",
+    "src": "/symbols/interpretable/transport.svg"
+  },
+  {
+    "id": "symbol.intepretable.mode-de-garde",
+    "translatedId": "Mode de garde",
+    "src": "/symbols/interpretable/mode_de_garde.svg"
+  },
+  {
+    "id": "symbol.intepretable.emploi",
+    "translatedId": "Emploi",
+    "src": "/symbols/interpretable/emploi.svg"
+  },
+  {
+    "id": "symbol.intepretable.5-sens",
+    "translatedId": "5 sens",
+    "src": "/symbols/interpretable/5_sens.svg"
+  },
+  {
+    "id": "symbol.intepretable.partie-du-corps",
+    "translatedId": "Partie du corps",
+    "src": "/symbols/interpretable/partie_du_corps.svg"
+  },
+  {
+    "id": "symbol.intepretable.objets",
+    "translatedId": "Objets",
+    "src": "/symbols/interpretable/objets.svg"
+  },
+  {
+    "id": "symbol.intepretable.pays-region",
+    "translatedId": "Pays / région",
+    "src": "/symbols/interpretable/pays_region.svg"
+  },
+  {
+    "id": "symbol.intepretable.insalubrite",
+    "translatedId": "Insalubrité",
+    "src": "/symbols/interpretable/insalubrite.svg"
+  },
+  {
+    "id": "symbol.intepretable.alimentation",
+    "translatedId": "Alimentation",
+    "src": "/symbols/interpretable/alimentation.svg"
+  },
+  {
+    "id": "symbol.intepretable.attendre-son-tour",
+    "translatedId": "Attendre son tour",
+    "src": "/symbols/interpretable/attendre_son_tour.svg"
+  },
+  {
+    "id": "symbol.intepretable.emotions",
+    "translatedId": "Emotions",
+    "src": "/symbols/interpretable/emotions.svg"
+  },
+  {
+    "id": "symbol.intepretable.administratif",
+    "translatedId": "Administratif",
+    "src": "/symbols/interpretable/administratif.svg"
+  },
+  {
+    "id": "symbol.intepretable.autonomie",
+    "translatedId": "Autonomie",
+    "src": "/symbols/interpretable/autonomie.svg"
+  },
+  {
+    "id": "symbol.intepretable.precarite",
+    "translatedId": "Précarité",
+    "src": "/symbols/interpretable/precarite.svg"
+  },
+  {
+    "id": "symbol.intepretable.handicap",
+    "translatedId": "Handicap",
+    "src": "/symbols/interpretable/handicap.svg"
+  },
+  {
+    "id": "symbol.intepretable.violence",
+    "translatedId": "Violence",
+    "src": "/symbols/interpretable/violence.svg"
+  },
+  {
+    "id": "symbol.intepretable.general",
+    "translatedId": "Général",
+    "src": "/symbols/interpretable/general.svg"
+  },
+  {
+    "id": "symbol.intepretable.restaurants-du-coeur",
+    "translatedId": "Restaurants du coeur",
+    "src": "/symbols/interpretable/restaurants_du_coeur.svg"
+  },
+  {
+    "id": "symbol.intepretable.metropole-de-lyon",
+    "translatedId": "Métropole de Lyon",
+    "src": "/symbols/interpretable/metropole_de_lyon.svg"
+  },
+  {
+    "id": "symbol.intepretable.loisirs",
+    "translatedId": "Loisirs",
+    "src": "/symbols/interpretable/loisirs.svg"
+  },
+  {
+    "id": "symbol.intepretable.migrant",
+    "translatedId": "Migrant",
+    "src": "/symbols/interpretable/migrant.svg"
+  },
+  {
+    "id": "symbol.intepretable.rendez-vous",
+    "translatedId": "Rendez-vous",
+    "src": "/symbols/interpretable/rendezvous.svg"
+  },
+  {
+    "id": "symbol.intepretable.hygiene",
+    "translatedId": "Hygiène",
+    "src": "/symbols/interpretable/hygiene.svg"
+  },
+  {
+    "id": "symbol.intepretable.salle-de-bains",
+    "translatedId": "Salle de bains",
+    "src": "/symbols/interpretable/salle_de_bains.svg"
+  },
+  {
+    "id": "symbol.intepretable.habillage",
+    "translatedId": "Habillage",
+    "src": "/symbols/interpretable/habillage.svg"
+  },
+  {
+    "id": "symbol.intepretable.cadre-et-habitude-de-vie",
+    "translatedId": "Cadre et habitude de vie",
+    "src": "/symbols/interpretable/cadre_et_habitude_de_vie.svg"
+  },
+  {
+    "id": "symbol.intepretable.finances",
+    "translatedId": "Finances",
+    "src": "/symbols/interpretable/finances.svg"
+  },
+  {
+    "id": "symbol.intepretable.famille",
+    "translatedId": "Famille",
+    "src": "/symbols/interpretable/famille.svg"
+  },
+  {
+    "id": "symbol.intepretable.besoin",
+    "translatedId": "Besoin",
+    "src": "/symbols/interpretable/besoin.svg"
+  },
+  {
+    "id": "symbol.intepretable.sexualite",
+    "translatedId": "Sexualité",
+    "src": "/symbols/interpretable/sexualite.svg"
+  },
+  {
+    "id": "symbol.intepretable.sante-de-la-femme",
+    "translatedId": "Santé de la femme",
+    "src": "/symbols/interpretable/sante_de_la_femme.svg"
   }
 ]

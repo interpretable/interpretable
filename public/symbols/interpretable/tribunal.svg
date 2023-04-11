@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Calque_1" data-name="Calque 1" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#f3d587}.cls-1,.cls-3,.cls-4{stroke:#000;stroke-linecap:round;stroke-linejoin:round}.cls-3{fill:none}.cls-4{fill:#d6d6d6;stroke-width:2px}</style></defs><path d="M23.15 109.1h78.22v7.1H23.15zM32.21 101.99h60.11v7.1H32.21zM27.28 60.56h69.96v7.1H27.28zM35.37 67.66h12.06v34.33H35.37zM56.23 67.66h12.06v34.33H56.23zM77.1 67.66h12.06v34.33H77.1zM21.71 60.56h81.11L60.16 36.8 21.71 60.56z" class="cls-4"/><circle cx="62.26" cy="56.18" r="7.5" class="cls-4"/><circle cx="89.6" cy="31.24" r="23.95" style="fill:#fff;stroke-width:2px;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/><path d="M89.24 21.26h1.07c1.04 0 1.89.85 1.89 1.89v14.77h-4.85V23.15c0-1.04.85-1.89 1.89-1.89Z" style="fill:#e9cb61;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/><path d="M89.78 21.26v-2.42M74.16 23.82h31.52" class="cls-3"/><path d="M81.92 33.69c0 2.72-2.21 4.93-4.93 4.93s-4.93-2.21-4.93-4.93h9.86Z" class="cls-1"/><path d="m72.06 33.69 5.12-9.87 4.74 9.87" class="cls-3"/><path d="M107.14 33.69c0 2.72-2.21 4.93-4.93 4.93s-4.93-2.21-4.93-4.93h9.86Z" class="cls-1"/><path d="m97.28 33.69 5.12-9.87 4.74 9.87" class="cls-3"/><path d="M85.82 37.92h7.96v3.34h-7.96zM79.67 41.46h19v3.34h-19z" class="cls-1"/><path d="M88.05 17.69h3.5v1.15h-3.5z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3d587;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #e9cb61;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #d6d6d6;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" x="23.15" y="109.1" width="78.22" height="7.1"/>
+    <rect class="cls-4" x="32.21" y="101.99" width="60.11" height="7.1"/>
+    <rect class="cls-4" x="27.28" y="60.56" width="69.96" height="7.1"/>
+    <rect class="cls-4" x="35.37" y="67.66" width="12.06" height="34.33"/>
+    <rect class="cls-4" x="56.23" y="67.66" width="12.06" height="34.33"/>
+    <rect class="cls-4" x="77.1" y="67.66" width="12.06" height="34.33"/>
+    <polygon class="cls-4" points="21.71 60.56 102.82 60.56 60.16 36.8 21.71 60.56"/>
+    <circle class="cls-4" cx="62.26" cy="56.18" r="7.5"/>
+  </g>
+  <circle class="cls-5" cx="89.6" cy="31.24" r="23.95"/>
+  <path class="cls-2" d="m89.24,21.26h1.07c1.04,0,1.89.85,1.89,1.89v14.77h-4.85v-14.77c0-1.04.85-1.89,1.89-1.89Z"/>
+  <line class="cls-3" x1="89.78" y1="21.26" x2="89.78" y2="18.84"/>
+  <line class="cls-3" x1="74.16" y1="23.82" x2="105.68" y2="23.82"/>
+  <path class="cls-1" d="m81.92,33.69c0,2.72-2.21,4.93-4.93,4.93s-4.93-2.21-4.93-4.93h9.86Z"/>
+  <polyline class="cls-3" points="72.06 33.69 77.18 23.82 81.92 33.69"/>
+  <path class="cls-1" d="m107.14,33.69c0,2.72-2.21,4.93-4.93,4.93s-4.93-2.21-4.93-4.93h9.86Z"/>
+  <polyline class="cls-3" points="97.28 33.69 102.4 23.82 107.14 33.69"/>
+  <rect class="cls-1" x="85.82" y="37.92" width="7.96" height="3.34"/>
+  <rect class="cls-1" x="79.67" y="41.46" width="19" height="3.34"/>
+  <rect x="88.05" y="17.69" width="3.5" height="1.15"/>
+</svg>

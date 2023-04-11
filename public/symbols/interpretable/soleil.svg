@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Calque_1" data-name="Calque 1" viewBox="0 0 128 128"><defs><style>.cls-2{stroke:#000;stroke-linecap:round;stroke-width:3px;fill:#f3d587;stroke-linejoin:round}</style></defs><circle cx="41.78" cy="57.84" r="18.02" class="cls-2"/><path d="M41.78 93.18V82.01M16.79 82.83l7.9-7.9M6.44 57.84h11.17M16.79 32.86l7.9 7.9M41.78 22.51v11.17M66.77 32.86l-7.9 7.9M77.12 57.84H65.95M66.77 82.83l-7.9-7.9" class="cls-2"/><path d="M104.58 63.98c-2.59-10.44-12.02-18.2-23.28-18.2-8.1 0-15.28 4.03-19.61 10.17-1.41-.33-2.88-.49-4.39-.49-9.45 0-17.4 6.39-19.75 15.09-6.97 3.26-11.8 10.35-11.8 18.54 0 11.32 9.17 20.47 20.47 20.47l47.1-.42c13.24 0 23.98-10.74 23.98-23.98 0-9.19-5.16-17.16-12.73-21.19Z" style="stroke:#000;stroke-linecap:round;stroke-width:3px;fill:#bfe6fc;stroke-miterlimit:10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f3d587;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="65.53" cy="63.03" r="32.04"/>
+  <line class="cls-3" x1="65.53" y1="120.1" x2="65.53" y2="102.06"/>
+  <line class="cls-3" x1="25.17" y1="103.39" x2="37.93" y2="90.63"/>
+  <line class="cls-3" x1="8.46" y1="63.03" x2="26.5" y2="63.03"/>
+  <line class="cls-3" x1="25.17" y1="22.68" x2="37.93" y2="35.43"/>
+  <line class="cls-3" x1="65.53" y1="5.96" x2="65.53" y2="24"/>
+  <line class="cls-3" x1="105.88" y1="22.68" x2="93.12" y2="35.43"/>
+  <line class="cls-3" x1="122.6" y1="63.03" x2="104.55" y2="63.03"/>
+  <line class="cls-3" x1="105.88" y1="103.38" x2="93.13" y2="90.63"/>
+  <line class="cls-3" x1="105.88" y1="103.38" x2="93.12" y2="90.63"/>
+  <line class="cls-3" x1="65.53" y1="120.1" x2="65.53" y2="102.06"/>
+  <line class="cls-3" x1="25.17" y1="103.38" x2="37.93" y2="90.63"/>
+  <line class="cls-3" x1="8.46" y1="63.03" x2="26.5" y2="63.03"/>
+  <line class="cls-3" x1="25.17" y1="22.68" x2="37.93" y2="35.43"/>
+  <line class="cls-3" x1="65.53" y1="5.96" x2="65.53" y2="24"/>
+  <line class="cls-3" x1="105.88" y1="22.68" x2="93.12" y2="35.43"/>
+  <line class="cls-3" x1="122.6" y1="63.03" x2="104.56" y2="63.03"/>
+  <rect class="cls-1" x="-2805.77" y="-843.63" width="6562.35" height="1176.7"/>
+</svg>
