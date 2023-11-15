@@ -41,7 +41,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-3",
-    "translatedId": "\r\nToucher 3",
+    "translatedId": "\nToucher 3",
     "src": "/symbols/interpretable/toucher_3.svg"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-2",
-    "translatedId": "\r\nToucher 2",
+    "translatedId": "\nToucher 2",
     "src": "/symbols/interpretable/toucher_2.svg"
   },
   {
@@ -120,11 +120,6 @@
     "src": "/symbols/interpretable/cidag.svg"
   },
   {
-    "id": "symbol.intepretable.centre-medico-psychiatrique",
-    "translatedId": "Centre médico-psychiatrique",
-    "src": "/symbols/interpretable/centre_medicopsychiatrique.svg"
-  },
-  {
     "id": "symbol.intepretable.cdhs",
     "translatedId": "CDHS",
     "src": "/symbols/interpretable/cdhs.svg"
@@ -133,6 +128,11 @@
     "id": "symbol.intepretable.conseiller-conjugual",
     "translatedId": "Conseiller conjugual",
     "src": "/symbols/interpretable/conseiller_conjugual.svg"
+  },
+  {
+    "id": "symbol.intepretable.securite-sociale",
+    "translatedId": "Sécurité sociale",
+    "src": "/symbols/interpretable/securite_sociale.svg"
   },
   {
     "id": "symbol.intepretable.dentiste",
@@ -318,11 +318,6 @@
     "id": "symbol.intepretable.carte-assurance-maladie",
     "translatedId": "Carte assurance maladie",
     "src": "/symbols/interpretable/carte_assurance_maladie.svg"
-  },
-  {
-    "id": "symbol.intepretable.carte-d-identite",
-    "translatedId": "Carte d'identité",
-    "src": "/symbols/interpretable/carte_d_identite.svg"
   },
   {
     "id": "symbol.intepretable.carte-de-mutuelle",
@@ -580,11 +575,6 @@
     "src": "/symbols/interpretable/lait.svg"
   },
   {
-    "id": "symbol.intepretable.lait-de-vache-ou-lait-de-chevre",
-    "translatedId": "Lait de vache ou lait de chèvre",
-    "src": "/symbols/interpretable/lait_de_vache_ou_lait_de_chevre.svg"
-  },
-  {
     "id": "symbol.intepretable.lait-de-vache",
     "translatedId": "Lait de vache",
     "src": "/symbols/interpretable/lait_de_vache.svg"
@@ -820,9 +810,9 @@
     "src": "/symbols/interpretable/douleur_au_sein.svg"
   },
   {
-    "id": "symbol.intepretable.teleassitance",
-    "translatedId": "Téléassitance",
-    "src": "/symbols/interpretable/teleassitance.svg"
+    "id": "symbol.intepretable.teleassistance",
+    "translatedId": "Téléassistance",
+    "src": "/symbols/interpretable/teleassistance.svg"
   },
   {
     "id": "symbol.intepretable.auxiliaire-de-vie",
@@ -1023,6 +1013,11 @@
     "id": "symbol.intepretable.besoins-de-premiere-necessite",
     "translatedId": "Besoins de première nécessité",
     "src": "/symbols/interpretable/besoins_de_premiere_necessite.svg"
+  },
+  {
+    "id": "symbol.intepretable.angoisse",
+    "translatedId": "Angoisse",
+    "src": "/symbols/interpretable/angoisse.svg"
   },
   {
     "id": "symbol.intepretable.delire-et-hallucination",
@@ -1320,6 +1315,11 @@
     "src": "/symbols/interpretable/allumer_la_lumiere.svg"
   },
   {
+    "id": "symbol.intepretable.eteindre-la-lumiere",
+    "translatedId": "Éteindre la lumière",
+    "src": "/symbols/interpretable/eteindre_la_lumiere.svg"
+  },
+  {
     "id": "symbol.intepretable.mal-a-la-tete-bebe",
     "translatedId": "Mal à la tête bébé",
     "src": "/symbols/interpretable/mal_a_la_tete_bebe.svg"
@@ -1373,11 +1373,6 @@
     "id": "symbol.intepretable.pleurs-bebe",
     "translatedId": "Pleurs bébé",
     "src": "/symbols/interpretable/pleurs_bebe.svg"
-  },
-  {
-    "id": "symbol.intepretable.poussette",
-    "translatedId": "Poussette",
-    "src": "/symbols/interpretable/poussette.svg"
   },
   {
     "id": "symbol.intepretable.prise-de-sang-enfant",
@@ -1563,6 +1558,11 @@
     "id": "symbol.intepretable.barre-d-appui",
     "translatedId": "Barre d'appui",
     "src": "/symbols/interpretable/barre_d_appui.svg"
+  },
+  {
+    "id": "symbol.intepretable.chaise-de-douche",
+    "translatedId": "Chaise de douche",
+    "src": "/symbols/interpretable/chaise_de_douche.svg"
   },
   {
     "id": "symbol.intepretable.boite-aux-lettres",
@@ -1880,6 +1880,11 @@
     "src": "/symbols/interpretable/matin_apresmidi_soir.svg"
   },
   {
+    "id": "symbol.intepretable.carte-regions",
+    "translatedId": "Carte régions",
+    "src": "/symbols/interpretable/carte_regions.svg"
+  },
+  {
     "id": "symbol.intepretable.planisphere",
     "translatedId": "Planisphère",
     "src": "/symbols/interpretable/planisphere.svg"
@@ -2100,6 +2105,11 @@
     "src": "/symbols/interpretable/habite_en_caravane.svg"
   },
   {
+    "id": "symbol.intepretable.habite-a-l-hotel",
+    "translatedId": "Habite à l'hôtel",
+    "src": "/symbols/interpretable/habite_a_l_hotel.svg"
+  },
+  {
     "id": "symbol.intepretable.voisins",
     "translatedId": "Voisins",
     "src": "/symbols/interpretable/voisins.svg"
@@ -2160,11 +2170,6 @@
     "src": "/symbols/interpretable/aveugle.svg"
   },
   {
-    "id": "symbol.intepretable.symbole-d-accueil-accompagnement-et-accessibilite-handicap",
-    "translatedId": "Symbole d'accueil accompagnement et accessibilité handicap",
-    "src": "/symbols/interpretable/symbole_d_accueil_accompagnement_et_accessibilite_handicap.svg"
-  },
-  {
     "id": "symbol.intepretable.baignoire",
     "translatedId": "Baignoire",
     "src": "/symbols/interpretable/baignoire.svg"
@@ -2198,6 +2203,11 @@
     "id": "symbol.intepretable.douche",
     "translatedId": "Douche",
     "src": "/symbols/interpretable/douche.svg"
+  },
+  {
+    "id": "symbol.intepretable.douche-adulte",
+    "translatedId": "Douche adulte",
+    "src": "/symbols/interpretable/douche_adulte.svg"
   },
   {
     "id": "symbol.intepretable.evier",
@@ -2340,9 +2350,9 @@
     "src": "/symbols/interpretable/mere_et_bebe.svg"
   },
   {
-    "id": "symbol.intepretable.punaises-de-lit",
-    "translatedId": "Punaises de lit",
-    "src": "/symbols/interpretable/punaises_de_lit.svg"
+    "id": "symbol.intepretable.puce-sur-lit",
+    "translatedId": "Puce sur lit",
+    "src": "/symbols/interpretable/puce_sur_lit.svg"
   },
   {
     "id": "symbol.intepretable.acariens",
@@ -2365,9 +2375,9 @@
     "src": "/symbols/interpretable/puces.svg"
   },
   {
-    "id": "symbol.intepretable.puces-sur-lit",
-    "translatedId": "Puces sur lit",
-    "src": "/symbols/interpretable/puces_sur_lit.svg"
+    "id": "symbol.intepretable.punaises-sur-lit",
+    "translatedId": "Punaises sur lit",
+    "src": "/symbols/interpretable/punaises_sur_lit.svg"
   },
   {
     "id": "symbol.intepretable.insalubrite-electricite",
@@ -2525,6 +2535,11 @@
     "src": "/symbols/interpretable/agent_metropolitain.svg"
   },
   {
+    "id": "symbol.intepretable.maison-de-la-metropole",
+    "translatedId": "Maison de la Métropole",
+    "src": "/symbols/interpretable/maison_de_la_metropole.svg"
+  },
+  {
     "id": "symbol.intepretable.protection-maternelle-infantile",
     "translatedId": "Protection Maternelle Infantile",
     "src": "/symbols/interpretable/protection_maternelle_infantile.svg"
@@ -2653,6 +2668,11 @@
     "id": "symbol.intepretable.console-de-jeux",
     "translatedId": "Console de jeux",
     "src": "/symbols/interpretable/console_de_jeux.svg"
+  },
+  {
+    "id": "symbol.intepretable.console-de-jeux-portable",
+    "translatedId": "Console de jeux portable",
+    "src": "/symbols/interpretable/console_de_jeux_portable.svg"
   },
   {
     "id": "symbol.intepretable.fourchette",
@@ -2930,6 +2950,11 @@
     "src": "/symbols/interpretable/corps.svg"
   },
   {
+    "id": "symbol.intepretable.metropole-de-lyon",
+    "translatedId": "Métropole de Lyon",
+    "src": "/symbols/interpretable/metropole_de_lyon.svg"
+  },
+  {
     "id": "symbol.intepretable.handicap",
     "translatedId": "Handicap",
     "src": "/symbols/interpretable/handicap.svg"
@@ -2963,16 +2988,6 @@
     "id": "symbol.intepretable.general",
     "translatedId": "Général",
     "src": "/symbols/interpretable/general.svg"
-  },
-  {
-    "id": "symbol.intepretable.violence",
-    "translatedId": "Violence",
-    "src": "/symbols/interpretable/violence.svg"
-  },
-  {
-    "id": "symbol.intepretable.addiction",
-    "translatedId": "Addiction",
-    "src": "/symbols/interpretable/addiction.svg"
   },
   {
     "id": "symbol.intepretable.cadre-et-habitude-de-vie",
@@ -3150,11 +3165,6 @@
     "src": "/symbols/interpretable/vaccins_adulte.svg"
   },
   {
-    "id": "symbol.intepretable.allergie",
-    "translatedId": "Allergie",
-    "src": "/symbols/interpretable/allergie.svg"
-  },
-  {
     "id": "symbol.intepretable.douleur",
     "translatedId": "Douleur",
     "src": "/symbols/interpretable/douleur.svg"
@@ -3168,11 +3178,6 @@
     "id": "symbol.intepretable.medication",
     "translatedId": "Médication",
     "src": "/symbols/interpretable/medication.svg"
-  },
-  {
-    "id": "symbol.intepretable.probleme-cutane",
-    "translatedId": "Problème cutané",
-    "src": "/symbols/interpretable/probleme_cutane.svg"
   },
   {
     "id": "symbol.intepretable.sante-femme",
@@ -3198,6 +3203,11 @@
     "id": "symbol.intepretable.couche-sale",
     "translatedId": "Couche sale",
     "src": "/symbols/interpretable/couche_sale.svg"
+  },
+  {
+    "id": "symbol.intepretable.en-cas-de-canicule",
+    "translatedId": "En cas de canicule",
+    "src": "/symbols/interpretable/en_cas_de_canicule.svg"
   },
   {
     "id": "symbol.intepretable.hospitalise-a-l-hopital",
@@ -3343,6 +3353,11 @@
     "id": "symbol.intepretable.train",
     "translatedId": "Train",
     "src": "/symbols/interpretable/train.svg"
+  },
+  {
+    "id": "symbol.intepretable.trottinette",
+    "translatedId": "Trottinette",
+    "src": "/symbols/interpretable/trottinette.svg"
   },
   {
     "id": "symbol.intepretable.velo",

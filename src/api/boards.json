@@ -104,7 +104,7 @@
           "row": null,
           "column": null,
           "id": "5-sens_toucher-3",
-          "label": "\r\nToucher 3",
+          "label": "\nToucher 3",
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
           "image": "/symbols/interpretable/toucher_3.svg"
@@ -137,10 +137,21 @@
           "row": null,
           "column": null,
           "id": "5-sens_toucher-2",
-          "label": "\r\nToucher 2",
+          "label": "\nToucher 2",
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
           "image": "/symbols/interpretable/toucher_2.svg"
+        },
+        {
+          "board": "5-sens",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "5-sens_faire-le-silence",
+          "label": "Faire le silence",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/faire_le_silence.svg"
         }
       ]
     },
@@ -311,17 +322,6 @@
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "acteurs_centre-medico-psychiatrique",
-          "label": "Centre médico-psychiatrique",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/centre_medicopsychiatrique.svg"
-        },
-        {
-          "board": "acteurs",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
           "id": "acteurs_cdhs",
           "label": "CDHS",
           "loadBoardLabel": "",
@@ -347,7 +347,8 @@
           "id": "acteurs_securite-sociale",
           "label": "Sécurité sociale",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/securite_sociale.svg"
         },
         {
           "board": "acteurs",
@@ -777,17 +778,6 @@
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
           "image": "/symbols/interpretable/carte_assurance_maladie.svg"
-        },
-        {
-          "board": "administratif",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "administratif_carte-d-identite",
-          "label": "Carte d'identité",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/carte_d_identite.svg"
         },
         {
           "board": "administratif",
@@ -1369,8 +1359,7 @@
           "id": "alimentation_lait-de-vache-ou-lait-de-chevre",
           "label": "Lait de vache ou lait de chèvre",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/lait_de_vache_ou_lait_de_chevre.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "alimentation",
@@ -1916,11 +1905,11 @@
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "autonomie_teleassitance",
-          "label": "Téléassitance",
+          "id": "autonomie_teleassistance",
+          "label": "Téléassistance",
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/teleassitance.svg"
+          "image": "/symbols/interpretable/teleassistance.svg"
         },
         {
           "board": "autonomie",
@@ -2174,89 +2163,12 @@
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "tiles": [
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-chat",
-          "label": "Allergie chat",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_chat.svg"
-        },
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-chien",
-          "label": "Allergie chien",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_chien.svg"
-        },
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-pollen",
-          "label": "Allergie pollen",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_pollen.svg"
-        },
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-pollution",
-          "label": "Allergie pollution",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_pollution.svg"
-        },
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-poussiere",
-          "label": "Allergie poussière",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_poussiere.svg"
-        },
-        {
-          "board": "asthme-et-allergie",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "asthme-et-allergie_allergie-puce",
-          "label": "Allergie puce",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/allergie_puce.svg"
-        }
-      ]
+      "tiles": []
     },
     {
       "id": "autre",
       "name": "Autre",
       "nameKey": "Autre",
-      "author": "Interpretable",
-      "email": "interpretable@erasme.io",
-      "isPublic": true,
-      "hidden": false,
-      "tiles": []
-    },
-    {
-      "id": "besoin",
-      "name": "Besoin",
-      "nameKey": "Besoin",
       "author": "Interpretable",
       "email": "interpretable@erasme.io",
       "isPublic": true,
@@ -2533,7 +2445,8 @@
           "id": "emotions_angoisse",
           "label": "Angoisse",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/angoisse.svg"
         },
         {
           "board": "emotions",
@@ -2914,17 +2827,6 @@
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "enfant-bebe_faire-le-silence",
-          "label": "Faire le silence",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/faire_le_silence.svg"
-        },
-        {
-          "board": "enfant-bebe",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
           "id": "enfant-bebe_temperature-lit-bebe",
           "label": "Température lit bébé",
           "loadBoardLabel": "",
@@ -3214,7 +3116,8 @@
           "id": "enfant-bebe_eteindre-la-lumiere",
           "label": "Éteindre la lumière",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/eteindre_la_lumiere.svg"
         },
         {
           "board": "enfant-bebe",
@@ -3345,8 +3248,7 @@
           "id": "enfant-bebe_poussette",
           "label": "Poussette",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/poussette.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "enfant-bebe",
@@ -3771,6 +3673,17 @@
           "loadBoard": null,
           "row": null,
           "column": null,
+          "id": "equipement-du-logement_chaise-de-douche",
+          "label": "Chaise de douche",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/chaise_de_douche.svg"
+        },
+        {
+          "board": "equipement-du-logement",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
           "id": "equipement-du-logement_boite-aux-lettres",
           "label": "Boîte aux lettres",
           "loadBoardLabel": "",
@@ -3918,16 +3831,6 @@
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
           "image": "/symbols/interpretable/couple.svg"
-        },
-        {
-          "board": "famille",
-          "loadBoard": null,
-          "row": null,
-          "column": null,
-          "id": "famille_nombre-de-bebes",
-          "label": "Nombre de bébés",
-          "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
         },
         {
           "board": "famille",
@@ -4531,7 +4434,8 @@
           "id": "geographie_carte-regions",
           "label": "Carte régions",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/carte_regions.svg"
         },
         {
           "board": "geographie",
@@ -5058,7 +4962,8 @@
           "id": "habitat_habite-a-l-hotel",
           "label": "Habite à l'hôtel",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/habite_a_l_hotel.svg"
         },
         {
           "board": "habitat",
@@ -5211,8 +5116,7 @@
           "id": "handicap_symbole-d-accueil-accompagnement-et-accessibilite-handicap",
           "label": "Symbole d'accueil accompagnement et accessibilité handicap",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/symbole_d_accueil_accompagnement_et_accessibilite_handicap.svg"
+          "backgroundColor": "rgb(255, 255, 255)"
         }
       ]
     },
@@ -5310,7 +5214,8 @@
           "id": "hygiene_douche-adulte",
           "label": "Douche adulte",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/douche_adulte.svg"
         },
         {
           "board": "hygiene",
@@ -5657,11 +5562,11 @@
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "insalubrite_punaises-de-lit",
-          "label": "Punaises de lit",
+          "id": "insalubrite_puce-sur-lit",
+          "label": "Puce sur lit",
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/punaises_de_lit.svg"
+          "image": "/symbols/interpretable/puce_sur_lit.svg"
         },
         {
           "board": "insalubrite",
@@ -5712,11 +5617,11 @@
           "loadBoard": null,
           "row": null,
           "column": null,
-          "id": "insalubrite_puces-sur-lit",
-          "label": "Puces sur lit",
+          "id": "insalubrite_punaises-sur-lit",
+          "label": "Punaises sur lit",
           "loadBoardLabel": "",
           "backgroundColor": "rgb(255, 255, 255)",
-          "image": "/symbols/interpretable/puces_sur_lit.svg"
+          "image": "/symbols/interpretable/punaises_sur_lit.svg"
         },
         {
           "board": "insalubrite",
@@ -6091,6 +5996,7 @@
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
+      "image": "/symbols/interpretable/maison_de_la_metropole.svg",
       "tiles": [
         {
           "board": "metropole-de-lyon",
@@ -6111,7 +6017,8 @@
           "id": "metropole-de-lyon_maison-de-la-metropole",
           "label": "Maison de la Métropole",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/maison_de_la_metropole.svg"
         },
         {
           "board": "metropole-de-lyon",
@@ -6440,7 +6347,8 @@
           "id": "objets-du-quotidien_console-de-jeux-portable",
           "label": "Console de jeux portable",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/console_de_jeux_portable.svg"
         },
         {
           "board": "objets-du-quotidien",
@@ -7099,7 +7007,8 @@
           "id": "racine_metropole-de-lyon",
           "label": "Métropole de Lyon",
           "loadBoardLabel": "Droit et aide",
-          "backgroundColor": "rgb(187, 222, 251)"
+          "backgroundColor": "rgb(187, 222, 251)",
+          "image": "/symbols/interpretable/metropole_de_lyon.svg"
         },
         {
           "board": "racine",
@@ -7199,28 +7108,6 @@
           "loadBoardLabel": "Général",
           "backgroundColor": "rgb(187, 222, 251)",
           "image": "/symbols/interpretable/general.svg"
-        },
-        {
-          "board": "racine",
-          "loadBoard": "violence",
-          "row": null,
-          "column": null,
-          "id": "racine_violence",
-          "label": "Violence",
-          "loadBoardLabel": "Violence",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/violence.svg"
-        },
-        {
-          "board": "racine",
-          "loadBoard": "addiction",
-          "row": null,
-          "column": null,
-          "id": "racine_addiction",
-          "label": "Addiction",
-          "loadBoardLabel": "Addiction",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/addiction.svg"
         },
         {
           "board": "racine",
@@ -7365,6 +7252,72 @@
       "isPublic": true,
       "hidden": false,
       "tiles": [
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-chat",
+          "label": "Allergie chat",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_chat.svg"
+        },
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-chien",
+          "label": "Allergie chien",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_chien.svg"
+        },
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-pollen",
+          "label": "Allergie pollen",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_pollen.svg"
+        },
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-pollution",
+          "label": "Allergie pollution",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_pollution.svg"
+        },
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-poussiere",
+          "label": "Allergie poussière",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_poussiere.svg"
+        },
+        {
+          "board": "sante",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
+          "id": "sante_allergie-puce",
+          "label": "Allergie puce",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/allergie_puce.svg"
+        },
         {
           "board": "sante",
           "loadBoard": null,
@@ -7565,17 +7518,6 @@
         },
         {
           "board": "sante",
-          "loadBoard": "asthme-et-allergie",
-          "row": null,
-          "column": null,
-          "id": "sante_allergie",
-          "label": "Allergie",
-          "loadBoardLabel": "Asthme et allergie",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/allergie.svg"
-        },
-        {
-          "board": "sante",
           "loadBoard": "douleur",
           "row": null,
           "column": null,
@@ -7606,17 +7548,6 @@
           "loadBoardLabel": "Médication",
           "backgroundColor": "rgb(187, 222, 251)",
           "image": "/symbols/interpretable/medication.svg"
-        },
-        {
-          "board": "sante",
-          "loadBoard": "probleme-cutane",
-          "row": null,
-          "column": null,
-          "id": "sante_probleme-cutane",
-          "label": "Problème cutané",
-          "loadBoardLabel": "Problème cutané",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/probleme_cutane.svg"
         },
         {
           "board": "sante",
@@ -7692,7 +7623,8 @@
           "id": "sante_en-cas-de-canicule",
           "label": "En cas de canicule",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/en_cas_de_canicule.svg"
         },
         {
           "board": "sante",
@@ -7781,17 +7713,6 @@
           "loadBoardLabel": "Accouchement",
           "backgroundColor": "rgb(187, 222, 251)",
           "image": "/symbols/interpretable/accouchement.svg"
-        },
-        {
-          "board": "sante-femme",
-          "loadBoard": "allaitement",
-          "row": null,
-          "column": null,
-          "id": "sante-femme_allaitement",
-          "label": "Allaitement",
-          "loadBoardLabel": "Allaitement",
-          "backgroundColor": "rgb(187, 222, 251)",
-          "image": "/symbols/interpretable/allaitement.svg"
         },
         {
           "board": "sante-femme",
@@ -8076,7 +7997,8 @@
           "id": "transport_trottinette",
           "label": "Trottinette",
           "loadBoardLabel": "",
-          "backgroundColor": "rgb(255, 255, 255)"
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/trottinette.svg"
         },
         {
           "board": "transport",
