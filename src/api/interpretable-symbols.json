@@ -120,6 +120,11 @@
     "src": "/symbols/interpretable/cidag.svg"
   },
   {
+    "id": "symbol.intepretable.cmp",
+    "translatedId": "CMP",
+    "src": "/symbols/interpretable/cmp.svg"
+  },
+  {
     "id": "symbol.intepretable.cdhs",
     "translatedId": "CDHS",
     "src": "/symbols/interpretable/cdhs.svg"

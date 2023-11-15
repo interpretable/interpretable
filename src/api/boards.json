@@ -322,6 +322,17 @@
           "loadBoard": null,
           "row": null,
           "column": null,
+          "id": "acteurs_cmp",
+          "label": "CMP",
+          "loadBoardLabel": "",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "image": "/symbols/interpretable/cmp.svg"
+        },
+        {
+          "board": "acteurs",
+          "loadBoard": null,
+          "row": null,
+          "column": null,
           "id": "acteurs_cdhs",
           "label": "CDHS",
           "loadBoardLabel": "",
@@ -5996,7 +6007,6 @@
       "email": "interpretable@erasme.io",
       "isPublic": true,
       "hidden": false,
-      "image": "/symbols/interpretable/maison_de_la_metropole.svg",
       "tiles": [
         {
           "board": "metropole-de-lyon",
