@@ -41,7 +41,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-3",
-    "translatedId": "\nToucher 3",
+    "translatedId": "\r\nToucher 3",
     "src": "/symbols/interpretable/toucher_3.svg"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-2",
-    "translatedId": "\nToucher 2",
+    "translatedId": "\r\nToucher 2",
     "src": "/symbols/interpretable/toucher_2.svg"
   },
   {
@@ -578,6 +578,11 @@
     "id": "symbol.intepretable.lait",
     "translatedId": "Lait",
     "src": "/symbols/interpretable/lait.svg"
+  },
+  {
+    "id": "symbol.intepretable.lait-de-vache-ou-lait-de-chevre",
+    "translatedId": "Lait de vache ou lait de chèvre",
+    "src": "/symbols/interpretable/lait_de_vache_ou_lait_de_chevre.svg"
   },
   {
     "id": "symbol.intepretable.lait-de-vache",
@@ -1380,6 +1385,11 @@
     "src": "/symbols/interpretable/pleurs_bebe.svg"
   },
   {
+    "id": "symbol.intepretable.poussette",
+    "translatedId": "Poussette",
+    "src": "/symbols/interpretable/poussette.svg"
+  },
+  {
     "id": "symbol.intepretable.prise-de-sang-enfant",
     "translatedId": "Prise de sang enfant",
     "src": "/symbols/interpretable/prise_de_sang_enfant.svg"
@@ -2173,6 +2183,11 @@
     "id": "symbol.intepretable.aveugle",
     "translatedId": "Aveugle",
     "src": "/symbols/interpretable/aveugle.svg"
+  },
+  {
+    "id": "symbol.intepretable.symbole-d-accueil-accompagnement-et-accessibilite-handicap",
+    "translatedId": "Symbole d'accueil accompagnement et accessibilité handicap",
+    "src": "/symbols/interpretable/symbole_d_accueil_accompagnement_et_accessibilite_handicap.svg"
   },
   {
     "id": "symbol.intepretable.baignoire",
