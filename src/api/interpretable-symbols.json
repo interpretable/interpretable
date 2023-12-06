@@ -41,7 +41,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-3",
-    "translatedId": "\r\nToucher 3",
+    "translatedId": "\nToucher 3",
     "src": "/symbols/interpretable/toucher_3.svg"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "id": "symbol.intepretable.toucher-2",
-    "translatedId": "\r\nToucher 2",
+    "translatedId": "\nToucher 2",
     "src": "/symbols/interpretable/toucher_2.svg"
   },
   {
@@ -120,9 +120,9 @@
     "src": "/symbols/interpretable/cidag.svg"
   },
   {
-    "id": "symbol.intepretable.cmp",
-    "translatedId": "CMP",
-    "src": "/symbols/interpretable/cmp.svg"
+    "id": "symbol.intepretable.centre-medico-psychiatrique",
+    "translatedId": "Centre médico psychiatrique",
+    "src": "/symbols/interpretable/centre_medico_psychiatrique.svg"
   },
   {
     "id": "symbol.intepretable.cdhs",
@@ -1365,6 +1365,11 @@
     "src": "/symbols/interpretable/parler.svg"
   },
   {
+    "id": "symbol.intepretable.ne-parle-pas",
+    "translatedId": "Ne parle pas",
+    "src": "/symbols/interpretable/ne_parle_pas.svg"
+  },
+  {
     "id": "symbol.intepretable.pas-de-tetine",
     "translatedId": "Pas de tétine",
     "src": "/symbols/interpretable/pas_de_tetine.svg"
@@ -1525,11 +1530,6 @@
     "src": "/symbols/interpretable/lit_bebe_pas_encombre.svg"
   },
   {
-    "id": "symbol.intepretable.ne-parle-pas",
-    "translatedId": "Ne parle pas",
-    "src": "/symbols/interpretable/ne_parle_pas.svg"
-  },
-  {
     "id": "symbol.intepretable.lit-bebe-encombre",
     "translatedId": "Lit bébé encombré ",
     "src": "/symbols/interpretable/lit_bebe_encombre.svg"
@@ -1603,6 +1603,11 @@
     "id": "symbol.intepretable.tv-cuisine",
     "translatedId": "TV cuisine",
     "src": "/symbols/interpretable/tv_cuisine.svg"
+  },
+  {
+    "id": "symbol.intepretable.produits-toxiques",
+    "translatedId": "Produits toxiques",
+    "src": "/symbols/interpretable/produits_toxiques.svg"
   },
   {
     "id": "symbol.intepretable.wc",
@@ -1980,6 +1985,11 @@
     "src": "/symbols/interpretable/grossesse_desiree_2.svg"
   },
   {
+    "id": "symbol.intepretable.grossesse-desiree-1",
+    "translatedId": "Grossesse désirée 1",
+    "src": "/symbols/interpretable/grossesse_desiree_1.svg"
+  },
+  {
     "id": "symbol.intepretable.grossesse-non-desiree",
     "translatedId": "Grossesse non désirée",
     "src": "/symbols/interpretable/grossesse_non_desiree.svg"
@@ -2185,9 +2195,9 @@
     "src": "/symbols/interpretable/aveugle.svg"
   },
   {
-    "id": "symbol.intepretable.symbole-d-accueil-accompagnement-et-accessibilite-handicap",
-    "translatedId": "Symbole d'accueil accompagnement et accessibilité handicap",
-    "src": "/symbols/interpretable/symbole_d_accueil_accompagnement_et_accessibilite_handicap.svg"
+    "id": "symbol.intepretable.personne-en-situation-de-handicap-psychique",
+    "translatedId": "Personne en situation de handicap psychique",
+    "src": "/symbols/interpretable/personne_en_situation_de_handicap_psychique.svg"
   },
   {
     "id": "symbol.intepretable.baignoire",
@@ -2283,6 +2293,11 @@
     "id": "symbol.intepretable.se-laver-au-gant",
     "translatedId": "Se laver au gant",
     "src": "/symbols/interpretable/se_laver_au_gant.svg"
+  },
+  {
+    "id": "symbol.intepretable.se-laver-au-lavabo",
+    "translatedId": "Se laver au lavabo",
+    "src": "/symbols/interpretable/se_laver_au_lavabo.svg"
   },
   {
     "id": "symbol.intepretable.se-laver-a-la-douche",
@@ -3050,6 +3065,16 @@
     "src": "/symbols/interpretable/individu.svg"
   },
   {
+    "id": "symbol.intepretable.asthme-et-allergie",
+    "translatedId": "Asthme et allergie",
+    "src": "/symbols/interpretable/asthme_et_allergie.svg"
+  },
+  {
+    "id": "symbol.intepretable.addiction",
+    "translatedId": "Addiction",
+    "src": "/symbols/interpretable/addiction.svg"
+  },
+  {
     "id": "symbol.intepretable.planning-familial",
     "translatedId": "Planning familial",
     "src": "/symbols/interpretable/planning_familial.svg"
@@ -3398,6 +3423,11 @@
     "id": "symbol.intepretable.sequestration",
     "translatedId": "Séquestration",
     "src": "/symbols/interpretable/sequestration.svg"
+  },
+  {
+    "id": "symbol.intepretable.enfance-en-danger",
+    "translatedId": "Enfance en danger",
+    "src": "/symbols/interpretable/enfance_en_danger.svg"
   },
   {
     "id": "symbol.intepretable.enfant-temoin-de-violence",
