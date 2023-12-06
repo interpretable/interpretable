@@ -16,7 +16,7 @@ export const initCordovaPlugins = () => {
   console.log('now cordova is ready ');
   if (isCordova()) {
     try {
-      window.ga.startTrackerWithId('UA-152065055-1', 20);
+      window.ga.startTrackerWithId(process.env.REACT_APP_GA_TRACKING_ID, 20);
     } catch (err) {
       console.log(err.message);
     }
@@ -43,11 +43,22 @@ export const initCordovaPlugins = () => {
   }
 };
 
+export const isGoogleLoginActive = () => process.env.REACT_APP_GOOGLE_LOGIN !== 'false';
+
+export const isFacebookPluginConfigured = () =>
+  !!process.env.REACT_APP_FACEBOOK_APP_ID;
+
 const configFacebookPlugin = () => {
+  if (!isFacebookPluginConfigured()) {
+    throw new Error(
+      "Facebook plugin isn't configured add REACT_APP_FACEBOOK_APP_ID to your env file."
+    );
+  }
+
   const FACEBOOK_APP_ID =
-    process.env.REACT_APP_FACEBOOK_APP_ID || '340205533290626';
+    process.env.REACT_APP_FACEBOOK_APP_ID;
   const FACEBOOK_APP_NAME =
-    process.env.REACT_APP_FACEBOOK_APP_NAME || 'Cboard - Development';
+    process.env.REACT_APP_FACEBOOK_APP_NAME;
   window.facebookConnectPlugin.setApplicationId(
     FACEBOOK_APP_ID,
     function successFunction() {},

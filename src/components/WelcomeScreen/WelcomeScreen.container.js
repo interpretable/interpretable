@@ -20,7 +20,12 @@ import ResetPassword from '../Account/ResetPassword';
 import CboardLogo from './CboardLogo/CboardLogo.component';
 import './WelcomeScreen.css';
 import { API_URL } from '../../constants';
-import { isAndroid, isElectron } from '../../cordova-util';
+import {
+  isFacebookPluginConfigured,
+  isAndroid,
+  isElectron,
+  isGoogleLoginActive
+} from '../../cordova-util';
 import { login } from '../Account/Login/Login.actions';
 
 export class WelcomeScreen extends Component {
@@ -141,7 +146,7 @@ export class WelcomeScreen extends Component {
             </Button>
 
             <div className="WelcomeScreen__button WelcomeScreen__button">
-              {!isElectron() && (
+              {isGoogleLoginActive() && !isElectron() && (
                 <GoogleLoginButton
                   className="WelcomeScreen__button WelcomeScreen__button--google"
                   onClick={this.handleGoogleLoginClick}
@@ -150,7 +155,7 @@ export class WelcomeScreen extends Component {
                 </GoogleLoginButton>
               )}
 
-              {!isElectron() && (
+              {isFacebookPluginConfigured() && !isElectron() && false && (
                 <FacebookLoginButton
                   className="WelcomeScreen__button WelcomeScreen__button--facebook"
                   onClick={this.handleFacebookLoginClick}
@@ -172,6 +177,7 @@ export class WelcomeScreen extends Component {
           </footer>
           <div className="WelcomeScreen__links">
             <Link
+              // @todo privacy notice should be hosted on the app itself
               href="https://www.cboard.io/privacy/"
               target="_blank"
               rel="noopener noreferrer"
@@ -180,6 +186,7 @@ export class WelcomeScreen extends Component {
               <FormattedMessage {...messages.privacy} />
             </Link>
             <Link
+              // @todo ToS should be hosted on the app itself
               href="https://www.cboard.io/terms-of-use/"
               target="_blank"
               rel="noopener noreferrer"

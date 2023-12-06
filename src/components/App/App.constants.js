@@ -10,7 +10,7 @@ export const UPDATE_USER_DATA = 'cboard/App/UPDATE_USER_DATA';
 export const SET_UNLOGGED_USER_LOCATION =
   'cboard/App/SET_UNLOGGED_USER_LOCATION';
 // language constants
-export const DEFAULT_LANG = 'en-US';
+export const DEFAULT_LANG = 'fr-FR';
 export const APP_LANGS = [
   'ar-SA',
   'be-BY',
